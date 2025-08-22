@@ -1,0 +1,9 @@
+---
+{"publish":true,"created":"2025-02-14T00:41:43.483-06:00","modified":"2025-08-22T12:36:55.994-05:00","cssclasses":""}
+---
+
+God is all around us all of the time, and God can break through in unique and interesting ways. It's possible to recognize the divine experience, but if our hearts our not prepared to receive it or understand it, we run the danger of missing out on its significance. 
+## Source148
+> I bet you're familiar with [[Ken Wilber]]'s distinction between stages and states, huh? Yes. Yeah. And everything you receive, you receive at your present stage. You receive it at your present stage of development. ==And that means you can have a high state of ecstatic union, let's say with the divine, with love, but it still comes through a funnel into your wicked little soul.== Forgive me, that's from some poet. I can't remember who it was. And it's a crucial distinction because you can have big people, and by that I mean people who have been enlightened. And this is the brilliance of Buddhism, that it puts that front and center, whereas we put this poorly defined thing called salvation front and center, and it just messed up everything. Messed up everything. Because you know that I think Jesus was talking about enlightenment too.
+
+[^1]: [[Processed Literature Notes/sdi-thehomeofspiritualcompanionshipCallContemplativeSolidarity2021]]

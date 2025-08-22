@@ -1,0 +1,20 @@
+---
+{"publish":true,"created":"2024-08-29T00:03:15.778-05:00","modified":"2025-08-22T12:36:56.218-05:00","cssclasses":""}
+---
+
+1. What important questions are Christians afraid to ask out loud right now? What are the questions coming from the young and the culture at large that need to be asked about the church?
+
+I think a large fear is can we ask questions. Particularly in our Nazarene tradition, we are facing the polarization that is evident in the secular world around us. Perhaps it is more so a United States problem, as I am not familiar with other regions of the Nazarene Church. The big question that seems to come up right now is in the realm of the LGBTQ+ community and their place (or lack thereof) in our congregations. We wrestle in our own congregation with the struggle of someone who is in a same sex marriage who wants nothing more than to follow Jesus. How do we create a safe place for her to be in a posture to seek after the calling of God on her life, while also not shying away from our teachings? 
+
+The other big question, particularly here in Dallas at this moment, is why is the Church inundated with people who are committing sexual crimes against people, particularly children, and even more so, why are churches protecting these pastors? 
+
+Overall, I think the big question that a lot of Christians are, and perhaps should be, scared of reckoning with, is are we the model of what it means to be people who love God and likewise...love our neighbors as ourselves? 
+
+
+2. What is your desire for God and how does it intersect with God’s formative dream for us?
+
+My desire for God is to be so overwhelmingly obvious in my life that I have no doubts that I am walking step in step with God. I think that that dream looks like the beginning of Genesis and the creation story where God walked with Adam and Eve in the garden. There was no guessing or mistaking the presence of God amongst them, and likewise, when Jesus walked with the disciples, there was no mistaking his presence, and when Holy Spirit is working through Acts, there is no mistaking it's presence. I want the relationship with God to be one of trust, intimacy, and deep knowing. 
+
+3. What is the most challenging aspect of Soerens’ vision for the future for you? Why?
+
+I struggle with this question because I think if I was a better writer, I could have written something similar. With that being said, there is great difficulty in playing the long-waiting game. I have been a part of a community that was in the long process of building trust and working together, and it devolved very quickly and with many hurt feelings (particularly my own). It is heartbreaking to see a vision of cooperation and trusting God as Soerens' writes about, particularly the idea of a neighborhood/Parish focus, only to have it cast into darkness by people who are impatient, or are committed to doing things in a way that doesn't make sense for the context in which we find ourselves. This creates wounds and scar tissue that make trusting more difficult. One thing I used to tell that old group of people was "we can't lose hope because there is enough hopelessness here already." Sadly the group of people that met there and who are from that neighborhood, no longer do so and have moved further out of the neighborhood. 
