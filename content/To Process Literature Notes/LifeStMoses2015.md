@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Life of St. Moses the Black","created":"2023-10-26T10:59:16.242-05:00","modified":"2025-08-22T12:36:56.177-05:00","tags":["S","p","i","r","i","t","u","a","l","f","o","r","m","a","t","i","o","n","s","a","i","n","t","D",".","M","i","n"],"cssclasses":""}
+{"publish":true,"aliases":" Life of St. Moses the Black","created":"2023-10-26T10:59:16.242-05:00","modified":"2025-08-22T13:15:57.235-05:00","tags":["spiritual_formation","saint","D_Min"],"cssclasses":""}
 ---
 
 

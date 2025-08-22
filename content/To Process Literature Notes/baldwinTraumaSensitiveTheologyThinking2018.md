@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Trauma-Sensitive Theology: Thinking Theologically in the Era of Trauma","created":"2024-07-19T02:33:57.580-05:00","modified":"2025-08-22T12:36:56.100-05:00","tags":["Biblical","teaching","D.Min.","Holiness","Hospitality","NTS","Patients","Religious","life","Post-traumatic","stress","disorder","prayer","process_to_obsidian","Psychic","trauma","Psychology","Religious","Reconciliation","Spiritual","formation","Spiritual","healing"],"cssclasses":""}
+{"publish":true,"aliases":"Trauma-Sensitive Theology: Thinking Theologically in the Era of Trauma","created":"2024-07-19T02:33:57.580-05:00","modified":"2025-08-22T13:34:35.057-05:00","tags":["Biblical","teaching","D_Min","holiness","hospitality","NTS","patients","religious_life","PTSD","prayer","process_to_obsidian","psychic","trauma","psychology","religious","reconciliation","spiritual_formation","spiritual_healing"],"cssclasses":""}
 ---
 
 

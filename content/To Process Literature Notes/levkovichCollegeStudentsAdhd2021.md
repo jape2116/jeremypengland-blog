@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" College Students With Adhd and Their Reasons for Becoming Teachers Despite Negative Childhood Experiences","created":"2023-12-06T02:02:12.870-06:00","modified":"2025-08-22T12:36:56.170-05:00","tags":["D",".","M","i","n",".","d","i","s","a","b","i","l","i","t","y","e","d","u","c","a","t","i","o","n","A","D","H","D","p","r","o","c","e","s","s","_","t","o","_","o","b","s","i","d","i","a","n"],"cssclasses":""}
+{"publish":true,"aliases":" College Students With Adhd and Their Reasons for Becoming Teachers Despite Negative Childhood Experiences","created":"2023-12-06T02:02:12.870-06:00","modified":"2025-08-22T13:26:54.578-05:00","tags":["D_Min","disability","education","ADHD","process_to_obsidian"],"cssclasses":""}
 ---
 
 

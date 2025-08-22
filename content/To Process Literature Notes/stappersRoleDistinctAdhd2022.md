@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" The Role of Distinct Adhd Symptoms for Pre-Entry Entrepreneurial Behavior When Intentions Do Not Translate Into Action","created":"2023-10-29T23:42:17.333-05:00","modified":"2025-08-22T12:36:56.199-05:00","tags":["D",".","M","i","n",".","A","D","H","D","r","e","a","d","t","o","_","r","e","a","d","e","n","t","r","e","p","r","e","n","e","u","r"],"cssclasses":""}
+{"publish":true,"aliases":" The Role of Distinct Adhd Symptoms for Pre-Entry Entrepreneurial Behavior When Intentions Do Not Translate Into Action","created":"2023-10-29T23:42:17.333-05:00","modified":"2025-08-22T13:07:54.985-05:00","tags":["ADHD","entrepreneur","D_Min"],"cssclasses":""}
 ---
 
 

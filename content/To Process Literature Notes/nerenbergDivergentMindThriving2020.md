@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Divergent Mind- Thriving in a World That Wasn't Designed for You","created":"2023-10-29T23:48:01.668-05:00","modified":"2025-08-22T12:36:56.185-05:00","tags":["D.Min.","disability","ADHD","autism","neurodiversity","neurodivergent","sensory","processing","disorder","Highly","Sensitive","Person","pathologization","process_to_obsidian"],"cssclasses":""}
+{"publish":true,"aliases":"Divergent Mind- Thriving in a World That Wasn't Designed for You","created":"2023-10-29T23:48:01.668-05:00","modified":"2025-08-22T13:15:36.397-05:00","tags":["D_Min","disability","ADHD","autism","neurodiversity","neurodivergent","sensory","processing","disorder","Highly","Sensitive","Person","pathologization","process_to_obsidian"],"cssclasses":""}
 ---
 
 

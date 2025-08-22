@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2023-10-22T22:19:01.493-05:00","modified":"2025-08-22T12:36:56.158-05:00","tags":["Holiness","Spiritual","formation","prayer","D.Min.","NTS"],"cssclasses":""}
+{"publish":true,"created":"2023-10-22T22:19:01.493-05:00","modified":"2025-08-22T13:20:14.453-05:00","tags":["Holiness","Spiritual","formation","prayer","D_Min","NTS"],"cssclasses":""}
 ---
 
 

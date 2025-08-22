@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"SDI Parker Palmer 2015","created":"2025-02-13T11:19:44.864-06:00","modified":"2025-08-22T12:36:56.197-05:00","tags":["D.Min","NTS","spiritual","companionship","spiritual","direction","theology","intergenerational"],"cssclasses":""}
+{"publish":true,"aliases":"SDI Parker Palmer 2015","created":"2025-02-13T11:19:44.864-06:00","modified":"2025-08-22T13:12:12.468-05:00","tags":["NTS","spiritual","companionship","spiritual","direction","theology","intergenerational","D_Min"],"cssclasses":""}
 ---
 
 

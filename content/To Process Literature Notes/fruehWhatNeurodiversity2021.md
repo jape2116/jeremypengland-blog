@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" What is neurodiversity?","created":"2023-12-08T01:56:00.142-06:00","modified":"2025-08-22T12:36:56.132-05:00","tags":["A","D","H","D","a","u","t","i","s","m","D",".","M","i","n",".","l","e","a","r","n","i","n","g","_","d","i","s","a","b","i","l","i","t","y","n","e","u","r","o","d","i","v","e","r","s","i","t","y","r","e","a","d"],"cssclasses":""}
+{"publish":true,"aliases":" What is neurodiversity?","created":"2023-12-08T01:56:00.142-06:00","modified":"2025-08-22T12:57:45.440-05:00","tags":["ADHD","autism","D_Min","disability","neurodiversity"],"cssclasses":""}
 ---
 
 

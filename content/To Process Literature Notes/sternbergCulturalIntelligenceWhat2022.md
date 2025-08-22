@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Cultural Intelligence: What Is It and How Can It Effectively Be Measured?","created":"2025-02-28T01:54:48.665-06:00","modified":"2025-08-22T12:36:56.200-05:00","tags":["NTS","to_read","D.Min","Cultural","Intelligence","Psychology"],"cssclasses":""}
+{"publish":true,"aliases":"Cultural Intelligence: What Is It and How Can It Effectively Be Measured?","created":"2025-02-28T01:54:48.665-06:00","modified":"2025-08-22T13:29:06.259-05:00","tags":["NTS","to_read","D_Min","cultural_intelligence","psychology"],"cssclasses":""}
 ---
 
 

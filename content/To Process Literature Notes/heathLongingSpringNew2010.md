@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Longing for Spring: A New Vision for Wesleyan Community","created":"2024-11-01T02:29:36.074-05:00","modified":"2025-08-22T12:36:56.163-05:00","tags":["Christian","life","Church","Church","renewal","D.Min","Holiness","Methodist","Monastic","and","religious","life","NTS","read","spiritual","formation","Wesley","John"],"cssclasses":""}
+{"publish":true,"aliases":"Longing for Spring: A New Vision for Wesleyan Community","created":"2024-11-01T02:29:36.074-05:00","modified":"2025-08-22T13:19:24.437-05:00","tags":["Christian_life","Church","renewal","D_Min","Holiness","Methodist","monastic_life","NTS","read","spiritual","formation","John_Wesley"],"cssclasses":""}
 ---
 
 

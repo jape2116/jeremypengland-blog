@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Mending the Divides: Creative Love in a Conflicted World Mending the Divide","created":"2025-02-08T01:36:51.587-06:00","modified":"2025-08-22T12:36:56.201-05:00","tags":["Biblical","teaching","D.Min.","Holiness","Hospitality","NTS","prayer","process_to_obsidian","Reconciliation","Spiritual","formation"],"cssclasses":""}
+{"publish":true,"aliases":"Mending the Divides: Creative Love in a Conflicted World Mending the Divide","created":"2025-02-08T01:36:51.587-06:00","modified":"2025-08-22T13:28:35.704-05:00","tags":["biblical_teaching","D_Min","holiness","hospitality","NTS","prayer","process_to_obsidian","reconciliation","spiritual_formation"],"cssclasses":""}
 ---
 
 

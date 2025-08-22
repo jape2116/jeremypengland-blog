@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Ableism Is Still a Core Part of Church Spaces. Here’s How to Change It","created":"2024-05-09T12:35:28.731-05:00","modified":"2025-08-22T12:36:56.169-05:00","tags":["D",".","M","i","n",".","E","d","u","c","a","t","i","o","n","U","n","i","v","e","r","s","a","l","D","e","s","i","g","n","i","n","c","l","u","s","i","v","e","D","i","s","a","b","i","l","i","t","y","a","w","a","r","e","n","e","s","s","D","i","v","e","r","s","i","t","y","i","n","t","h","e","w","o","r","k","p","l","a","c","e","E","m","p","l","o","y","m","e","n","t","P","e","o","p","l","e","w","i","t","h","d","i","s","a","b","i","l","i","t","i","e","s","p","r","o","c","e","s","s","_","t","o","_","o","b","s","i","d","i","a","n","A","b","l","e","i","s","m"],"cssclasses":""}
+{"publish":true,"aliases":" Ableism Is Still a Core Part of Church Spaces. Here’s How to Change It","created":"2024-05-09T12:35:28.731-05:00","modified":"2025-08-22T13:30:34.790-05:00","tags":["D_Min","education","universal_design","inclusive","disability_awareness","diversity_in_the_workplace","employment","people_with_disabilities","process_to_obsidian","ableism"],"cssclasses":""}
 ---
 
 

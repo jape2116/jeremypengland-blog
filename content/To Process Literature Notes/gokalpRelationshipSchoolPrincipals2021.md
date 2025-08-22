@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"The Relationship Between School Principals' Cultural Intelligence Level and Teachers' Job Satisfaction and Intention to Leave the Job","created":"2025-02-28T01:45:12.891-06:00","modified":"2025-08-22T12:36:56.138-05:00","tags":["NTS","education","D.Min","Cultural","Intelligence"],"cssclasses":""}
+{"publish":true,"aliases":"The Relationship Between School Principals' Cultural Intelligence Level and Teachers' Job Satisfaction and Intention to Leave the Job","created":"2025-02-28T01:45:12.891-06:00","modified":"2025-08-22T13:08:37.849-05:00","tags":["NTS","education","D_Min","Cultural","Intelligence"],"cssclasses":""}
 ---
 
 

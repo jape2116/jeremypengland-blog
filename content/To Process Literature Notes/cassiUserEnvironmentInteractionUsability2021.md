@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" User-Environment Interaction: The Usability Model for Universal Design Assessment","created":"2025-08-21T02:57:51.732-05:00","modified":"2025-08-22T12:36:56.109-05:00","tags":["D",".","M","i","n",".","N","T","S","U","n","i","v","e","r","s","a","l","D","e","s","i","g","n","p","r","o","c","e","s","s","_","t","o","_","o","b","s","i","d","i","a","n","I","n","c","l","u","s","i","o","n","a","r","c","h","i","t","e","c","t","u","r","e"],"cssclasses":""}
+{"publish":true,"aliases":" User-Environment Interaction: The Usability Model for Universal Design Assessment","created":"2025-08-21T02:57:51.732-05:00","modified":"2025-08-22T13:14:44.602-05:00","tags":["D_Min","NTS","universal_design","process_to_obsidian","inclusion","architecture"],"cssclasses":""}
 ---
 
 

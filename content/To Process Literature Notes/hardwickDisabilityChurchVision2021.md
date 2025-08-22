@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Disability and the Church: A Vision for Diversity and Inclusion","created":"2025-08-20T14:16:54.104-05:00","modified":"2025-08-22T12:36:56.161-05:00","tags":["d","i","s","a","b","i","l","i","t","y","N","T","S","r","e","a","d","D",".","M","i","n","a","c","c","e","s","s","i","b","i","l","i","t","y","D","i","s","a","b","i","l","i","t","i","e","s","M","i","n","o","r","i","t","i","e","s"],"cssclasses":""}
+{"publish":true,"aliases":" Disability and the Church: A Vision for Diversity and Inclusion","created":"2025-08-20T14:16:54.104-05:00","modified":"2025-08-22T12:56:29.112-05:00","tags":["disability","NTS","D_Min","accessibility","disabilities","minorities"],"cssclasses":""}
 ---
 
 

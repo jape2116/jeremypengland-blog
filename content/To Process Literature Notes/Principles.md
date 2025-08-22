@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" The 7 Principles","created":"2025-06-17T15:57:38.146-05:00","modified":"2025-08-22T12:36:56.189-05:00","tags":["d","i","s","a","b","i","l","i","t","y","N","T","S","t","o","_","r","e","a","d","D",".","M","i","n","a","c","c","e","s","s","i","b","i","l","i","t","y","u","n","i","v","e","s","a","l","d","e","s","i","g","n"],"cssclasses":""}
+{"publish":true,"aliases":" The 7 Principles","created":"2025-06-17T15:57:38.146-05:00","modified":"2025-08-22T13:09:14.992-05:00","tags":["disability","NTS","D_Min","accessibility","univesal_design"],"cssclasses":""}
 ---
 
 

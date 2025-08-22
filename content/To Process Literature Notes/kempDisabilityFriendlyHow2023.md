@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Disability Friendly: How to Move From Clueless to Inclusive","created":"2024-11-26T18:31:09.042-06:00","modified":"2025-08-22T12:36:56.168-05:00","tags":["D.Min.","Education","Universal","Design","inclusive","Business","enterprises","owned","by","people","with","disabilities","Disability","awareness","Diversity","in","the","workplace","Employment","People","with","disabilities","process_to_obsidian"],"cssclasses":""}
+{"publish":true,"aliases":"Disability Friendly: How to Move From Clueless to Inclusive","created":"2024-11-26T18:31:09.042-06:00","modified":"2025-08-22T13:33:16.226-05:00","tags":["D_Min","education","universal_design","inclusive","business","disabilities","disability_awareness","diversity_in_the_workplace","employment","diversity","process_to_obsidian"],"cssclasses":""}
 ---
 
 

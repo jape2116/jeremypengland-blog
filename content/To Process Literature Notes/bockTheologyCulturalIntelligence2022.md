@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" A Theology of Cultural Intelligence","created":"2025-02-28T01:32:00.593-06:00","modified":"2025-08-22T12:36:56.107-05:00","tags":["N","T","S","t","o","_","r","e","a","d","D",".","M","i","n","C","u","l","t","u","r","a","l","I","n","t","e","l","l","i","g","e","n","c","e","C","h","r","i","s","t","i","a","n","g","o","s","p","e","l","C","h","r","i","s","t","i","a","n","i","t","y","a","n","d","c","u","l","t","u","r","e","R","e","c","o","n","c","i","l","i","a","t","i","o","n","(","T","h","e","o","l","o","g","y",")","S","o","c","i","e","t","y","a","n","d","c","h","u","r","c","h","C","u","l","t","u","r","e"],"cssclasses":""}
+{"publish":true,"aliases":" A Theology of Cultural Intelligence","created":"2025-02-28T01:32:00.593-06:00","modified":"2025-08-22T13:36:00.158-05:00","tags":["NTS","to_read","D_Min","cultural_intelligence","Christian","Christianity_and_culture","reconciliation","theology","society_and_church","culture"],"cssclasses":""}
 ---
 
 

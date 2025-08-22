@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" SDI Learns From...The Rev Mary Earle","created":"2025-02-14T10:03:06.963-06:00","modified":"2025-08-22T12:36:56.196-05:00","tags":["D",".","M","i","n","N","T","S","s","p","i","r","i","t","u","a","l","c","o","m","p","a","n","i","o","n","s","h","i","p","s","p","i","r","i","t","u","a","l","d","i","r","e","c","t","i","o","n","t","h","e","o","l","o","g","y"],"cssclasses":""}
+{"publish":true,"aliases":" SDI Learns From...The Rev Mary Earle","created":"2025-02-14T10:03:06.963-06:00","modified":"2025-08-22T13:13:49.163-05:00","tags":["D_Min","NTS","spiritual_companionship","spiritual_direction","theology"],"cssclasses":""}
 ---
 
 

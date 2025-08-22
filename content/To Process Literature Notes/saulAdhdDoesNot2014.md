@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"ADHD Does Not Exist - The Truth About Attention Deficit and Hyperactivity Disorder","created":"2023-12-07T22:55:22.643-06:00","modified":"2025-08-22T12:36:56.192-05:00","tags":["D.Min.","ADHD","neurodiversity","neurodivergent","controversial","process_to_obsidian"],"cssclasses":""}
+{"publish":true,"aliases":"ADHD Does Not Exist - The Truth About Attention Deficit and Hyperactivity Disorder","created":"2023-12-07T22:55:22.643-06:00","modified":"2025-08-22T13:14:41.408-05:00","tags":["D_Min","ADHD","neurodiversity","neurodivergent","controversial","process_to_obsidian"],"cssclasses":""}
 ---
 
 

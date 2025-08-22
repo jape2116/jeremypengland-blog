@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Vulnerable Communion: A Theology of Disability and Hospitality","created":"2025-08-21T03:05:46.224-05:00","modified":"2025-08-22T12:36:56.191-05:00","tags":["d","i","s","a","b","i","l","i","t","y","N","T","S","t","h","e","o","l","o","g","y","D",".","M","i","n","a","c","c","e","s","s","i","b","i","l","i","t","y","D","i","s","a","b","i","l","i","t","i","e","s","M","i","n","o","r","i","t","i","e","s","p","r","o","c","e","s","s","_","t","o","_","o","b","s","i","d","i","a","n","i","m","p","a","i","r","e","m","e","n","t","s"],"cssclasses":""}
+{"publish":true,"aliases":" Vulnerable Communion: A Theology of Disability and Hospitality","created":"2025-08-21T03:05:46.224-05:00","modified":"2025-08-22T13:33:41.822-05:00","tags":["disability","NTS","theology","D_Min","accessibility","disabilities","minorities","process_to_obsidian","impairements"],"cssclasses":""}
 ---
 
 

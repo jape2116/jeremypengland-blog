@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Intellectual Disability and Spiritual Development","created":"2023-10-29T23:06:34.355-05:00","modified":"2025-08-22T12:36:56.205-05:00","tags":["D",".","M","i","n",".","d","i","s","a","b","i","l","i","t","y","r","e","a","d","t","o","_","r","e","a","d","s","p","i","r","i","t","u","a","l","f","o","r","m","a","t","i","o","n"],"cssclasses":""}
+{"publish":true,"aliases":" Intellectual Disability and Spiritual Development","created":"2023-10-29T23:06:34.355-05:00","modified":"2025-08-22T13:16:26.651-05:00","tags":["D_Min","disability","read","to_read","spiritual_formation"],"cssclasses":""}
 ---
 
 

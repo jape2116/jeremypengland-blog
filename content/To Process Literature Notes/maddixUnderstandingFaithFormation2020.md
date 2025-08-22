@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Understanding Faith Formation: Theological, Congregational, and Global Dimensions","created":"2024-07-19T02:35:06.778-05:00","modified":"2025-08-22T12:36:56.179-05:00","tags":["Biblical","teaching","D.Min.","Holiness","Hospitality","NTS","prayer","process_to_obsidian","Reconciliation","Spiritual","formation"],"cssclasses":""}
+{"publish":true,"aliases":"Understanding Faith Formation: Theological, Congregational, and Global Dimensions","created":"2024-07-19T02:35:06.778-05:00","modified":"2025-08-22T13:24:52.222-05:00","tags":["Biblical","teaching","D_Min","Holiness","Hospitality","NTS","prayer","process_to_obsidian","Reconciliation","Spiritual_formation"],"cssclasses":""}
 ---
 
 

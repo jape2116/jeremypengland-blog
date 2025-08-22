@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Spirituality: A Brief History","created":"2024-10-06T15:25:38.620-05:00","modified":"2025-08-22T12:36:56.198-05:00","tags":["NTS","History","spiritual","formation","D.Min","process_to_obsidian"],"cssclasses":""}
+{"publish":true,"aliases":"Spirituality: A Brief History","created":"2024-10-06T15:25:38.620-05:00","modified":"2025-08-22T13:08:28.654-05:00","tags":["NTS","History","spiritual","formation","D_Min","process_to_obsidian"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" The Church and Persons With Handicaps","created":"2024-05-09T12:33:40.492-05:00","modified":"2025-08-22T12:36:56.187-05:00","tags":["d","i","s","a","b","i","l","i","t","y","N","T","S","D",".","M","i","n","a","c","c","e","s","s","i","b","i","l","i","t","y","D","i","s","a","b","i","l","i","t","i","e","s","M","i","n","o","r","i","t","i","e","s","p","r","o","c","e","s","s","_","t","o","_","o","b","s","i","d","i","a","n","i","m","p","a","i","r","e","m","e","n","t","s"],"cssclasses":""}
+{"publish":true,"aliases":" The Church and Persons With Handicaps","created":"2024-05-09T12:33:40.492-05:00","modified":"2025-08-22T13:17:00.033-05:00","tags":["disability","NTS","D_Min","accessibility","disabilities","minorities","process_to_obsidian","impairements"],"cssclasses":""}
 ---
 
 

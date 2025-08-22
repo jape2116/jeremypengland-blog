@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2023-10-22T22:18:49.861-05:00","modified":"2025-08-22T12:36:56.167-05:00","tags":["prayer","D.Min.","NTS","mysticism"],"cssclasses":""}
+{"publish":true,"created":"2023-10-22T22:18:49.861-05:00","modified":"2025-08-22T13:28:05.447-05:00","tags":["prayer","D_Min","NTS","mysticism"],"cssclasses":""}
 ---
 
 

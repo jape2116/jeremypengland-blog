@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Introduction to the Devout Life","created":"2024-10-21T00:07:35.045-05:00","modified":"2025-08-22T12:36:56.114-05:00","tags":["NTS","Spiritual","formation","Catholic","saint","D.Min","process_to_obsidian","spiritual","life","spirituality"],"cssclasses":""}
+{"publish":true,"aliases":"Introduction to the Devout Life","created":"2024-10-21T00:07:35.045-05:00","modified":"2025-08-22T13:29:30.056-05:00","tags":["NTS","spiritual_formation","Catholic","saint","D_Min","process_to_obsidian","spiritual_life","spirituality"],"cssclasses":""}
 ---
 
 

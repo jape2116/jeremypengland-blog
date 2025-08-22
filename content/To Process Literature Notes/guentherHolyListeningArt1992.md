@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Holy Listening: The Art of Spiritual Direction","created":"2025-02-04T23:57:58.580-06:00","modified":"2025-08-22T12:36:56.141-05:00","tags":["D.Min","Philosophy","process_to_obsidian","Religious","life","Spiritual","direction","Trinity","Women"],"cssclasses":""}
+{"publish":true,"aliases":"Holy Listening: The Art of Spiritual Direction","created":"2025-02-04T23:57:58.580-06:00","modified":"2025-08-22T13:20:39.051-05:00","tags":["D_Min","philosophy","process_to_obsidian","religious","life","spiritual","direction","Trinity","women"],"cssclasses":""}
 ---
 
 

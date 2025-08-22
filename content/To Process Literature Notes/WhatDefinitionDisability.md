@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" What is the definition of disability under the ADA? | ADA National Network","created":"2024-05-16T22:55:07.651-05:00","modified":"2025-08-22T12:36:56.206-05:00","tags":["A","D","A","D",".","M","i","n","d","i","s","a","b","i","l","i","t","y","l","a","w","N","T","S"],"cssclasses":""}
+{"publish":true,"aliases":" What is the definition of disability under the ADA? | ADA National Network","created":"2024-05-16T22:55:07.651-05:00","modified":"2025-08-22T13:17:27.814-05:00","tags":["ADA","D_Min","disability","law","NTS"],"cssclasses":""}
 ---
 
 

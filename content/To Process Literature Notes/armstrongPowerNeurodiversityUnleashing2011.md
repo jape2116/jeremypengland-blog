@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"The Power of Neurodiversity: Unleashing the Advantages of Your Differently Wired Brain","created":"2023-12-08T10:31:10.591-06:00","modified":"2025-08-22T12:36:56.099-05:00","tags":["ADHD","to_read","autism","neurodiversity","neurodivergent","Neurodiversity","dyslexia"],"cssclasses":""}
+{"publish":true,"aliases":"The Power of Neurodiversity: Unleashing the Advantages of Your Differently Wired Brain","created":"2023-12-08T10:31:10.591-06:00","modified":"2025-08-22T13:31:13.398-05:00","tags":["ADHD","to_read","autism","neurodiversity","neurodivergent","dyslexia"],"cssclasses":""}
 ---
 
 

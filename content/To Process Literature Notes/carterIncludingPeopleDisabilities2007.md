@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Including People With Disabilities in Faith Communities: A Guide for Service Providers, Families, & Congregations","created":"2025-08-21T02:56:57.880-05:00","modified":"2025-08-22T12:36:56.108-05:00","tags":["d","i","s","a","b","i","l","i","t","y","N","T","S","D",".","M","i","n","a","c","c","e","s","s","i","b","i","l","i","t","y","D","i","s","a","b","i","l","i","t","i","e","s","p","r","o","c","e","s","s","_","t","o","_","o","b","s","i","d","i","a","n","i","m","p","a","i","r","e","m","e","n","t","s","g","u","i","d","e","c","o","m","m","u","n","i","t","y"],"cssclasses":""}
+{"publish":true,"aliases":" Including People With Disabilities in Faith Communities: A Guide for Service Providers, Families, & Congregations","created":"2025-08-21T02:56:57.880-05:00","modified":"2025-08-22T13:27:47.689-05:00","tags":["disability","NTS","D_Min","accessibility","disabilities","process_to_obsidian","impairements","guide","community"],"cssclasses":""}
 ---
 
 

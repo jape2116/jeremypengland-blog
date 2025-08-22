@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" St. Moses the Black A Patron Saint of Non-Violence","created":"2023-10-26T11:00:34.266-05:00","modified":"2025-08-22T12:36:56.189-05:00","tags":["S","p","i","r","i","t","u","a","l","f","o","r","m","a","t","i","o","n","s","a","i","n","t","D",".","M","i","n","p","a","c","i","f","i","s","m","p","a","c","i","f","i","s","t"],"cssclasses":""}
+{"publish":true,"aliases":" St. Moses the Black A Patron Saint of Non-Violence","created":"2023-10-26T11:00:34.266-05:00","modified":"2025-08-22T13:25:55.547-05:00","tags":["spiritual_formation","saint","D_Min","pacifism","pacifist"],"cssclasses":""}
 ---
 
 

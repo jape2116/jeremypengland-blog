@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Is My University Inclusive? Towards a Multi-Domain Instrument for Sustainable Environments in Higher Education","created":"2024-05-09T00:56:16.415-05:00","modified":"2025-08-22T12:36:56.106-05:00","tags":["D",".","M","i","n",".","N","T","S","U","n","i","v","e","r","s","a","l","D","e","s","i","g","n","p","r","o","c","e","s","s","_","t","o","_","o","b","s","i","d","i","a","n","h","i","g","h","e","r","e","d","u","c","a","t","i","o","n","i","n","c","l","u","s","i","o","n","e","l","e","a","r","n","i","n","g","i","n","t","e","r","m","o","d","a","l","e","d","u","c","a","t","i","o","n","c","l","o","s","e","d","c","a","p","t","i","o","n","i","n","g","s","u","b","t","i","t","l","e","s"],"cssclasses":""}
+{"publish":true,"aliases":" Is My University Inclusive? Towards a Multi-Domain Instrument for Sustainable Environments in Higher Education","created":"2024-05-09T00:56:16.415-05:00","modified":"2025-08-22T13:40:35.317-05:00","tags":["D_Min","NTS","universal_design","process_to_obsidian","higher_education","inclusion","elearning","intermodal_education","closed_captioning","subtitles"],"cssclasses":""}
 ---
 
 

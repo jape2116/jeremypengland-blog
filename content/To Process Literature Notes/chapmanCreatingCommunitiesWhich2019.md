@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Creating Communities in Which Everyone Belongs: A Case Study in Supported Decision-Making","created":"2025-08-21T02:58:13.671-05:00","modified":"2025-08-22T12:36:56.111-05:00","tags":["D",".","M","i","n",".","E","d","u","c","a","t","i","o","n","U","n","i","v","e","r","s","a","l","D","e","s","i","g","n","i","n","c","l","u","s","i","v","e","p","r","o","c","e","s","s","_","t","o","_","o","b","s","i","d","i","a","n"],"cssclasses":""}
+{"publish":true,"aliases":" Creating Communities in Which Everyone Belongs: A Case Study in Supported Decision-Making","created":"2025-08-21T02:58:13.671-05:00","modified":"2025-08-22T13:26:24.785-05:00","tags":["D_Min","education","universal_design","inclusive","process_to_obsidian"],"cssclasses":""}
 ---
 
 

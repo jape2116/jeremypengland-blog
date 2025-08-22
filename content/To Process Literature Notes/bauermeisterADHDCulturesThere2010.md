@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"ADHD Across Cultures: Is There Evidence for a Bidimensional Organization of Symptoms?","created":"2025-02-28T02:06:35.082-06:00","modified":"2025-08-22T12:36:56.104-05:00","tags":["NTS","ADHD","to_read","neurodiversity","D.Min","Cultural","Intelligence","Culture"],"cssclasses":""}
+{"publish":true,"aliases":"ADHD Across Cultures: Is There Evidence for a Bidimensional Organization of Symptoms?","created":"2025-02-28T02:06:35.082-06:00","modified":"2025-08-22T13:41:04.650-05:00","tags":["NTS","ADHD","to_read","neurodiversity","D_Min","cultural_intelligence","culture"],"cssclasses":""}
 ---
 
 

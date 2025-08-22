@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2023-10-23T11:25:19.570-05:00","modified":"2025-08-22T12:36:56.197-05:00","tags":["L","e","c","t","u","r","e","N","B","C","N","a","z","a","r","e","n","e"],"cssclasses":""}
+{"publish":true,"created":"2023-10-23T11:25:19.570-05:00","modified":"2025-08-22T13:27:16.384-05:00","tags":["Lecture","NBC","Nazarene"],"cssclasses":""}
 ---
 
 

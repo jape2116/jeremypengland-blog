@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"SDI Encounters - Conversation on Spiritual Companionship Through Queer Lenses","created":"2025-02-13T11:21:55.775-06:00","modified":"2025-08-22T12:36:56.194-05:00","tags":["D.Min","NTS","queer","spiritual","companionship","spiritual","direction","theology"],"cssclasses":""}
+{"publish":true,"aliases":"SDI Encounters - Conversation on Spiritual Companionship Through Queer Lenses","created":"2025-02-13T11:21:55.775-06:00","modified":"2025-08-22T13:15:28.224-05:00","tags":["D_Min","NTS","queer","spiritual","companionship","spiritual","direction","theology"],"cssclasses":""}
 ---
 
 

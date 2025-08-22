@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" How Race and Culture Can Impact an ADHD Diagnosis","created":"2025-02-28T02:02:15.237-06:00","modified":"2025-08-22T12:36:56.134-05:00","tags":["N","T","S","A","D","H","D","n","e","u","r","o","d","i","v","e","r","s","i","t","y","D",".","M","i","n","C","u","l","t","u","r","a","l","I","n","t","e","l","l","i","g","e","n","c","e"],"cssclasses":""}
+{"publish":true,"aliases":" How Race and Culture Can Impact an ADHD Diagnosis","created":"2025-02-28T02:02:15.237-06:00","modified":"2025-08-22T13:32:00.888-05:00","tags":["NTS","ADHD","neurodiversity","D_Min","cultural_intelligence"],"cssclasses":""}
 ---
 
 

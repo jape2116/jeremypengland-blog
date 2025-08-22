@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Spiritual Direction and the Encounter With God: A Theological Inquiry","created":"2025-05-16T16:03:47.838-05:00","modified":"2025-08-22T12:36:56.103-05:00","tags":["D.Min","process_to_obsidian","Spiritual","direction","Trinity","Philosophy"],"cssclasses":""}
+{"publish":true,"aliases":"Spiritual Direction and the Encounter With God: A Theological Inquiry","created":"2025-05-16T16:03:47.838-05:00","modified":"2025-08-22T13:39:11.941-05:00","tags":["D_Min","process_to_obsidian","spiritual","direction","Trinity","philosophy"],"cssclasses":""}
 ---
 
 

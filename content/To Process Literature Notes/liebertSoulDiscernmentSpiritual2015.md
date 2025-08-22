@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"The Soul of Discernment: A Spiritual Practice for Communities and Institutions","created":"2025-04-17T14:14:24.057-05:00","modified":"2025-08-22T12:36:56.176-05:00","tags":["NTS","Religious","aspects","Christianity","spiritual","formation","D.Min","Decision","making","Discernment","(Christian","theology)","Social","aspects","Community"],"cssclasses":""}
+{"publish":true,"aliases":"The Soul of Discernment: A Spiritual Practice for Communities and Institutions","created":"2025-04-17T14:14:24.057-05:00","modified":"2025-08-22T13:38:01.733-05:00","tags":["NTS","religious","Christianity","spiritual","formation","D_Min","decision_making","discernment","theology","community"],"cssclasses":""}
 ---
 
 

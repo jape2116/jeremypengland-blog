@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Saint Moses the Black - the Repentant Murderer (The Reliquary)","created":"2023-10-27T17:46:26.897-05:00","modified":"2025-08-22T12:36:56.202-05:00","tags":["D",".","M","i","n",".","S","p","i","r","i","t","u","a","l","f","o","r","m","a","t","i","o","n","S","p","i","r","i","t","u","a","l","l","i","f","e","s","a","i","n","t"],"cssclasses":""}
+{"publish":true,"aliases":" Saint Moses the Black - the Repentant Murderer (The Reliquary)","created":"2023-10-27T17:46:26.897-05:00","modified":"2025-08-22T13:38:19.147-05:00","tags":["D_Min","spiritual_formation","spiritual_life","saint"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" CatholicSaints.Info » Blog Archive » Saint Moses the Black","created":"2023-10-26T16:31:00.217-05:00","modified":"2025-08-22T12:36:56.109-05:00","tags":["D",".","M","i","n",".","S","p","i","r","i","t","u","a","l","f","o","r","m","a","t","i","o","n","s","a","i","n","t"],"cssclasses":""}
+{"publish":true,"aliases":" CatholicSaints.Info » Blog Archive » Saint Moses the Black","created":"2023-10-26T16:31:00.217-05:00","modified":"2025-08-22T13:17:50.177-05:00","tags":["D_Min","spiritual_formation","saint"],"cssclasses":""}
 ---
 
 

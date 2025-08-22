@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Forgotten Saints Episode 1:St Moses The Black","created":"2023-10-25T23:01:46.224-05:00","modified":"2025-08-22T12:36:56.202-05:00","tags":["D",".","M","i","n",".","S","p","i","r","i","t","u","a","l","f","o","r","m","a","t","i","o","n","s","a","i","n","t"],"cssclasses":""}
+{"publish":true,"aliases":" Forgotten Saints Episode 1:St Moses The Black","created":"2023-10-25T23:01:46.224-05:00","modified":"2025-08-22T13:39:27.555-05:00","tags":["D_Min","spiritual_formation","saint"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Cultural Intelligence in the Diverse Classroom","created":"2025-02-28T01:39:12.853-06:00","modified":"2025-08-22T12:36:56.179-05:00","tags":["N","T","S","E","d","u","c","a","t","i","o","n","t","o","_","r","e","a","d","D",".","M","i","n","C","u","l","t","u","r","a","l","I","n","t","e","l","l","i","g","e","n","c","e"],"cssclasses":""}
+{"publish":true,"aliases":" Cultural Intelligence in the Diverse Classroom","created":"2025-02-28T01:39:12.853-06:00","modified":"2025-08-22T13:19:54.115-05:00","tags":["NTS","education","D_Min","cultural_intelligence"],"cssclasses":""}
 ---
 
 

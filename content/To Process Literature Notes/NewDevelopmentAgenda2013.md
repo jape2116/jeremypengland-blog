@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" New development agenda must be disability-inclusive – UN high-level meeting | UN News","created":"2024-05-07T22:20:01.520-05:00","modified":"2025-08-22T12:36:56.186-05:00","tags":["D",".","M","i","n","d","i","s","a","b","i","l","i","t","y","D","i","s","a","b","i","l","i","t","y","a","w","a","r","e","n","e","s","s","N","T","S","p","r","o","c","e","s","s","_","t","o","_","o","b","s","i","d","i","a","n"],"cssclasses":""}
+{"publish":true,"aliases":" New development agenda must be disability-inclusive – UN high-level meeting | UN News","created":"2024-05-07T22:20:01.520-05:00","modified":"2025-08-22T13:10:20.387-05:00","tags":["D_Min","disability","disability_awareness","NTS","process_to_obsidian"],"cssclasses":""}
 ---
 
 

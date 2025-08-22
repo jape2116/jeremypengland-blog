@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Disability and Theological Education: A North American Study","created":"2024-05-16T01:07:46.668-05:00","modified":"2025-08-22T12:36:56.098-05:00","tags":["D.Min.","disability","education","to_read","theology"],"cssclasses":""}
+{"publish":true,"aliases":"Disability and Theological Education: A North American Study","created":"2024-05-16T01:07:46.668-05:00","modified":"2025-08-22T13:27:54.166-05:00","tags":["D_Min","disability","education","to_read","theology"],"cssclasses":""}
 ---
 
 

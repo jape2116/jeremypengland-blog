@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":" Universal Design in Worship","created":"2024-05-06T22:12:33.300-05:00","modified":"2025-08-22T12:36:56.101-05:00","tags":["d","i","s","a","b","i","l","i","t","y","N","T","S","D",".","M","i","n","a","c","c","e","s","s","i","b","i","l","i","t","y","u","n","i","v","e","s","a","l","d","e","s","i","g","n","p","r","o","c","e","s","s","_","t","o","_","o","b","s","i","d","i","a","n"],"cssclasses":""}
+{"publish":true,"aliases":" Universal Design in Worship","created":"2024-05-06T22:12:33.300-05:00","modified":"2025-08-22T13:39:48.458-05:00","tags":["disability","NTS","D_Min","accessibility","univesal_design","process_to_obsidian"],"cssclasses":""}
 ---
 
 
