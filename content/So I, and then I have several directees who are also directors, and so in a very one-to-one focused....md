@@ -1,9 +1,0 @@
----
-{"publish":true,"created":"2025-02-14T11:32:55.089-06:00","modified":"2025-08-22T12:36:56.273-05:00","cssclasses":""}
----
-
-Those who do the directing need to be directed as well. Very similar to 
-## Source
-> We're diverse in terms of faith tradition, age, social location. To a certain extent, in terms of ethnicity, and that's, they're probably about 60 different people, and I would say I'm as much formed by them as, I just co-facilitate. ==So I, and then I have several directees who are also directors, and so in a very one-to-one focused kind of way, from time to time, we will explore issues that they're experiencing in their own practice.== ==Spiritual direction is at its most essential listening.== Listening with not just your ears, but I have a border collie, and when she is attempting to be obedient, she listens with her whole self, so it's as if her entire being is listening. And early on, I used to think spiritual direction was primarily an audio kind of thing. The older I get, and the longer I practice it, the more I realize I'm picking things up all the time that are not necessarily verbal, and I'm realizing how deep that aspect of spiritual direction is.[^1]
-
-[^1]: [[To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromThe2009]]
