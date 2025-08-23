@@ -1,0 +1,8 @@
+---
+{"publish":true,"created":"2025-02-13T11:21:26.091-06:00","modified":"2025-08-22T12:36:56.250-05:00","cssclasses":""}
+---
+
+## Source
+> But I took The Seven-Story Mountain home, having glanced at it and found it mildly interesting, and by the next day, I was deeply immersed in that story, heart and soul, as millions of readers had been over the years and still are today. The Seven-Story Mountain, this remarkable account of this young man's journey into the monastery and his deep dive into the contemplative life. So I discovered Merton in 1969, a year after he died, and yet through that book and the many other books he wrote, 60 of them in his lifetime, Merton became, in very significant ways, my first spiritual director. He did with his writing what I think good spiritual directors do, which was to create a safe space through his story for me to explore some of the deepest issues of meaning and purpose in my life, to ask questions about where this pain was coming from, to ask questions about why I was doing what I was doing, is this my true vocation, and how might I transform the suffering I was undergoing into something that would serve well the suffering people that I wanted to serve. So Merton became this extraordinarily important person in my life, and ==for a while, probably for a couple of years, my sense of why he was important had mainly to do with his ability to help me find inner peace, some kind of ground on which to stand. And of course for some people, that's where the spiritual life ends. It ends in an inward place.==[^1]
+
+[^1]: [[To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015]]
