@@ -1,0 +1,19 @@
+---
+{"publish":true,"created":"2025-07-07T23:50:02.753-05:00","modified":"2025-08-22T12:36:56.239-05:00","cssclasses":""}
+---
+
+
+
+Perhaps it is divine timing that I have had to head out on these pilgrims starting with Ireland and continuing on throughout the summer, or it is the fact that I am in this liminal space (as many of us are) by way of the classroom, but whatever the reason, it is a needed time in my life. Through these exercises, I feel as if I have existed in a liminal space for a long time, and once I sense that it is ending, I seek out a new adventure. I have told many people that my "shelf-life" so speak is about 3 years, and then I get antsy. I'm sure there are a lot of reasons for that, but if there is no major change to take place in my life, I have the feeling of treading water instead of moving in any direction. This pilgrimage season has helped me to appreciate being grounded, and that treading water isn't always a bad thing. 
+
+When I read (rather listened) to "The Unlikely Pilgrimage of Harold Fry" I felt a kindred spirit between us both. The idea of simply getting up and going because you feel like you've done nothing was more powerful than I thought. I recognize that I don't feel that in the same way as Harold does in the book (as in his entire life), but I do feel it in many smaller seasons of life. That could be anything from finishing a book to getting through this doctoral program. At some point there is an awakening that I have done nothing of value and must do something. 
+
+I think about that book a lot on walks because his story evolves so much from the simple choice to walk to the next mailbox. There is a determination of accomplishing something for someone else that eventually morphs into a journey for himself. I have struggled for a long time to live my life for someone else, and to find happiness and worth in other people, but eventually I have learned that I must be who I am, journey for myself, and listen for God along the way. This used to seem very selfish, but when I am in tune with myself, I am a better person for those around me. 
+
+I have taken to walking around the Southern Methodist University Campus and my neighborhood for these mini pilgrims. It started by walking around the city, but then I had to drop my daughter off at a girls soccer camp at SMU, so I started to be in that space. It's a beautiful campus that is quiet in the summer. It gives me space t think on a property set aside for two of my favorite things: higher education and God. On that campus I was able to appreciate the beauty of the natural world. They do a great job landscaping, and this time of year Dallas has the most amount of flowering plants that have amazing colors to behold. 
+
+I had originally talked about taking my camera with me to these places, and sometimes I still do, but I enjoy just being present more. I can allow my mind to wander and wonder. I embrace the times of nothingness and lack responsibility, if even for a couple of hours, to simply be present and allow God to reveal God's self to me if God desires. 
+
+I have also taken my son to a new park that is connected to the large lake here, and we got to spend about an hour on a walk going maybe half of a mile. This wasn't because either of us were slow out of laziness, but because we were looking for bugs, animals, and flowers. Simply put, we were enjoying nature. 
+
+My transformation, I hope, is one of allowing moss to grow on this rolling stone. From this class, my spiritual director, my therapist, and Emotional Healthy Spirituality, I am seeking to be grounded and connected. I hope these pilgrimages help me along that journey. 
