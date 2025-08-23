@@ -1,0 +1,251 @@
+---
+category: literaturenote
+tags:
+  - prayer
+  - D_Min
+  - NTS
+  - mysticism
+citekey: julianofnorwichRevelationsDivineLove1901
+status: process
+dateread: 9/20/2023
+publish: true
+---
+
+> [!Cite]
+> Julian of Norwich. _Revelations of Divine Love_. Edited by Grace Warrack. A version from the MS. In the British Museum. 36 Essex Street Strand London: Methuen & Company, 1901. [https://www.gutenberg.org/ebooks/52958](https://www.gutenberg.org/ebooks/52958).
+
+>[!Synth]
+>**Contribution**:: 
+>
+>**Related**:: 
+>
+
+>[!md]
+> **FirstAuthor**:: [[Julian of Norwich]]  
+~> **FirstEditor**:: Grace Warrack  
+~    
+> **Title**:: Revelations of Divine Love  
+> **Year**:: 1901   
+> **Citekey**:: julianofnorwichRevelationsDivineLove1901  
+> **itemType**:: book  
+> **Publisher**:: Methuen & Company  
+> **Location**:: 36 Essex Street Strand London    
+
+> [!LINK] 
+>.
+
+> [!Abstract]
+>.
+> 
+# Notes
+>
+># Highlights and Notes
+
+- The silence of this book both as to preliminary ascetic exercises and as to ultimate visions of the Absolute, might be attributed to Julian's being wholly concerned with giving, for comfort to all, that special sight of truth that came to her as the answer to her own need. She sets out not to teach methods of any kind for the gradual drawing near of man to God, but to record and shew forth a Revelation, granted once, of God's actual nearness to the soul, and for this Revelation she herself had been prepared by the "stirring" of her conscience, her love and her understanding, in a word of her faith, even as she was in short time to be left "neither sign nor token," but only the Revelation to hold "in faith.
+
+   * A lot of insight can be gained from stepping out into faith and working for God. When you combine it with prayer, you start to see the world differently. The Spirit moves us in a way we cannot do in our own strength.
+
+- . This "fastening" is all that in Julian's book represents that needful process wherein the truth of asceticism has a part. It is not essentially a process of detaching the thought from created things of time—still less one of detaching the heart from created beings of eternity—but a process of more and more allowing and presenting the man to be fastened closely to God by means of the original longing of the soul, the influence of the Holy Ghost, and the discipline of life with its natural tribulations, which by their purifying serve to strengthen the affections that remaining pass through them. "But only in Thee I have all."
+
+   * Leaning further into God can sometimes seem like you are withdrawing further from the world, but the opposite is true. Allowing the entwining of the soul and Holy Spirit causes us to interact in the world with the patience and love of God, which can be overwhelming, and much slower than we are used to workign normally.
+
+- Nothing is said by Julian as to successive stages of Prayer, though she speaks of different kinds of prayer as the natural action of the soul under different experiences or in different states of feeling or "dryness." Prayer is asking ("beseeching"), with submission and acquiescence; or beholding, with the self forgotten, yet offered-up; it is a thanking and a praising in the heart that sometimes breaks forth into voice; or a silent joy in the sight of God as all-sufficient. And in all these ways "Prayer oneth the soul to God."
+
+   * Prayer can look different depending on the situation and the prompting of the Holy Spirit. Ultimately, prayer should lead to a oneness with God and God’s will.
+
+- Certainly Julian looks both downward and upward, sees Love in the lowest depth, far below sin, below even Mercy; sees Love as the highest that can be, rising higher and higher far above sight, in skies that as yet she is not called to enter: "abysses" there are, below and above,
+
+   * God’s love exists even beyond what we believe the edges of God’s love is. That is an overwhelming thought.
+
+- It may be noted that in these "Revelations" there is absolutely no regarding of Christ as the "Bridegroom" of the individual soul: once or twice Julian in passing uses the symbol of "the Spouse," "the Fair Maiden," "His loved Wife," but this she applies only to the Church. In her usual speech Christ when unnamed is our "Good" or our "Courteous" Lord, or sometimes simply "God," and when she seeks to express pictorially His union with men and His work for men, then the soul is the Child and Christ is the Mother. In this symbolic language the love of the Christian soul is the love of the Child to its Mother and to each of the other children.
+
+   * Julian only refers to the church as the bridegroom. She refers to individuals as God’s children, and to God as the mother. God nurtures us as the giver of life.
+
+- Julian says elsewhere that we have in us here such a "medley" of good and evil that sometimes we hardly know of others or of ourselves wherein we stand, but that each "holy assent" that we make (by the Godly Will) to the grace and will of God, is a witness that we are of God. A witness to our sonship, it might be said; and perhaps, taking Julian's view for the time, we might think that as the Lost Son "came to himself," so the soul comes to the consciousness of the Godly Will; that as he arose and came to his Father and found Him, or rather was found by his Father, so the soul receives the healing of Christ in Mercy and the leading of the Holy Ghost in Grace; and that as at last, the son not only found his father but found his lost sonship—yet a better sonship than ever he had known before—so the soul comes at last to find, more and more fully, that new sonship which is of its nature, yet is more than its nature.
+
+   * We are complex enough on our own that we can find all sorts of good and bad in ourselves. We can constantly journeying in our own soul towards  God from the depths of our depravity. We find God in ourselves.
+
+- She has been speaking of the Divine Wisdom being as it were the Mother of the soul, and now she seems to lead us to the Church as to the Nursery where He tends His children. "For one single person may oftentimes be broken, but the whole Body of Holy Church was never broken, nor ever shall be, without end. And therefore a sure thing it is, a good and a gracious, to will meekly and mightily to be fastened to our Mother, Holy Church, that is Christ Jesus. For the Food of Mercy that is His dearworthy blood and precious water is plenteous to make us fair and clean; the sweet gracious hands of our Mother be ready and diligently about us. For He in all this working useth the office of a kind nurse that hath not else to do but to entend about the salvation of her child" (lxi.
+
+- The Mystical Vision is that which in outward nature sees the unseen within the seen, but it is also that which in spiritual things sees behind and beyond the temporal means, the eternal causes and ends (vi.). And it is surely here in the spiritual things, in the heart and centre of human existence, in the stress of sin and suffering, rather than amongst the gentle growing things, and flaming lights, and songs, and blameless creatures of Nature that the Beatific Vision on earth is at its highest.
+
+   * Seeing as a mystic is seeing more than what is there, but with a Spirit filled life. It is not seeing something that isn’t there, it’s seeing more like God, which is far more than we see on our own.
+
+- These Revelations were shewed to a simple creature unlettered,[1] the year of our Lord 1373, the Thirteenth day of May. Which creature [had] afore desired three gifts of God. The First was mind of His Passion; the Second was bodily sickness in youth, at thirty years of age; the Third was to have of God's gift three wounds
+
+   * The quest to see God deeper has been going on forever. Why is it that only a few people seem to really capture the full essence of it every so often?
+
+- And being in youth as yet, I thought it great sorrow to die;—but for nothing that was in earth that meliked to live for, nor for no pain that I had fear of: for I trusted in God of His mercy.
+
+   * At the impasse of life and death, we will surely see how strong our faith is.
+
+- In this Shewing He brought our blessed Lady to my understanding. I saw her ghostly, in bodily likeness: a simple maid and a meek, young of age and little waxen above a child, in the stature that she was when she conceived. Also God shewed in part the wisdom and the truth of her soul: wherein I understood the reverent beholding in which she beheld her God and Maker, marvelling with great reverence that He would be born of her that was a simple creature of His making.
+
+   * The story of Mary giving brith to Jesus is such a simple joy. A young woman who simply said yes to God to do something her body was designed to do is all that it took to exalt her into a unique closeness with the divine.
+
+- Also in this He shewed me a little thing, the quantity of an hazel-nut, in the palm of my hand; and it was as round as a ball. I looked thereupon with eye of my understanding, and thought: What may this be? And it was answered generally thus: it is all that is made. I marvelled how it might last, for methought it might suddenly have fallen to naught for little[ness]. And I was answered in my understanding: It lasteth, and ever shall [last] for that God loveth it. And so All-thing hath the Being by the love of God. In this Little Thing I saw three properties. The first is that God made it, the second is that God loveth it, the third, that God keepeth it.
+
+   * If we slow down and look close enough, we will see God in all things. And that is good because if we recognize that we recognize the three truths of God made it, God  loves it, and God keeps it. If God does that for the smallest and most mundane of things, how much more will that be true for us as complex creatures?
+
+- For the Goodness of God is the highest prayer, and it cometh down to the lowest part of our need. It quickeneth our soul and bringeth it on life, and maketh it for to waxen in grace and virtue.
+
+   * God’s grace, while seemingly so grand and far away, reaches to the depths that are not always comprehensible to ourselves. God’s love will never not be able to find the deepest parts of our despair.
+
+- This Shewing was quick and life-like, and horrifying and dreadful, sweet and lovely. And of all the sight it was most comfort to me that our God and Lord that is so reverend and dreadful, is so homely and courteous: and this most fulfilled me with comfort and assuredness of soul.
+
+   * Even in the greatest areas of despair and horror, when one lays down their life for another, it is noble. Even more so when the creator of the universe lays down his life for the creation that has betrayed him.
+
+- We know in our Faith, and believe by the teaching and preaching of Holy Church, that the blessed Trinity made Mankind to[4] His image and to His likeness. In the same manner-wise we know that when man fell so deep and so wretchedly by sin, there was none other help to restore man but through Him that made man. And He that made man for love, by the same love He would restore man to the same bliss, and overpassing; and like as we were like-made to the Trinity in our first making, our Maker would that we should be like Jesus Christ, Our Saviour, in heaven without end, by the virtue of our again-making
+
+   * Man is made for love. Often times our sins are a result of loving something other than God.
+
+- And all this shewed He full blissfully, signifying thus: See! I am God: see! I am in all thing: see! I do all thing: see! I lift never mine hands off my works, nor ever shall, without end: see! I lead all thing to the end I ordained it to from without beginning, by the same Might, Wisdom and Love whereby I made it. How should any thing be amiss?
+
+   * God is in all things. The divine dance of creation between the Trinity is aware of, above and in all good things. The creation is the delight of God.
+
+- The dearworthy blood of our Lord Jesus Christ as verily as it is most precious, so verily it is most plenteous. Behold and see! The precious plenty of His dearworthy blood descended down into Hell and burst her bands and delivered all that were there which belonged to the Court of Heaven. The precious plenty of His dearworthy blood overfloweth all Earth, and is ready to wash all creatures of sin, which be of goodwill, have been, and shall be. The precious plenty of His dearworthy blood ascended up into Heaven to the blessed body of our Lord Jesus Christ, and there is in Him, bleeding and praying for us to the Father,—and is, and shall be as long as it needeth;—and ever shall be as long as it needeth. And evermore it floweth in all Heavens enjoying the salvation of all mankind, that are there, and shall be—fulfilling the number[5] that faileth.
+
+   * In the army, there is a question and response that goes “What makes the green grass grow?” and the response is “Blood!” Also in the conflict with Ukraine there is a famous story in which an old lady tells a Russian soldier to put some sunflowers in his pocket so at least something beautiful will grow when he dies. These are both extremely perverse images of creation killing creation, but through Jesus’ blood, death conquers death and creation can flourish.
+
+- Also I saw our Lord scorn his malice and set at nought his unmight; and He willeth that we do so. For this sight I laughed mightily, and that made them to laugh that were about me, and their laughing was a pleasure to me. I thought that I would that all mine even-Christians had seen as I saw, and then would they all laugh with me. But I saw not Christ laugh. For I understood that we may laugh in comforting of ourselves and joying in God for that the devil is overcome. And when I saw Him scorn his malice, it was by leading of mine understanding into our Lord: that is to say, it was an inward shewing of verity, without changing of look.[4] For, as to my sight, it is a worshipful property of God's that [He] is ever the same.
+
+   * Jesus conquers death because he is creation. I wonder if there is not much delight in that. We see it is as a great victory and an epic story, but it is a necessity that is born from brokenness in the world.
+
+- For it is God's will that we hold us in comfort with all our might: for bliss is lasting without end, and pain is passing and shall be brought to nought for them that shall be saved. And therefore it is not God's will that we follow the feelings of pain in sorrow and mourning for them, but that we suddenly pass over, and hold us in endless enjoyment.
+
+   * God’s will is for comfort and joy. Pain is fleeting (even though it seems to last an earthly lifetime for some).
+
+- I thought: Is any pain like this? And I was answered in my reason: Hell is another pain: for there is despair. But of all pains that lead to salvation this is the most pain, to see thy Love suffer. How might any pain be more to me than to see Him that is all my life, all my bliss, and all my joy, suffer? Here felt I soothfastly[2] that I loved Christ so much above myself that there was no pain that might be suffered like to that sorrow that I had to [see] Him in pain.
+
+   * Suffering with Christ is feeling Christ’s pain. Not that we feel responsible for the pain, but we understand that we are so connected with Christ that we understand the suffering that took place to secure salvation. Christ’s pain is our pain as our pain was also Christ’s.
+
+- And the cause why He suffereth [it to be so,] is for [that] He will of His goodness make us the higher with Him in His bliss; and for this little pain that we suffer here, we shall have an high endless knowing in God which we could[3] never have without that. And the harder our pains have been with Him in His Cross, the more shall our worship[4] be with Him in His Kingdom.
+
+   * The more we understand the great suffering of Jesus on the cross (both in death and in sacrifice), the sweeter our worship will be.
+
+- For the First Heaven, Christ shewed me His Father; in no bodily likeness, but in His property and in His working. That is to say, I saw in Christ that the Father is.
+
+   * We see God the father through the creation that Jesus helps to reveal.
+
+- Then with a glad cheer our Lord looked unto His Side and beheld, rejoicing. With His sweet looking He led forth the understanding of His creature by the same wound into His Side within. And then he shewed a fair, delectable place, and large enough for all mankind that shall be saved to rest in peace and in love.[1] And therewith He brought to mind His dearworthy blood and precious water which he let pour all out for love. And with the sweet beholding He shewed His blessed heart even cloven in two.
+
+   * The wounds we have can serve as a reminder to the depth of God’s love. They are reminders of where we were and where we are.
+
+- Lo, how I loved thee. This shewed our good Lord for to make us glad and merry.
+
+- If sin had not been, we should all have been clean and like to our Lord, as He made us.
+
+   * It is natural to wonder what the world would be like without sin. I would venture to guess that  it’s one of the most sought after answers.
+
+- ut Jesus, who in this Vision informed me of all that is needful to me, answered by this word and said: It behoved that there should be sin;[1] but all shall be well, and all shall be well, and all manner of thing shall be well.
+
+   * All will be well is a tough answer to “why is there sin in the world?” I am reminded of Jesus saying it is good for Lazarus to have been “asleep” as it would give him a chance to show the glory of God. This is that on a much larger scale.
+
+- And to this our blessed Lord answered full meekly and with full lovely cheer, and shewed that Adam's sin was the most harm that ever was done, or ever shall be, to the world's end; and also He shewed that this [sin] is openly known in all Holy Church on earth. Furthermore He taught that I should behold the glorious Satisfaction[1]: for this Amends-making[2] is more pleasing to God and more worshipful, without comparison, than ever was the sin of Adam harmful.
+
+   * Adam’s sin was the worst thing to ever happen, but as bad as that was, there is greater satisfaction in bringing people into the fullness of love and compassion that Christ has for the world. Sin has entered the world so it needs to be addressed.
+
+- Another understanding is this, that there be deeds evil done in our sight, and so great harms taken, that it seemeth to us that it were impossible that ever it should come to good end. And upon this we look, sorrowing and mourning therefor, so that we cannot resign us unto the blissful beholding of God as we should do. And the cause of this is that the use of our reason is now so blind, so low, and so simple, that we cannot know that high marvellous Wisdom, the Might and the Goodness of the blissful Trinity. And thus signifieth He when He saith: Thou shalt see thyself if[1] all manner of things shall be well. As if He said: Take now heed faithfully and trustingly, and at the last end thou shalt verily see it in fulness of joy.
+
+   * Sometimes bad/evil things are not able to be understood. In those situations, all we can do is turn towards God and the promise of Jesus in faith that he will make all things well.
+
+- For I saw soothly in our Lord's teaching, the more we busy us to know His secret counsels in this or any other thing, the farther shall we be from the knowing thereof.
+
+   * We can chase after divine wisdom all that we want, but the more we seek after it for personal gain, the further from it we will actually be.
+
+- All this that I have now told, and more that I shall tell after, is comforting against sin. For in the Third Shewing when I saw that God doeth all that is done, I saw no sin: and then I saw that all is well. But when God shewed me for sin, then said He: All shall be well.
+
+   * The mystic will see win in a different way than someone who does not regularly contemplate these things. They will see brokenness and sorrow more than hate. The mystic will also see sin and see that it does not have the final say. They will recognize that Jesus will make all things well. Most Christians understand this, but they will not fully be able to appreciate it if they are constantly living in fear from the sin of the world they find themselves surrounded by.
+
+- Also God shewed that sin shall be no shame to man, but worship. For right as to every sin is answering a pain by truth, right so for every sin, to the same soul is given a bliss by love: right as diverse sins are punished with diverse pains according as they be grievous, right so shall they be rewarded with diverse joys in Heaven according as they have been painful and sorrowful to the soul in earth
+
+   * Sin can be shameful, but sin can be rejoiced as something that God shows great mercy and love towards those who repent and turn towards God in earnest seeking.
+
+- By contrition we are made clean, by compassion we are made ready, and by true longing toward God we are made worthy.
+
+   * Repent, accept God’s grace, and forever seek after God’s will. This is our true calling.
+
+- Here understand I in truth that all manner of things are made ready for us by the great goodness of God, so far forth that what time we be ourselves in peace and charity, we be verily saved. But because we may not have this in fulness while we are here, therefore it falleth to us evermore to live in sweet prayer and lovely longing with our Lord Jesus. For He longeth ever to bring us to the fulness of joy; as it is aforesaid, where He sheweth the Spiritual Thirst.
+
+   * We can know we are saved, but we may not experience the fulness of that peace until we are in heaven. That should not make us ease up on our pursuits of communing with God.
+
+- As mighty and as wise as God is to save men, so willing He is.
+
+   * God can rescue creation, and God wants to do it. That’s a pretty wonderful person to follow.
+
+- But yet oftentimes our trust is not full: for we are not sure that God heareth us, as we think because of our unworthiness, and because we feel right nought, (for we are as barren and dry oftentimes after our prayers as we were afore); and this, in our feeling our folly, is cause of our weakness.[1] For thus have I felt in myself.
+
+   * It is difficult to enter into prayer because of our own difficulties. We see ourselves as unworthy and get in the way of an experience with the divine.
+
+- Then signifieth He thus: that we [should] see that He doeth it, and that we [should] pray therefor. For the one is not enough. For if we pray and see not that He doeth it, it maketh us heavy and doubtful; and that is not His worship. And if we see that He doeth, and we pray not, we do not our debt, and so may it not be: that is to say, so is it not [the thing that is] in His beholding. But to see that He doeth it, and to pray forthwithal,—so is he worshipped and we sped. All-thing that our Lord hath ordained to do, it is His will that we pray therefor, either in special or in general. And the joy and the bliss that it is to Him, and the thanks and the worship that we shall have therefor, it passeth the understanding of creatures, as to my sight.
+
+   * We must pray and trust. One can not happen without the other lest our spiritual life be weak.
+
+- But when we see Him not so, then feel we need and cause to pray, because of failing, for enabling of our self, to Jesus. For when the soul is tempested, troubled, and left to itself by unrest, then it is time to pray, for to make itself pliable and obedient[1] to God. (But the soul by no manner of prayer maketh God pliant to it: for He is ever alike in love.)
+
+   * Feeling restless or worried and not turning to God can begin to harden the heart. Immediately turn to God in prayer to keep the soul and heart soft.
+
+- And yet in all this time, from the beginning to the end, I had two manner of beholdings. The one was endless continuant love, with secureness of keeping, and blissful salvation,—for of this was all the Shewing. The other was of the common teaching of Holy Church, in which I was afore informed and grounded—and with all my will having in use and understanding. And the beholding of this went not from me: for by the Shewing I was not stirred nor led therefrom in no manner of point, but I had therein teaching to love it and find it good[2]: whereby I might, by the help of our Lord and His grace, increase and rise to more heavenly knowing and higher loving
+
+   * To be rooted in the teachings of the church is to give a grounding to fantastical visions. That is, it is easier to have amazing visions that mean  nothing if they are not grounded in scripture and teaching.
+
+- And notwithstanding all this, I beheld and marvelled greatly: What is the mercy and forgiveness of God? For by the teaching that I had afore, I understood that the mercy of God should be the forgiveness of His wrath after the time that we have sinned. For methought that to a soul whose meaning and desire is to love, the wrath of God was harder than any other pain, and therefore I took[1] that the forgiveness of His wrath should be one of the principal points of His mercy. But howsoever I might behold and desire, I could in no wise see this point in all the Shewing.[2] But how I understood and saw of the work of mercy, I shall tell somewhat, as God will give me grace. I understood this: Man is changeable in this life, and by frailty and overcoming falleth into sin: he is weak and unwise of himself, and also his will is overlaid. And in this time he is in tempest and in sorrow and woe; and the cause is blindness: for he seeth not God. For if he saw God continually, he should have no mischievous feeling, nor any manner of motion or yearning that serveth to sin.[3]
+
+   * We can be transformed in this life. We are easily able to fall back into a sinful life if we do not fix our eyes on God at all times and in all things.
+
+- For I saw no wrath but on man's part; and that forgiveth He in us. For wrath is not else but a forwardness and a contrariness to peace and love; and either it cometh of failing of might, or of failing of wisdom, or of failing of goodness: which failing is not in God, but is on our part.
+
+   * God is not the author if wrath. We as man cause the rift and the discontentment. Wrath is a lack of settlement, and God is peace and love.
+
+- For I knew by the common teaching of Holy Church and by mine own feeling, that the blame of our sin continually hangeth upon us, from the first man unto the time that we come up unto heaven: then was this my marvel that I saw our Lord God shewing to us no more blame than if we were as clean and as holy as Angels be in heaven. And between these two contraries my reason was greatly travailed through my blindness, and could have no rest for dread that His blessed presence should pass from my sight and I be left in unknowing [of] how He beholdeth us in our sin. For either [it] behoved me to see in God that sin was all done away, or else me behoved to see in God how He seeth it, whereby I might truly know how it belongeth to me to see sin, and the manner of our blame.
+
+   * It’s weird that because of the church and our own guilt, we let the shame of sin stay on us. However, if we believe that sin no longer holds dominion over us after we’ve accepted the great sacrifice of Christ, then why don’t we see ourselves as Christ sees us?
+
+- And notwithstanding all this, I saw and understood in our Lord's meaning that we may not in this life keep us from sin as wholly in full cleanness as we shall be in Heaven. But we may well by grace keep us from the sins which would lead us to endless pains, as Holy Church teacheth us; and eschew venial [ones] reasonably up to our might.
+
+   * We will not be fully clean until heaven, but we can be protected from falling into traps of God while we are in this life.
+
+- For ere that He made us He loved us, and when we were made we loved Him. And this is a Love that is made, [to our Kindly Substance], [by virtue] of the Kindly Substantial Goodness of the Holy Ghost; Mighty, in Reason, [by virtue] of the Might of the Father; and Wise, in Mind, [by virtue] of the Wisdom of the Son. And thus is Man's Soul made by God and in the same point knit to God.
+
+   * When God made us, he loved us. When God made us we loved God. That love draws us to God always as we are entwined since creation.
+
+- And because of this great, endless love that God hath to all Mankind, He maketh no disparting in love between the blessed Soul of Christ and the least soul that shall be saved. For it is full easy to believe and to trust that the dwelling of the blessed Soul of Christ is full high in the glorious Godhead, and verily, as I understand in our Lord's signifying, where the blessed Soul of Christ is, there is the Substance of all the souls that shall be saved by Christ.
+
+   * God loves the lowest of us who are saved. No different than how God loves anything that is tied into God. That’s pretty powerful. If God loves us like God loves then God loves us like God loves self.
+
+- And thus I saw full surely that it is readier to us to come to the knowing of God than to know our own Soul. For our Soul is so deep-grounded in God, and so endlessly treasured, that we may not come to the knowing thereof till we have first knowing of God, which is the Maker, to whom it is oned.
+
+   * Seeking after self is a noble pursuit, but since we are so entwined with God in our soul, we can not fully know ourself until we start knowing God.
+
+- And Grace worketh with Mercy, and specially in two properties, as it was shewed: which working belongeth to the Third Person, the Holy Ghost. He worketh rewarding and giving. Rewarding is a large giving-of-truth that the Lord doeth to him that hath travailed; and giving is a courteous working which He doeth freely of Grace, fulfilling and overpassing all that is deserved of creatures. Thus in our Father, God Almighty, we have our being; and in our Mother of Mercy we have our reforming and restoring: in whom our Parts are oned and all made perfect Man; and by [reward]-yielding and giving in Grace of the Holy Ghost, we are fulfilled.
+
+   * Our relationship with God is fully involved with the Trinity. Our soul demands interaction with all three revelations of God.
+
+- The mother may suffer the child to fall sometimes, and to be hurt in diverse manners for its own profit, but she may never suffer that any manner of peril come to the child, for love. And though our earthly mother may suffer her child to perish, our heavenly Mother, Jesus, may not suffer us that are His children to perish: for He is All-mighty, All-wisdom, and All-love; and so is none but He,—blessed may He be!
+
+   * Sometimes we only learn by getting hurt. Jesus may seemingly allow that to happen. But Jesus is not satisfied in seeing us perish.
+
+- And in this word: Suddenly thou shalt be taken,—I saw that God rewardeth man for the patience that he hath in abiding God's will, and for his time, and [for] that man lengtheneth his patience over the time of his living. For not-knowing of his time of passing, that is a great profit: for if a man knew his time, he should not have patience over that time; but, as God willeth, while the soul is in the body it seemeth to itself that it is ever at the point to be taken.
+
+   * Our patience in waiting on the fulfillment of God’s promise of eternity with God is rewarded. Some develop much patience because their life is long, and other’s less. I think that the journey and willingness to wait on God is most of the value of being with God.
+
+- It is God's will that I see myself as much bound[2] to Him in love as if He had done for me all that He hath done; and thus should every soul think inwardly of its[3] Lover. That is to say, the Charity of God maketh in us such a unity that, when it is truly seen, no man can part himself from other.
+
+   * There is confidence in knowing your fate when you continually seek after God’s heart and seek God in your own soul.
+
+- In all this blessed Shewing our good Lord gave understanding that the Sight should pass: which blessed Shewing the Faith keepeth, with His own good will and His grace. For He left with me neither sign nor token whereby I might know it, but He left with me His own blessed word in true understanding, bidding me full mightily that I should believe it. And so I do,—Blessed may He be!—I believe that He is our Saviour that shewed it, and that it is the Faith that He shewed: and therefore I believe it, rejoicing. And thereto I am bounden by all His own meaning, with the next words that follow: Keep thee therein, and comfort thee therewith, and trust thou thereto.
+
+   * Sometimes there is no evidence of an encounter with the divine except for a changed life.
+
+- This place is prison and this life is penance, and in the remedy He willeth that we rejoice. The remedy is that our Lord is with us, keeping and leading into the fulness of joy. For this is an endless joy to us in our Lord's signifying, that He that shall be our bliss when we are there, He is our keeper while we are here.
+
+   * Though we may find ourselves in a life or location that is not comforting or good, we know Christ is with us, and there is rejoicing in that fact alone..
+
+
+# Annotations%% begin annotations %%
+
+
+
+%% end annotations %%
+
+%% Import Date: 2023-09-26T00:50:23.295-05:00 %%
