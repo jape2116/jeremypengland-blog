@@ -11,7 +11,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  bibliographyFile: "/Users/jeremyengland/jeremypengland-blog-src/quartz/2025-08-25-ZoteroLibraryExportSync.bib"
+  bibliographyFile: "/2025-08-25-ZoteroLibraryExportSync.bib",
   suppressBibliography: false,
   linkCitations: false,
   csl: "chicago",
