@@ -1,0 +1,6 @@
+---
+aliases:
+  - disabilities
+publish: true
+---
+

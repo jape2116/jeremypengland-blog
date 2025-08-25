@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-04-17T14:48:03.955-05:00","modified":"2025-08-22T12:36:56.233-05:00","cssclasses":""}
+word-goal: 1000
+publish: true
 ---
-
-
+%% Engage in discernment on your Discernment Question utilizing the Exercises in your chosen Liebert book. At the conclusion write up a 1,000-word Discernment Report in which you (i) log (with dates) your work invested in working your Discernment Question (Liebert exercises, meetings, etc.), (ii) highlight some key things you learned about the process of spiritual discernment from these activities, and (iii) summarize where you are vis-à-vis your original Discernment Question.  %%
 
 # Discernment Paper
 

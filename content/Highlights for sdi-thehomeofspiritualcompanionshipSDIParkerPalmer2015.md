@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-02-14T16:55:39.069-06:00","modified":"2025-08-22T12:36:56.254-05:00","cssclasses":""}
+publish: true
 ---
-
 ## Highlights from sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015
 
 - [[The only reason I'm rehearsing that academic background, I'm actually a recovering sociologist, so ...]][^4]
@@ -13,7 +12,7 @@
 - [[Spiritual direction has been a huge gift in my life because as someone who's received spiritual dir...]][^4]
 - [[On my journey, people like that have helped me come back to true north, have helped me reclaim the ...]][^4]
 
-[^4]: [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015]]
+[^4]: [[sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015]]
 
 ## Source
-- [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015]]
+- [[sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015]]

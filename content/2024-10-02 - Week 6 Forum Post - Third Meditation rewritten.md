@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-02-08T01:31:29.545-06:00","modified":"2025-08-22T12:36:56.221-05:00","cssclasses":""}
+publish: true
 ---
-
 ## Rewritten Meditation
 
 Group Focus: Late High School/Young Adult Small Group

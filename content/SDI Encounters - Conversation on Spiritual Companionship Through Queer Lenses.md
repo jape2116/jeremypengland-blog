@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-02-13T10:36:17.127-06:00","modified":"2025-08-22T12:36:56.270-05:00","cssclasses":""}
+publish: true
 ---
-
 ## Notes
 Speaker: [[Larry J Morris III]] and [[Matt Whitney]]
 Length: 16:42

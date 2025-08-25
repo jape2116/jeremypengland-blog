@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-08-29T21:48:42.917-05:00","modified":"2025-08-22T12:36:56.283-05:00","cssclasses":""}
+publish: true
 ---
-
 Jeremy England
 DMN946 Research Course 1: Orientation to Professional Research (Online)
 8/30/23

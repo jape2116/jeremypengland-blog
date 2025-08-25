@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-12-06T23:38:03.792-06:00","modified":"2025-08-22T12:36:56.216-05:00","cssclasses":""}
+publish: true
 ---
-
 ## Forum Posts
 
 [[2024-08-28 - Week 1 Forum Post]]

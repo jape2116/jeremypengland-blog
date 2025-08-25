@@ -4,7 +4,7 @@ import { visit } from "unist-util-visit"
 import { QuartzTransformerPlugin } from "../types"
 
 export interface Options {
-  bibliographyFile: /Users/jeremyengland/Zotero/JeremyZoteroBibTex.bib
+  bibliographyFile: Users/jeremyengland/Zotero/JeremyZoteroBibTex.bib
   suppressBibliography: boolean
   linkCitations: boolean
   csl: string

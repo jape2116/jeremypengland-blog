@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-09-26T02:28:47.882-05:00","modified":"2025-08-22T12:36:56.221-05:00","cssclasses":""}
+publish: true
 ---
-
 - What makes the spiritual relationship between de Sales and Chantal across gender possible?
 
 My initial thought is that both de Sales and Chantal knew exactly who they were and what they were called to do for the Kingdom of God. From a relatively early age, de Sales already knew he was going to do something different than inherit the estate and study law as his father had hoped. This was starting to become fairly evident when he chose to attend the Jesuit College instead of the college of Navarre.[^1]

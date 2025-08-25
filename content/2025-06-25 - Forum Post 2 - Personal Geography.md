@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-06-25T17:14:46.626-05:00","modified":"2025-08-22T12:36:56.238-05:00","cssclasses":""}
+word-goal: 600
+publish: true
 ---
 
-
-
+%% By Saturday, June 15 an essay (approx. 600 words) in which you: a.) describe your personal geography, i.e., the various places and spaces where you have lived life (include references to the natural world, the built-environment, cultures, and fantasy or dream place), and b.) comment on the ways it shapes your theology and spiritual life.  As you are able, note positive and negative experiences and impacts.  %%
 
  Personal geography is an interesting question because I can point to and remember every placed I live, it really can be difficult to remember so many of the details until they are pried from my brain, sometimes in unique and surprising ways. 
  

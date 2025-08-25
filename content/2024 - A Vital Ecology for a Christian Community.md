@@ -1,7 +1,7 @@
 ---
-{"publish":true,"created":"2024-07-19T16:09:23.637-05:00","modified":"2025-08-22T12:36:56.213-05:00","cssclasses":""}
+word-goal: 2021
+publish: true
 ---
-
 # A Vital Ecology for a Christian Community
 ## Introduction
 When a body of people come together surrounding a common interest or identity, it must chose what aspects of the community are more important than others. For example, I was a in a social music fraternity in college. The fraternity, as an organization, has a goal of promoting brotherhood, advancing music in America, and being loyal to a member's alma mater. While that  mission was overarching every member across the fraternity, each individual chapter had a unique identity. Some focused on serving their communities through volunteering, while others focused more on the social aspect of the brotherhood. Some chapters leaned heavily into greek life on campus and others stayed insular to the music colleges. The list can go on and on. The diversity found when meeting members from other schools made the experience of being in that fraternity much more enjoyable because there were unique characteristics that allowed for personality and individuality to shine through in each collegiate chapter while also being bonded together by a common goal and common experiences. 

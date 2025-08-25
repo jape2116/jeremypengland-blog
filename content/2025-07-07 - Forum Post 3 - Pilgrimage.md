@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-07T23:50:02.753-05:00","modified":"2025-08-22T12:36:56.239-05:00","cssclasses":""}
+word-goal: 600
+publish: true
 ---
-
-
+%% Post by Saturday, June 28 an essay (approx. 600 words) in which you describe key experiences and learning from your weekly pilgrimage practice. As you are able, name where you are on (aspects of) your spiritual journey and what you see to be the trajectory of transformation. %%
 
 Perhaps it is divine timing that I have had to head out on these pilgrims starting with Ireland and continuing on throughout the summer, or it is the fact that I am in this liminal space (as many of us are) by way of the classroom, but whatever the reason, it is a needed time in my life. Through these exercises, I feel as if I have existed in a liminal space for a long time, and once I sense that it is ending, I seek out a new adventure. I have told many people that my "shelf-life" so speak is about 3 years, and then I get antsy. I'm sure there are a lot of reasons for that, but if there is no major change to take place in my life, I have the feeling of treading water instead of moving in any direction. This pilgrimage season has helped me to appreciate being grounded, and that treading water isn't always a bad thing. 
 

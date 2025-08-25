@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-16T13:01:04.071-05:00","modified":"2025-08-22T12:36:56.262-05:00","cssclasses":""}
+publish: true
 ---
-
 ## Saints
 - St. Patrick
 - [St Bernadette](https://en.m.wikipedia.org/wiki/Bernadette_Soubirous)

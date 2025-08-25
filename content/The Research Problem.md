@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-05-06T21:55:07.539-05:00","modified":"2025-08-22T12:36:56.281-05:00","cssclasses":""}
+publish: true
 ---
-
 
 
 Jeremy England

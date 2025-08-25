@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-11-07T02:20:00.036-06:00","modified":"2025-08-22T12:36:56.242-05:00","cssclasses":""}
+publish: true
 ---
-
 
 Sermon 2. The Almost Christian. Almost thou persuadest me to be a Christian. Acts 26.28 And many there are who go thus far. Ever since the Christian religion was in the world, there have been many in every age and nation who were almost persuaded to be Christians. But seeing it avails nothing before God to go only thus far, it highly imports us to consider, first, what is implied in being almost? Secondly, what in being altogether a Christian?
 

@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-08-02T17:17:15.146-05:00","modified":"2025-08-22T12:36:56.227-05:00","cssclasses":""}
+publish: true
 ---
-
 ## Introduction
 
 The correlation between people who have been diagnosed with a disability and the amount of training a clergy person receives in navigating topics of disability is an indictment against the church as to how seriously it takes those with disabilities into consideration when educating its clergy. "According to the national census, more that 56 million US Americans and 4 million Canadians-almost one in five North American citizens-identify as having a disability."[@annandalenaomihDisabilityTheologicalEducation2014] That means roughly 1 in 5 people in North America will be associated with a disability in some way, yet according to a study conducted in 2014 of institutions that are a part of The Association of Theological Schools, only 25.9% of the 118 schools who participated in the study felt that their students were more than "only a little" prepared "to respond to [[spiritual]] and [[theological]] questions resulting from [[disability]]-related [[human experiences]]."[@annandalenaomihDisabilityTheologicalEducation2014, 10] 

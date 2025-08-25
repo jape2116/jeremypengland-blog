@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-04-17T14:11:37.445-05:00","modified":"2025-08-22T12:36:56.215-05:00","cssclasses":""}
+publish: true
 ---
-
 # 2025-04-01 - Forum 5 - Discernment
 > **Post** by Monday, March 31 what you are comfortable in sharing with your colleagues about your Discernment Question and the process you engaged in utilizing a Liebert book. What was challenging? What proved helpful? Where are you now in relation to your discernment question? What have you learned about discernment?
 

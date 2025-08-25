@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-07-13T02:20:30.118-05:00","modified":"2025-08-22T12:36:56.246-05:00","cssclasses":""}
+publish: true
 ---
-
 
 ## Daily: 
 7:00 - AM Wake Up

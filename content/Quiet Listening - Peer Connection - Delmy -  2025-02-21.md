@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-02-21T08:08:24.263-06:00","modified":"2025-08-22T12:36:56.267-05:00","cssclasses":""}
+publish: true
 ---
-
 Had a phone call with [[Delmy]] at 7:30AM my time. 
 We started out with small talk and reviewed the assignment
 We did not do a really good job doing quiet listening 😆

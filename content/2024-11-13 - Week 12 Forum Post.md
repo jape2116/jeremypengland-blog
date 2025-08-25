@@ -1,8 +1,7 @@
 ---
-{"publish":true,"created":"2025-02-08T01:29:16.618-06:00","modified":"2025-08-22T12:36:56.225-05:00","cssclasses":""}
+publish: true
 ---
-
-
+%% This statement is made from Many-Colored Kingdom: in our reading, “Who knows one culture, knows no culture. We come to self-knowledge on the boundary” (176). How might you as a Christian formation teacher & leader move toward creating a learning community for faith formation where culture rather than conformity to the dominant culture is celebrated? Cite and engage with the material from your reading in your response. %%
 As I was reading [[Andrew Root]]'s book "[[Faith Formation in a Secular Age]]" I was struck at how little I had ever thought about the changing culture of society as a whole. He speaks extensively about conformity and how that has shaped culture across the different generations. Of particular interest to me was the division in cultural conformity found after World War II. Root writes:
 >The men and women of World War II are considered the greatest generation, and their greatness is legitimated by the historical moments they rose to face, but this greatness is also bound simply in our perception. We see these men and women through the prism of the age of authenticity, as the last generation before the age of authenticity dawned. They are great to us because they did something we cannot imagine: they followed duty and obligation over the desires of the self. They were mobilized by the pursuit of duty, not of expressive individualism. From a place deep in the age of authenticity this is a greatness many of us can't imagine following. To believe that there was something worse than dying (running from the obligations of your duty) is asocial imaginary that we simply don't share.(20)
 

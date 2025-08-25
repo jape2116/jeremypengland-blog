@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-09-06T10:24:22.236-05:00","modified":"2025-08-22T12:36:56.218-05:00","cssclasses":""}
+publish: true
 ---
-
 A collage of three pictures. Two of them show the same man in graduation regalia, the last picture is of a building at NTS.
 
 **Exercise:** Jesus and the healing of blind Bartimaues

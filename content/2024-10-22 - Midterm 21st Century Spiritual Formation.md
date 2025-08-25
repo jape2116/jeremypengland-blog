@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-10-25T03:51:57.680-05:00","modified":"2025-08-22T12:36:56.223-05:00","cssclasses":""}
+publish: true
 ---
-
 # Ignatian and Salesian Spirituality - Who to Turn to For Your Spiritual Formation
 ## Introduction
 

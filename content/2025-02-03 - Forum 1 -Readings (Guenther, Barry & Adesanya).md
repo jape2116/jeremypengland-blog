@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-02-05T00:41:05.002-06:00","modified":"2025-08-22T12:36:56.229-05:00","cssclasses":""}
+publish: true
 ---
-
 1. A comparison & contrast between how Guenther and Barry:
 	* define spiritual direction and why they think it is needed
 	* identify the most significant challenges to this ministry and what they see as important resources for embodying it in our day.

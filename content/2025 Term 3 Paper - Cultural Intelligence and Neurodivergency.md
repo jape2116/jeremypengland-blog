@@ -1,7 +1,18 @@
 ---
-{"publish":true,"created":"2025-04-30T04:18:15.579-05:00","modified":"2025-08-22T12:36:56.228-05:00","tags":["ADA","Intelligence","awareness","neurodiversity","neurodivergent","ADHD","cultural_intelligence","Culture","Ableism","advocacy"],"cssclasses":""}
+word-goal: 4000
+tags:
+  - ADA
+  - Intelligence
+  - awareness
+  - neurodiversity
+  - neurodivergent
+  - ADHD
+  - cultural_intelligence
+  - Culture
+  - Ableism
+  - advocacy
+publish: true
 ---
-
 ## Introduction
 
 To be culturally intelligent is to be a good neighbor. In the modern era, where many people are exposed to new cultures through technology and international migration, cultural intelligence is a valuable skill to posses and develop. This is even more true in the context of the Christian Church who is commanded by Jesus to "go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”[Mattew 28:19-20 @HolyBibleNew2011] If this commandment is to be taken seriously, then the Church (especially each local worshipping body of believers) must be willing to step outside of its comfort zone to engage with the community around it, no matter how similar or different it may be.

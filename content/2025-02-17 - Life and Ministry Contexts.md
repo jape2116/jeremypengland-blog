@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-02-17T00:20:33.907-06:00","modified":"2025-08-22T12:36:56.231-05:00","cssclasses":""}
+publish: true
 ---
-
 There are two possibilities when it comes to my spheres of influence. First is other veterans I have either served with or know through organizations like the Veterans of Foreign Wars (VFW). I have had many impromptu conversations with fellow veterans who always seem to walk to open up and talk when I am around them. 
 
 These men and women (primarily men in my personal experience) often look for a connection and brotherhood because by the nature of their service, they interact and are shaped in that way. Many times, once they leave service (especially those who I know at the VFW) are lost and find the community they once had in their service components through these organizations, often times through conversations around the smoking area or bar. 

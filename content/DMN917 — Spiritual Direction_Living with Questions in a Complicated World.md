@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-05-02T14:17:54.779-05:00","modified":"2025-08-22T12:36:56.248-05:00","cssclasses":""}
+publish: true
 ---
-
 
 ## Classes
 [[2025-02-03 - Class 1]]
@@ -37,12 +36,12 @@ Submit an approximately 300-word document that includes your specific discernmen
 			▪ Approach their relationships with directees.
 [[SDI Videos Review]]
 ### Videos Watched and Notes
-- [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015\|SDI Parker Palmer 2015]] - 19 mins
-- [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIEncountersConversation2024\|SDI Encounters - Conversation on Spiritual Companionship Through Queer Lenses]] - 16:42
-- [[content/Processed Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromCynthia2010\|SDI Learns From...Cynthia Baga]] - 10:00 mins
-- [[content/Processed Literature Notes/sdi-thehomeofspiritualcompanionshipCallContemplativeSolidarity2021\|A Call to Contemplative Solidarity - Fr. Richard Rohr and Rev. SeiFu Anil Singh-Molares]] - 19:36 mins
-- [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromThe2009\|SDI Learns From...The Rev Mary Earle]] - 9:36
-- [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009\|SDI Learns From...Ron Rolheiser]] - 9:00
+- [[sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015|SDI Parker Palmer 2015]] - 19 mins
+- [[sdi-thehomeofspiritualcompanionshipSDIEncountersConversation2024|SDI Encounters - Conversation on Spiritual Companionship Through Queer Lenses]] - 16:42
+- [[sdi-thehomeofspiritualcompanionshipSDILearnsFromCynthia2010|SDI Learns From...Cynthia Baga]] - 10:00 mins
+- [[sdi-thehomeofspiritualcompanionshipCallContemplativeSolidarity2021|A Call to Contemplative Solidarity - Fr. Richard Rohr and Rev. SeiFu Anil Singh-Molares]] - 19:36 mins
+- [[sdi-thehomeofspiritualcompanionshipSDILearnsFromThe2009|SDI Learns From...The Rev Mary Earle]] - 9:36
+- [[sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009|SDI Learns From...Ron Rolheiser]] - 9:00
 
 
 ## Life/Ministry Contexts

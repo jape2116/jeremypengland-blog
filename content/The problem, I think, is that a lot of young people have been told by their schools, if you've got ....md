@@ -1,8 +1,7 @@
 ---
-{"publish":true,"created":"2025-02-13T11:21:26.163-06:00","modified":"2025-08-22T12:36:56.279-05:00","cssclasses":""}
+publish: true
 ---
-
 ## Source
 > I also want to say something to the folks who started telling me 20 years ago that these questions of soul and role that the Center for Courage and Renewal is focused on are questions that are mainly of interest to older people, not of interest to the younger generation. I think they are, in fact, of great people all the way down to junior high, high school, younger than that even, and certainly to young adults. ==The problem, I think, is that a lot of young people have been told by their schools, if you've got inner life questions, don't bring them here. Tuck them away. They're of private interest only. They have nothing to do with the educational process and really nothing to do with the living of your life. So younger people have heard a message of discouragement from some of our major institutions about not bringing those inner life questions to the table.== But my constant experience is that when there's an open invitation and a hospitable and safe space to bring them, younger people want to bring these questions of meaning and purpose just as profoundly and powerfully as some of us elders do. [^1]
 
-[^1]: [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015]]
+[^1]: [[sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015]]

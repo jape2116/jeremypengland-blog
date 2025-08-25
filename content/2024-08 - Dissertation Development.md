@@ -1,6 +1,5 @@
 ---
-{"publish":true,"created":"2024-08-27T12:07:05.175-05:00","modified":"2025-08-22T12:36:56.215-05:00","cssclasses":""}
+publish: true
 ---
-
 
 [[2024-08-27 - Zoom 1]]

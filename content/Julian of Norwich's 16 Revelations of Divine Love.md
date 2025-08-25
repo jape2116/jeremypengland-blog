@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-09-12T22:10:31.892-05:00","modified":"2025-08-22T12:36:56.259-05:00","cssclasses":""}
+publish: true
 ---
-
 1. Julian sees "red blood trickling down from under the Crown of Thorns" on a crucifix. She comprehends that the Holy Trinity is understood when Jesus appears. She sees his mother Mary as a young girl, and comprehends her nature. Jesus shows Julian "a little thing, the size of a hazelnut" as a sign of his love. 
 	1. “I saw ... as it were in the time of His Passion.... And in the same Shewing suddenly the Trinity filled my heart with utmost joy” 
 2. Julian sees a part of the Passion of Jesus upon his face, and her understanding is deepened by being guided down to the bottom of the sea. 

@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-28T00:51:33.258-05:00","modified":"2025-08-22T12:36:56.241-05:00","cssclasses":""}
+publish: true
 ---
-
 # Adopt a Saint - St. Moses the Black
 Jeremy England  
 DMN911: Prolegomena in Spiritual Formation & Discipleship  

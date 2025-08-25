@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-09-12T23:14:08.667-05:00","modified":"2025-08-22T12:36:56.269-05:00","cssclasses":""}
+publish: true
 ---
-
 # Notes
 # Revelations of Divine Love
 

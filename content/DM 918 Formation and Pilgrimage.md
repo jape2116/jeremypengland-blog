@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-07-16T16:19:47.568-05:00","modified":"2025-08-22T12:36:56.247-05:00","cssclasses":""}
+publish: true
 ---
-
 [[2025-06-09 - Class Notes]]
 
 ## Forum Posts

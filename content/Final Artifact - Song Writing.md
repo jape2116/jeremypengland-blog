@@ -1,7 +1,7 @@
 ---
-{"publish":true,"created":"2025-07-16T16:59:32.737-05:00","modified":"2025-08-22T12:36:56.249-05:00","cssclasses":""}
+word-goal: 300
+publish: true
 ---
-
 As I was thinking about this class and what it has meant to me, it became clear that it was a culmination of a liminal space I have been traveling through for a long time. Most of that journey was taken when I didn't have a vocabulary to describe it, nor did I have the skills to navigate through it well. Like many of my classmates I entered into this program from a space of wanting more. 
 
 I wanted more for the Church or more for my fellow clergy people who are neurodivergent. However, I have been realizing how much of this journey has been needed just for myself. I have grown as a person and experienced God with a deeper connection and a sense of awe and wonder. But I realized that it couldn't necessarily be fully realized and understood until I passed over that final threshold. And I don't mean that I have everything here figured out, but rather the liminal space I was journeying through has been traversed. 

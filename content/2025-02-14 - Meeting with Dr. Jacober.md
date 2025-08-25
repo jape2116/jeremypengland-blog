@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-02-14T11:32:29.576-06:00","modified":"2025-08-22T12:36:56.229-05:00","cssclasses":""}
+publish: true
 ---
-
 2025-02-14 - Meeting with [[Amy Jacober]]
 
 Spiritual Direction can be a "go with the flow" 

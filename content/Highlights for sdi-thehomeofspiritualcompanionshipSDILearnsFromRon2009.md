@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-02-14T16:58:24.142-06:00","modified":"2025-08-22T12:36:56.253-05:00","cssclasses":""}
+publish: true
 ---
-
 ## Highlights from sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009
 - [[See, if someone's entering spiritual direction at a time of their life where they're still kind of ...]][^1]
 - [[There's a second level where you're entering spiritual direction and your life is essentially toget...]][^1]
@@ -13,7 +12,7 @@
 - [[Peace has to be a harmony that comes out of respect, tolerance, ultimately loving each other, forgi...]][^1]
 - [[Peace is only going to come about when there's enough hearts at every level, from the janitor throu...]][^1]
 
-[^1]: [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009]]
+[^1]: [[sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009]]
 
 ## Source
-- [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009]]
+- [[sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009]]

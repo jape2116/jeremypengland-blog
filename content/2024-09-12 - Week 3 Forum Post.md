@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-09-12T02:05:06.233-05:00","modified":"2025-08-22T12:36:56.219-05:00","cssclasses":""}
+publish: true
 ---
-
 The part of the book that captured my attention this week was the section on chastity. I had never really thought about it much beyond "not having sex." Martin writes that "Strictly speaking, chastity refers to the proper and loving use of our sexuality, something that everyone is called to." (216) That puts  it in a much different understanding than a vow of celibacy, which is what I had conflated it to without much thought. 
 
 As I was reading through the section, I realized that chastity is another way to involve our entire body into the spiritual life. How I act, speak, view, or even desire others, will be an indictment in how I view the rest of the creation of God. It opens the door to greater relationships and offers a space of safety. Martin also writes that "Chastity also helps other people feel safe. People know that you've made a commitment to love them in a way that precludes using them, or manipulating them, or spending time with them simply as a means to an end." (222) And as I reflect on this particular passage, I think about the various movements in which men have taken advantage of women, resulting in things like the \#metoo movement or recently popular trend of choosing the bear over a random man in the woods meme. How have we come to use our sexuality as a means of control over other people? It is disheartening. 

@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-09-06T11:26:00.351-05:00","modified":"2025-08-22T12:36:56.219-05:00","cssclasses":""}
+publish: true
 ---
-
 10:30 Phone Call with [[Amy Jacober]]
 
 ## Pre-Meeting Notes

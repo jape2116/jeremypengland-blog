@@ -1,7 +1,7 @@
 ---
-{"publish":true,"created":"2025-05-03T03:28:41.293-05:00","modified":"2025-08-22T12:36:56.247-05:00","cssclasses":""}
+word-goal: 1200
+publish: true
 ---
-
 Coming into the Doctorate of Ministry program, I wanted to focus on providing support and resources neurodivergent clergy, both for clergy themselves and the people that oversee them. My original thought was that this would look like professional development for pastors who lead staffs, District Superintendents, General Superintendents, compassionate ministry leaders, and the like. Essentially I thought that I would be attempting to address the problem from the top of the structure down. However, after this course, I am envisioning another approach, or at the very least, a tandem initiative, which is spiritual direction for neurodivergent clergy. 
 
 There must be organizational change in allowing people to be themselves, as God created them, in the structure of the Church. To only allow people who are neurotypical the ability to belong, participate, and lead robs the dignity of not only neurodivergent people, but any differently abled person. In other words, when everyone must conform to the ideal, people will either make that change and be disingenuous, or they will be left behind. 

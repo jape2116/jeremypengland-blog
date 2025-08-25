@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-12-06T23:51:14.585-06:00","modified":"2025-08-22T12:36:56.226-05:00","cssclasses":""}
+publish: true
 ---
-
 1. Write about how one of the elements of this semester's course  - a reading, practice, discussion, or homework assignment - impacted or shaped your thinking regarding your dissertation topic, if at all. Just one small example is fine.
 
 2. Write an encouraging word to each other as we near the end of the semester!

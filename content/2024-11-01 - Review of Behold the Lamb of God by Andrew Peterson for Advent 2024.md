@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-11-01T12:21:28.862-05:00","modified":"2025-08-22T12:36:56.224-05:00","cssclasses":""}
+publish: true
 ---
-
 # Behold the Lamb of God by Andrew Peterson
 
 Overall, I think this album highlights the complexity and intimacy we experience as individuals in the contexts we're in. From striving for the desire of someone to lead us, to the chaos that is giving birth, and finally the realities of trusting in Jesus amidst a broken world. Humans have always been a part of the story, just not the saviors of the story. 

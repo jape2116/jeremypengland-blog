@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-03-21T11:48:17.855-05:00","modified":"2025-08-22T12:36:56.232-05:00","cssclasses":""}
+publish: true
 ---
-
 Infantalization - Straight white male saves the day and knows best
 
 Disability fight 3.0

@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-08-26T14:02:30.615-05:00","modified":"2025-08-22T12:36:56.216-05:00","cssclasses":""}
+publish: true
 ---
-
 5 zoom sessions
 - Zoom 1 - Teacher Led
 - Zoom 2 - A historical look at the important theological and ecclesiastical questions and cultural challenges that Ignatius asked and responded to in creative ways consistent with God’s dream for the church and world.

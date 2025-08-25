@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-08-29T00:03:15.778-05:00","modified":"2025-08-22T12:36:56.218-05:00","cssclasses":""}
+publish: true
 ---
-
 1. What important questions are Christians afraid to ask out loud right now? What are the questions coming from the young and the culture at large that need to be asked about the church?
 
 I think a large fear is can we ask questions. Particularly in our Nazarene tradition, we are facing the polarization that is evident in the secular world around us. Perhaps it is more so a United States problem, as I am not familiar with other regions of the Nazarene Church. The big question that seems to come up right now is in the realm of the LGBTQ+ community and their place (or lack thereof) in our congregations. We wrestle in our own congregation with the struggle of someone who is in a same sex marriage who wants nothing more than to follow Jesus. How do we create a safe place for her to be in a posture to seek after the calling of God on her life, while also not shying away from our teachings? 

@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-04-25T16:59:15.592-05:00","modified":"2025-08-22T12:36:56.235-05:00","cssclasses":""}
+publish: true
 ---
-
 ### Background Information
 
 The directee ("Kurt") and myself have known each other for about six years. Kurt is in his late 30's, single, and struggles in relationships and corporate settings. He is diagnosed with ADHD and struggles with personal relationships and authority figures, which is in part because of that neurodivergent type. Organized religion can be a burden to him at times but he is interested in and seeks out spiritual growth despite his disillusionment with the Church. Our relationship stems from a previous pastoral assignment and we maintain contact approximately every month and a half. 

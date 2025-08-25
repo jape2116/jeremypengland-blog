@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-10-10T03:18:29.122-05:00","modified":"2025-08-22T12:36:56.222-05:00","cssclasses":""}
+publish: true
 ---
-
 Dear Friend,
 
 The days are long and the nights feel longer. It is easy to become unfocused because of the abundance of technology and information that swirls around you every single day. Tragedy is highlighted and stories that make you feel good are seemingly far and few, and even then are only highlighted to give you a brief respite from the negativity of the world. How are you to find hope and do here on Earth as it is in Heaven? How are you to cultivate relationships and meaningful action in the world when technology is designed to capture you're attention infinitely? You life is a constant barrage of a failing world and sixty second videos of people presenting a cultivated version of themselves. How can one find authenticity in that?

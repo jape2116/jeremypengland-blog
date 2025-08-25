@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-11-07T17:13:43.723-06:00","modified":"2025-08-22T12:36:56.225-05:00","cssclasses":""}
+publish: true
 ---
-
 What can be affirmed from the sermon you heard and what needs to be reframed or articulated differently for the lasting truths to be heard and understood today? Pick a section of the sermon and affirm what is true and recast it for young disciples today.
 
 

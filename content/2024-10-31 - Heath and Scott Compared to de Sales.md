@@ -1,7 +1,7 @@
 ---
-{"publish":true,"created":"2024-11-01T02:42:32.902-05:00","modified":"2025-08-22T12:36:56.223-05:00","cssclasses":""}
+word-goal: 750
+publish: true
 ---
-
 Perhaps the most important, overarching theme, between all of the spiritual discipline movements is the desire to be more intentional and less passive about the spiritual life. This is evident when reading about works by St. Francis de Sales, John Wesley, and in this instance, Elaine Heath and Scott Kisker. In many of the movements the aforementioned people are a part of, a complacency has crept into the spiritual life of the communities that each of them call home. There are many similarities between the writings and spiritual understandings between de Sales and Wesley (Heath and Kisker are a continuation of the work of Wesley), more so than the differences one may find between them. 
 
 The first similarity has already been mentioned in the introduction, and that is the impetus for change is dissatisfaction in the spiritual life of the communities surrounding de Sales and Wesley. De Sales was at the tail end of the Protestant Reformation (and the resulting Catholic Reformations) and drew from his experiences of law and spirituality as taught by the Jesuits. This movement was a movement towards the laity's deeper involvement in their own spiritual lives. De Sales understood this well and spoke in a way that many could understand, even those outside of the Roman Catholic Church. De Sales found a way of preaching that connected with the lay people in a way that visual and engaging. This was in contrast to the other priests at his time "who led erudite sermons packed with clever theological references, designed to impress the elite. Instead, Francis became known as someone who preached heart to heart. He conveyed his own passionate love of God and his vision of a world of interconnected human-divine hearts to his eager audiences."[31. @wrightFrancisSalesJane2017] 

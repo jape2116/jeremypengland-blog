@@ -1,6 +1,11 @@
 ---
 category: literaturenote
-tags: D.Min, NTS, spiritual companionship, spiritual direction, theology
+tags: 
+  - D_Min 
+  - NTS
+  - spiritual_companionship
+  - spiritual_direction
+  - theology
 citekey: sdi-thehomeofspiritualcompanionshipSDILearnsFromCynthia2010
 status: unread
 dateread:

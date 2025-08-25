@@ -1,7 +1,7 @@
 ---
-{"publish":true,"created":"2023-12-08T22:19:45.035-06:00","modified":"2025-08-22T12:36:56.282-05:00","cssclasses":""}
+word-goal: 200
+publish: true
 ---
-
 
 
 Jeremy England  

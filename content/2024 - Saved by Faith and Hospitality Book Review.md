@@ -1,7 +1,7 @@
 ---
-{"publish":true,"created":"2025-02-08T01:33:37.065-06:00","modified":"2025-08-22T12:36:56.214-05:00","cssclasses":""}
+word-goal: 455
+publish: true
 ---
-
 
 # Saved by Faith and Hospitality Book Review
 

@@ -1,7 +1,7 @@
 ---
-{"publish":true,"created":"2025-05-02T11:47:15.205-05:00","modified":"2025-08-22T12:36:56.277-05:00","cssclasses":""}
+word-goal: 600
+publish: true
 ---
-
 My spiritual director is a man named Aaron Manes[^1] and he is based in Richardson, Texas[^2] I found him with a simple internet search of "Spiritual Directors near me." I had no real reason to choose him over anyone else except he was near the top, near me, had a great website, and made the process of getting started really easy. 
 
 Aaron and I met twice, once online for the initial introduction section for about an hour, and then again in person at a place called the The Retreat House.[^3] The initial call was not as important to meet in person because I wanted to get a feel for the process and if we would work well together and very quickly I knew we would so I scheduled a session. On April 22nd we met at the Retreat House and went into a small comfortable room where he basically asked about my life. We didn't start with a prayer or any real ground rules, just "what's going on?" 

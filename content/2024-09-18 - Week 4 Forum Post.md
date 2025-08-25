@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2024-09-19T16:59:02.343-05:00","modified":"2025-08-22T12:36:56.220-05:00","cssclasses":""}
+publish: true
 ---
-
 *How does the Jesuit understanding of vocation intersect with your own questions about vocation and calling in this stage of your life and ministry? Include quotes/citations, please*
 
 I have shared previously that I used to be a high school teacher. My undergraduate degree was in music education and when I left that field, I was serving as the mentor teacher to the world language, arts, and music team. I had given school wide presentations about being a better teacher and using different systems and tools to be a better resource for students. My APEST gifting was teacher by a long shot. I thought that I had it made in terms of fulfilling my vocation with my career. 
