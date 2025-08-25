@@ -1,20 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - disability
-  - NTS
-  - D_Min
-  - accessibility
-  - disabilities
-  - minorities
-  - process_to_obsidian
-  - impairements
-citekey: ohsbergChurchPersonsHandicaps1982
-status: unread
-dateread:
-alias: The Church and Persons With Handicaps
-publish: true
+{"publish":true,"aliases":" The Church and Persons With Handicaps","created":"2025-08-22T13:17:00.033-05:00","modified":"2025-08-22T13:17:00.033-05:00","tags":["disability","NTS","D_Min","accessibility","disabilities","minorities","process_to_obsidian","impairements"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Ohsberg, H. Oliver. _The Church and Persons With Handicaps_. Kitchener, Ont.: Herald Press, 1982.
@@ -188,10 +175,10 @@ Relationships are the second means of communicating spiritual truths. In relatio
 ## CHAPTER 10: Conclusion
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-09T12:33:22.269-05:00 %%
+
+

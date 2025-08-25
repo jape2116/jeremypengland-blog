@@ -1,12 +1,7 @@
 ---
-category: literaturenote
-tags: D.Min, NTS, spiritual companionship, spiritual direction, theology
-citekey: sdi-thehomeofspiritualcompanionshipSDILearnsFromCynthia2010
-status: unread
-dateread:
-alias: SDI Learns From...Cynthia Baga
-publish: true
+{"publish":true,"aliases":" SDI Learns From...Cynthia Baga","created":"2025-08-22T12:36:56.092-05:00","modified":"2025-08-25T15:07:55.636-05:00","tags":["D_Min","NTS","spiritual_companionship","spiritual_direction","theology"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > _SDI Learns From...Cynthia Baga_, 2010. [https://www.youtube.com/watch?v=uXvxiaiRW4Q](https://www.youtube.com/watch?v=uXvxiaiRW4Q).
@@ -74,11 +69,11 @@ So even my helper of 20 years, she's telling me recently, you know, she's like, 
 
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
  
 
 
-%% end annotations %%
 
 
-%% Import Date: 2025-02-13T14:17:49.322-06:00 %%
+
+

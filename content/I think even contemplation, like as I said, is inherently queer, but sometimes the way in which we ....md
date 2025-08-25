@@ -5,4 +5,4 @@
 ## Source
 > undefined[^1]
 
-[^1]: [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIEncountersConversation2024]]
+[^1]: [[To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIEncountersConversation2024]]

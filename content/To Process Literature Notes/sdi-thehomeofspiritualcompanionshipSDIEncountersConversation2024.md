@@ -1,21 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - D_Min
-  - NTS
-  - queer
-  - spiritual
-  - companionship
-  - spiritual
-  - direction
-  - theology
-citekey: sdi-thehomeofspiritualcompanionshipSDIEncountersConversation2024
-status: unread
-dateread:
-aliases:
-  - SDI Encounters - Conversation on Spiritual Companionship Through Queer Lenses
-publish: true
+{"publish":true,"aliases":"SDI Encounters - Conversation on Spiritual Companionship Through Queer Lenses","created":"2025-08-22T13:15:28.224-05:00","modified":"2025-08-22T13:15:28.224-05:00","tags":["D_Min","NTS","queer","spiritual","companionship","spiritual","direction","theology"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > _SDI Encounters - Conversation on Spiritual Companionship Through Queer Lenses_, 2024. [https://www.youtube.com/watch?v=vfoR4UXW5wU](https://www.youtube.com/watch?v=vfoR4UXW5wU).
@@ -129,10 +115,10 @@ We're doing, like, a free preview at some points before the series, and so that'
 Yeah, I'll see you too.
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2025-02-13T10:39:33.124-06:00 %%
+
+

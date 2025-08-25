@@ -13,7 +13,7 @@
 - [[Peace has to be a harmony that comes out of respect, tolerance, ultimately loving each other, forgi...]][^1]
 - [[Peace is only going to come about when there's enough hearts at every level, from the janitor throu...]][^1]
 
-[^1]: [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009]]
+[^1]: [[To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009]]
 
 ## Source
-- [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009]]
+- [[To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009]]

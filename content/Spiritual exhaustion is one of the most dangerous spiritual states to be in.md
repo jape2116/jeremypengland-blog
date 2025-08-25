@@ -6,4 +6,4 @@ Being exhausted causes us to care for ourselves first and foremost. That isn't i
 ## Source
 > In a way, our American-U. S. ==tendency toward over-stimulation, we're just spiritually exhausted, and the desert elders from the fourth and fifth centuries considered exhaustion to be one of the most dangerous spiritual states.== you[^1]
 
-[^1]: [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromThe2009]]
+[^1]: [[To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromThe2009]]

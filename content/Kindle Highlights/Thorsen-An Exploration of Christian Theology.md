@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "4887"
-  title: An Exploration of Christian Theology
-  author: Don Thorsen
-  asin: B005OYUHWS
-  lastAnnotatedDate: 2019-11-25
-  bookImageUrl: https://m.media-amazon.com/images/I/91nz2jIHZeL._SY160.jpg
-  highlightsCount: 291
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.081-05:00","modified":"2025-08-22T12:36:56.081-05:00","cssclasses":""}
 ---
+
 # An Exploration of Christian Theology
 ## Metadata
 * Author: [Don Thorsen](https://www.amazon.comundefined)

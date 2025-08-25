@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "25433"
-  title: "Growing Young: Six Essential Strategies to Help Young People Discover and Love Your Church"
-  author: Kara Powell, Jake Mulder, and Brad Griffin
-  asin: B01L9IVGCM
-  lastAnnotatedDate: 2019-03-09
-  bookImageUrl: https://m.media-amazon.com/images/I/81stFhZceRL._SY160.jpg
-  highlightsCount: 139
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.072-05:00","modified":"2025-08-22T12:36:56.072-05:00","cssclasses":""}
 ---
+
 # Growing Young
 ## Metadata
 * Author: [Kara Powell, Jake Mulder, and Brad Griffin](https://www.amazon.comundefined)

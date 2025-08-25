@@ -7,4 +7,4 @@
 > 
 > Like, how do I die? How do I exit my family, my community, in such a way that I'm leaving them a legacy of faith and decency and that they can be proud of the way I died, not just of the way I lived.[^1]
 
-[^1]: [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009]]
+[^1]: [[To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009]]

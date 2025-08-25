@@ -1,21 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - disability
-  - NTS
-  - theology
-  - D_Min
-  - accessibility
-  - disabilities
-  - minorities
-  - process_to_obsidian
-  - impairements
-citekey: reynoldsVulnerableCommunionTheology2008
-status: unread
-dateread:
-alias: "Vulnerable Communion: A Theology of Disability and Hospitality"
-publish: true
+{"publish":true,"aliases":" Vulnerable Communion: A Theology of Disability and Hospitality","created":"2025-08-22T13:33:41.822-05:00","modified":"2025-08-22T13:33:41.822-05:00","tags":["disability","NTS","theology","D_Min","accessibility","disabilities","minorities","process_to_obsidian","impairements"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Reynolds, Thomas E. _Vulnerable Communion: A Theology of Disability and Hospitality_. Grand Rapids, MI: Brazos Press, 2008.
@@ -771,10 +757,10 @@ By: Thomas E. Reynolds
 -
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-06T22:40:08.738-05:00 %%
+
+

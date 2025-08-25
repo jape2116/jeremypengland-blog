@@ -1,22 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - disability
-  - NTS
-  - Christianity
-  - theology
-  - D.Min
-  - process_to_obsidian
-  - Australia
-  - New
-  - Zealand
-citekey: yongDisabilityRenewalTheological2016
-status: unread
-dateread:
-aliases:
-  - "Disability and the Renewal of Theological Education: Beyond Ableism"
-publish: true
+{"publish":true,"aliases":"Disability and the Renewal of Theological Education: Beyond Ableism","created":"2025-08-22T12:36:56.208-05:00","modified":"2025-08-22T12:36:56.208-05:00","tags":["disability","NTS","Christianity","theology","D.Min","process_to_obsidian","Australia","New","Zealand"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Yong, Amos. “Disability and the Renewal of Theological Education: Beyond Ableism.” In _Theology and the Experience of Disability: Interdisciplinary Perspectives From Voices Down Under_, edited by Myk Habets and Andrew Picard. London: Routledge, 2016.
@@ -112,10 +97,10 @@ the goal is not just that there will be courses on disability ministry in our se
 The fact is that about one-fifth of any population experiences impairment in some way. Certainly, there is some truth to the motto that we are all only temporarily able-bodied: we come into the world dependent on others, and if are blessed to live long enough, we will exit this world in a similar state of dependence.
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-06T22:55:55.045-05:00 %%
+
+

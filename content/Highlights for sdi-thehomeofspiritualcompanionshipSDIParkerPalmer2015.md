@@ -13,7 +13,7 @@
 - [[Spiritual direction has been a huge gift in my life because as someone who's received spiritual dir...]][^4]
 - [[On my journey, people like that have helped me come back to true north, have helped me reclaim the ...]][^4]
 
-[^4]: [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015]]
+[^4]: [[To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015]]
 
 ## Source
-- [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015]]
+- [[To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015]]

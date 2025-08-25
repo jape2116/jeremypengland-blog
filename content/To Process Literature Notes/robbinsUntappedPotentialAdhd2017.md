@@ -1,17 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - D_Min
-  - disability
-  - ADHD
-  - read
-citekey: robbinsUntappedPotentialAdhd2017
-status: unread
-dateread:
-aliases:
-  - The untapped potential of the ADHD employee in the workplace
-publish: true
+{"publish":true,"aliases":"The untapped potential of the ADHD employee in the workplace","created":"2025-08-22T13:27:04.892-05:00","modified":"2025-08-22T13:27:04.892-05:00","tags":["D_Min","disability","ADHD","read"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Robbins, Randall. “The Untapped Potential of the ADHD Employee in the Workplace.” Edited by Milena Ratajczak-Mrozek. _Cogent Business & Management_ 4, no. 1 (January 1, 2017): 1271384. [https://doi.org/10.1080/23311975.2016.1271384](https://doi.org/10.1080/23311975.2016.1271384).
@@ -57,7 +47,7 @@ Jeremy's Review
 Managing ADHD employees is important for a number of reasons. The author outlines the legal, ethical, and moral reasons to do so. A more productive workforce is a better for the individual and the community. Managing an ADHD employee well will give them value, and the accommodations you make for them will more than likely benefit the entire team that you manage. 
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -175,7 +165,7 @@ The Ted Lasso effect.
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2023-10-26T17:13:16.660-05:00 %%
+
+

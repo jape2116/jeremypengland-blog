@@ -1,13 +1,7 @@
 ---
-category: literaturenote
-tags:
-citekey: scheinEconomicBurdenAttentiondeficit2022
-status: unread
-dateread:
-aliases:
-  - "Economic burden of attention-deficit/hyperactivity disorder among adults in the United States: a societal perspective"
-publish: true
+{"publish":true,"aliases":"Economic burden of attention-deficit/hyperactivity disorder among adults in the United States: a societal perspective","created":"2025-08-22T12:36:56.193-05:00","modified":"2025-08-22T12:36:56.193-05:00","cssclasses":""}
 ---
+
 
 > [!Cite]
 > Schein, Jeff, Lenard A Adler, Ann Childress, Patrick Gagnon-Sanschagrin, Mikhaïl Davidson, Frédéric Kinkead, Martin Cloutier, Annie Guérin, and Patrick Lefebvre. “Economic Burden of Attention-Deficit/Hyperactivity Disorder among Adults in the United States: A Societal Perspective.” _Journal of Managed Care & Specialty Pharmacy_ 28, no. 2 (February 2022): 168–79. [https://doi.org/10.18553/jmcp.2021.21290](https://doi.org/10.18553/jmcp.2021.21290).
@@ -63,7 +57,7 @@ Part of the material in this study was presented as a poster at the Internationa
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -77,7 +71,7 @@ Part of the material in this study was presented as a poster at the Internationa
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2023-12-09T20:07:22.535-06:00 %%
+
+

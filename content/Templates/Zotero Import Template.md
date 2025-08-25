@@ -1,14 +1,7 @@
 ---
-category: literaturenote
-tags:
-citekey:
-  "{ citekey }":
-status: unread
-dateread:
-alias:
-  "{ title }":
-publish: true
+{"publish":true,"aliases":"","created":"2025-08-22T12:36:56.095-05:00","modified":"2025-08-22T12:36:56.095-05:00","cssclasses":""}
 ---
+
 
 > [!Cite]
 > {{bibliography}}

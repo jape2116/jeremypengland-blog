@@ -1,18 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - NTS
-  - education
-  - D_Min
-  - Cultural
-  - Intelligence
-citekey: gokalpRelationshipSchoolPrincipals2021
-status: unread
-dateread:
-aliases:
-  - The Relationship Between School Principals' Cultural Intelligence Level and Teachers' Job Satisfaction and Intention to Leave the Job
-publish: true
+{"publish":true,"aliases":"The Relationship Between School Principals' Cultural Intelligence Level and Teachers' Job Satisfaction and Intention to Leave the Job","created":"2025-08-22T13:08:37.849-05:00","modified":"2025-08-22T13:08:37.849-05:00","tags":["NTS","education","D_Min","Cultural","Intelligence"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Gokalp, Serkan. “The Relationship Between School Principals’ Cultural Intelligence Level and Teachers’ Job Satisfaction and Intention to Leave the Job.” _European Journal of Educational Research_ 11, no. 1 (January 15, 2021): 493–509. [https://doi.org/10.12973/eu-jer.11.1.493](https://doi.org/10.12973/eu-jer.11.1.493).
@@ -53,7 +42,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -82,7 +71,7 @@ publish: true
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2025-02-28T01:45:02.495-06:00 %%
+
+

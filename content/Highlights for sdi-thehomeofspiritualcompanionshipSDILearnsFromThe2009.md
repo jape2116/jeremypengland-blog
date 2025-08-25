@@ -9,7 +9,7 @@
 - [[Pause and notice connections]][^1]
 - [[Spiritual exhaustion is one of the most dangerous spiritual states to be in]][^1]
 
-[^1]: [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromThe2009]]
+[^1]: [[To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromThe2009]]
 
 ## Source
-- [[content/To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromThe2009]]
+- [[To Process Literature Notes/sdi-thehomeofspiritualcompanionshipSDILearnsFromThe2009]]

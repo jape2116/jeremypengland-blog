@@ -1,17 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - NTS
-  - ADHD
-  - neurodiversity
-  - D_Min
-  - cultural_intelligence
-citekey: ghoshalHowRaceCulture2022
-status: unread
-dateread:
-alias: How Race and Culture Can Impact an ADHD Diagnosis
-publish: true
+{"publish":true,"aliases":" How Race and Culture Can Impact an ADHD Diagnosis","created":"2025-08-22T13:32:00.888-05:00","modified":"2025-08-22T13:32:00.888-05:00","tags":["NTS","ADHD","neurodiversity","D_Min","cultural_intelligence"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Ghoshal, Malini. “How Race and Culture Can Impact an ADHD Diagnosis.” MedCentral, March 9, 2022. [https://www.medcentral.com/behavioral-mental/adhd/adhd-and-culture-a-complex-dynamic-influences-diagnosis-and-treatment-in-bipoc-patients](https://www.medcentral.com/behavioral-mental/adhd/adhd-and-culture-a-complex-dynamic-influences-diagnosis-and-treatment-in-bipoc-patients).
@@ -47,7 +37,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -96,7 +86,7 @@ publish: true
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2025-02-28T02:02:15.233-06:00 %%
+
+

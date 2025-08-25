@@ -1,21 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - NTS
-  - spiritual_formation
-  - Catholic
-  - saint
-  - D_Min
-  - process_to_obsidian
-  - spiritual_life
-  - spirituality
-citekey: desalesIntroductionDevoutLife
-status: read
-dateread:
-aliases:
-  - Introduction to the Devout Life
-publish: true
+{"publish":true,"aliases":"Introduction to the Devout Life","created":"2025-08-22T13:29:30.056-05:00","modified":"2025-08-22T13:29:30.056-05:00","tags":["NTS","spiritual_formation","Catholic","saint","D_Min","process_to_obsidian","spiritual_life","spirituality"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Sales, Francis de. _Introduction to the Devout Life_. Grand Rapids, MI: Christian Classics Ethereal Library, n.d. [https://ccel.org/ccel/desales/devout_life/devout_life?queryID=39703112&resultID=725](https://ccel.org/ccel/desales/devout_life/devout_life?queryID=39703112&resultID=725).
@@ -62,7 +48,7 @@ to the world of God's abounding grace and love.
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -2585,7 +2571,7 @@ Note <br><br>
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-10-04T16:43:16.014-05:00 %%
+
+

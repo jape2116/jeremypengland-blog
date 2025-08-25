@@ -1,19 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - D_Min
-  - process_to_obsidian
-  - spiritual
-  - direction
-  - Trinity
-  - philosophy
-citekey: barrySpiritualDirectionEncounter2004
-status: unread
-dateread:
-aliases:
-  - "Spiritual Direction and the Encounter With God: A Theological Inquiry"
-publish: true
+{"publish":true,"aliases":"Spiritual Direction and the Encounter With God: A Theological Inquiry","created":"2025-08-22T13:39:11.941-05:00","modified":"2025-08-22T13:39:11.941-05:00","tags":["D_Min","process_to_obsidian","spiritual","direction","Trinity","philosophy"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Barry, William A. _Spiritual Direction and the Encounter With God: A Theological Inquiry_. Rev. ed. Mahwah, N.J: Paulist Press, 2004.
@@ -220,7 +208,7 @@ publish: true
 [Go to annotation](zotero://open-pdf/library/items/5X4NUJLC?page=106&annotation=NCNV88LE) “God works continually to convince each one of us that our real happiness and consolation lies in embracing God’s intention or dream. Moreover, God wants us to create institutions and structures and laws that will make this community life more possible for all persons” ([Barry, 2004, p. 106](zotero://select/library/items/I6CDNPT5))
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 ### Imported: 2025-02-14 11:34 am
@@ -663,7 +651,7 @@ publish: true
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2025-02-14T11:34:36.452-06:00 %%
+
+
