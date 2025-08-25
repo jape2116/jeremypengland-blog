@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-23T17:47:41.911-05:00","modified":"2025-08-22T12:36:55.978-05:00","cssclasses":""}
 ---
+
 [[ADHD]] is a predictor in lower health, substance abuse likelihood, [[PTSD]] and early mortality ages than their peers.
 
 ---
@@ -13,5 +14,5 @@ publish: true
 
 ---
 
-**Link to original note:** [[americanpsychiatricassociationDiagnosticStatisticalManual2022]]
+**Link to original note:** [[To Process Literature Notes/americanpsychiatricassociationDiagnosticStatisticalManual2022]]
 **Go to annotation:** 

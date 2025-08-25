@@ -1,17 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - disability
-  - NTS
-  - D_Min
-  - accessibility
-  - univesal_design
-citekey: Principles
-status: unread
-dateread:
-alias: The 7 Principles
-publish: true
+{"publish":true,"aliases":" The 7 Principles","created":"2025-08-22T13:09:14.992-05:00","modified":"2025-08-22T13:09:14.992-05:00","tags":["disability","NTS","D_Min","accessibility","univesal_design"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Centre for Excellence in Universal Design. “The 7 Principles.” Accessed February 23, 2024. [https://universaldesign.ie/about-universal-design/the-7-principles](https://universaldesign.ie/about-universal-design/the-7-principles).
@@ -45,10 +35,10 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-09T15:50:38.669-05:00 %%
+
+

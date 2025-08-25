@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "56537"
-  title: A Plain Account of Christian Perfection
-  author: John Wesley
-  asin: B003FGWUUE
-  lastAnnotatedDate: 2018-10-02
-  bookImageUrl: https://m.media-amazon.com/images/I/51Cpvjq+kVL._SY160.jpg
-  highlightsCount: 83
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.085-05:00","modified":"2025-08-22T12:36:56.085-05:00","cssclasses":""}
 ---
+
 # A Plain Account of Christian Perfection
 ## Metadata
 * Author: [John Wesley](https://www.amazon.comundefined)

@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "10098"
-  title: "Kingdom Ethics: Following Jesus in Contemporary Context"
-  author: Glen H. Stassen and David P. Gushee
-  asin: B016LEOZ6I
-  lastAnnotatedDate: 2016-04-12
-  bookImageUrl: https://m.media-amazon.com/images/I/81TtgFWRatL._SY160.jpg
-  highlightsCount: 178
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.078-05:00","modified":"2025-08-22T12:36:56.078-05:00","cssclasses":""}
 ---
+
 # Kingdom Ethics
 ## Metadata
 * Author: [Glen H. Stassen and David P. Gushee](https://www.amazon.comundefined)

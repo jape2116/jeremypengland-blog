@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "57946"
-  title: "Our Watchword and Song: The Centennial History of the Church of the Nazarene"
-  author: Floyd Cunningham
-  asin: B00FRMTYVW
-  lastAnnotatedDate: 2021-02-27
-  bookImageUrl: https://m.media-amazon.com/images/I/7121dSp3aAL._SY160.jpg
-  highlightsCount: 246
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.027-05:00","modified":"2025-08-22T12:36:56.027-05:00","cssclasses":""}
 ---
+
 # Our Watchword and Song
 ## Metadata
 * Author: [Floyd Cunningham](https://www.amazon.comundefined)

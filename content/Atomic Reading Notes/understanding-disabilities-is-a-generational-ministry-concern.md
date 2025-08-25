@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-31T12:07:42.693-05:00","modified":"2025-08-22T12:36:56.008-05:00","cssclasses":""}
 ---
+
  On a practical level, addressing [[disability]] for children is paramount to attracting new families, or retaining families that are having kids or interactions with kids who have disabilities. More importantly, addressing disabilities is a spiritual endeavor. Local churches should strive to be accommodating to anyone wishing to seek a spiritual journey inside it's community.
 
 ---
@@ -13,7 +14,7 @@ publish: true
 
 ---
 
-**Link to original note:** [[annandalenaomihDisabilityTheologicalEducation2014]]
+**Link to original note:** [[To Process Literature Notes/annandalenaomihDisabilityTheologicalEducation2014]]
 **Go to annotation:** 
 
 6. Melinda Jones Ault, Belva c. Collins, and Erik w. Carter, "Congregational Participation and Supports for Children and Adults with Disabilities: Parent Perceptions," Intellectual and Developmental Disabilities 51, no. 1 (Feb. 2013): 48-61, doi:10.1352/1934-9556-51.01.048.

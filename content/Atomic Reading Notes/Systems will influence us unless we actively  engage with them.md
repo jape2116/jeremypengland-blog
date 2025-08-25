@@ -1,8 +1,9 @@
 ---
-publish: true
+{"publish":true,"created":"2025-02-13T23:32:52.190-06:00","modified":"2025-08-22T12:36:56.006-05:00","cssclasses":""}
 ---
+
 Systems have a huge influence in who we are. They don't have to define us, but unless we are intentional about addressing the systems we are formed and shaped by, we are a participant in its influence, willingly or not.
 ## Source
 > ==And especially this issue of racism is making a lot of us see that the only way a full racist, an unapologetic racist can emerge is in a culture of racism, a worldview, a county, a city, a state, a neighborhood, a church that already has agreed racism is good.== Unless we have a mirror. And I think that's why most people are called a relationship, or at least solid community. We just are highly capable of illusion. ==We don't naturally confront our compulsions, our delusions, our shadow self.== Now, that's not the only job of a spiritual director. But if he or she is well trained, they know how to do that in an almost indirect way. I know I had spiritual directors do it with me, not in an accusatory way, but just a questioning way.[^1]
 
-[^1]: [[sdi-thehomeofspiritualcompanionshipCallContemplativeSolidarity2021]]
+[^1]: [[Processed Literature Notes/sdi-thehomeofspiritualcompanionshipCallContemplativeSolidarity2021]]

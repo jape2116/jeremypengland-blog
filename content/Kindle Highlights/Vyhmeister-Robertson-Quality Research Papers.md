@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "60351"
-  title: "Quality Research Papers: For Students of Religion and Theology"
-  author: Nancy Jean Vyhmeister and Terry Dwain Robertson
-  asin: B07TH8HMPL
-  lastAnnotatedDate: 2023-12-05
-  bookImageUrl: https://m.media-amazon.com/images/I/71IhZUHf2ML._SY160.jpg
-  highlightsCount: 124
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.084-05:00","modified":"2025-08-22T12:36:56.084-05:00","cssclasses":""}
 ---
+
 # Quality Research Papers
 ## Metadata
 * Author: [Nancy Jean Vyhmeister and Terry Dwain Robertson](https://www.amazon.comundefined)

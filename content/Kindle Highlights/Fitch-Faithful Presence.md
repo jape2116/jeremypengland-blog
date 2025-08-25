@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "34461"
-  title: "Faithful Presence: Seven Disciplines That Shape the Church for Mission"
-  author: David E. Fitch
-  asin: B01N3Q00OH
-  lastAnnotatedDate: 2018-11-29
-  bookImageUrl: https://m.media-amazon.com/images/I/818QYzgOuDL._SY160.jpg
-  highlightsCount: 164
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.031-05:00","modified":"2025-08-22T12:36:56.031-05:00","cssclasses":""}
 ---
+
 # Faithful Presence
 ## Metadata
 * Author: [David E. Fitch](https://www.amazon.comundefined)

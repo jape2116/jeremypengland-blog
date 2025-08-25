@@ -1,17 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - spiritual_formation
-  - saint
-  - D_Min
-  - pacifism
-  - pacifist
-citekey: pieterdykhorstStMosesBlack2011
-status: unread
-dateread:
-alias: St. Moses the Black A Patron Saint of Non-Violence
-publish: true
+{"publish":true,"aliases":" St. Moses the Black A Patron Saint of Non-Violence","created":"2025-08-22T13:25:55.547-05:00","modified":"2025-08-22T13:25:55.547-05:00","tags":["spiritual_formation","saint","D_Min","pacifism","pacifist"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Pieter Dykhorst. “St. Moses the Black A Patron Saint of Non-Violence,” December 7, 2011. [https://incommunion.org/2011/12/07/st-moses-the-black-a-patron-saint-of-non-violence-by-pieter-dykhorst/](https://incommunion.org/2011/12/07/st-moses-the-black-a-patron-saint-of-non-violence-by-pieter-dykhorst/).
@@ -47,7 +37,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 ### Imported: 2023-10-26 10:59 am
@@ -100,4 +90,4 @@ publish: true
 
 
 
-%% end annotations %%
+

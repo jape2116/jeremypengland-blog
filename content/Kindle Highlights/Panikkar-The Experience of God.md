@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "8176"
-  title: "The Experience of God: Icons of the Mystery"
-  author: Raimon Panikkar
-  asin: B002FU5SIM
-  lastAnnotatedDate: 2023-12-01
-  bookImageUrl: https://m.media-amazon.com/images/I/41HIIU4HnbL._SY160.jpg
-  highlightsCount: 5
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.068-05:00","modified":"2025-08-22T12:36:56.068-05:00","cssclasses":""}
 ---
+
 # The Experience of God
 ## Metadata
 * Author: [Raimon Panikkar](https://www.amazon.comundefined)

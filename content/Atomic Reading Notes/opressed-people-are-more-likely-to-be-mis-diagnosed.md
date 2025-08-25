@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-23T17:49:50.654-05:00","modified":"2025-08-22T12:36:55.998-05:00","cssclasses":""}
 ---
+
 Those from cultures that have been socially oppressed are more often labeled with [[defiant disorders]] and are under diagnosed with [[ADHD]].
 
 ---
@@ -12,5 +13,5 @@ Those from cultures that have been socially oppressed are more often labeled wit
 
 ---
 
-**Link to original note:** [[americanpsychiatricassociationDiagnosticStatisticalManual2022]]
+**Link to original note:** [[To Process Literature Notes/americanpsychiatricassociationDiagnosticStatisticalManual2022]]
 **Go to annotation:** 

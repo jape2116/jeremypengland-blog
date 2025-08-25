@@ -1,16 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - disability
-  - ADHD
-  - read
-citekey: nadeauCareerChoicesWorkplace2005
-status: unread
-dateread:
-aliases:
-  - Career Choices and Workplace Challenges for Individuals With ADHD
-publish: true
+{"publish":true,"aliases":"Career Choices and Workplace Challenges for Individuals With ADHD","created":"2025-08-22T12:36:56.183-05:00","modified":"2025-08-22T12:36:56.183-05:00","tags":["disability","ADHD","read"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Nadeau, Kathleen G. “Career Choices and Workplace Challenges for Individuals With ADHD.” _Journal of Clinical Psychology_ 61, no. 5 (May 2005): 549–63. [https://doi.org/10.1002/jclp.20119](https://doi.org/10.1002/jclp.20119).
@@ -56,7 +47,7 @@ publish: true
 This journal article reviews the detrimental nature of untreated ADHD in adults in relation to the workforce. There are often difficulties in finding a job that is meaningful, and then keeping said job. They key to being successful in a career with ADHD is typically early intervention of ADHD symptoms and also studying people with ADHD who have achieved high levels success by resiliance alone.
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 ### Imported: 2023-10-23 1:07 pm
@@ -124,4 +115,4 @@ This journal article reviews the detrimental nature of untreated ADHD in adults 
 
 
 
-%% end annotations %%
+

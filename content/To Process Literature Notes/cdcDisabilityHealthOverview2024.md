@@ -1,18 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - disability
-  - NTS
-  - read
-  - D_Min
-  - World_Health_Organization
-  - CDC
-citekey: cdcDisabilityHealthOverview2024
-status: unread
-dateread:
-alias: Disability and Health Overview | CDC
-publish: true
+{"publish":true,"aliases":" Disability and Health Overview | CDC","created":"2025-08-22T13:31:36.635-05:00","modified":"2025-08-22T13:31:36.635-05:00","tags":["disability","NTS","read","D_Min","World_Health_Organization","CDC"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > CDC. “Disability and Health Overview | CDC.” Centers for Disease Control and Prevention, April 3, 2024. [https://www.cdc.gov/ncbddd/disabilityandhealth/disability.html](https://www.cdc.gov/ncbddd/disabilityandhealth/disability.html).
@@ -48,7 +37,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -67,7 +56,7 @@ publish: true
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-08T17:47:27.775-05:00 %%
+
+

@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-31T12:07:42.673-05:00","modified":"2025-08-22T12:36:56.001-05:00","cssclasses":""}
 ---
+
  Often times, those with [[disability]] must perform above and beyond that of their peers. It is one of the disadvantages of being different from what is considered "normal." 
 
 ---
@@ -11,5 +12,5 @@ publish: true
 
 ---
 
-**Link to original note:** [[brennanAttitudesAbleBodiedPeople2013]]
+**Link to original note:** [[Processed Literature Notes/brennanAttitudesAbleBodiedPeople2013]]
 **Go to annotation:** [Go to annotation](zotero://open-pdf/groups/5230851/items/KWZSN28E?page=85&annotation=ACBYIQ6A) 

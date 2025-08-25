@@ -1,17 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - ADA
-  - D_Min
-  - disability
-  - law
-  - NTS
-citekey: WhatDefinitionDisability
-status: unread
-dateread:
-alias: What is the definition of disability under the ADA? | ADA National Network
-publish: true
+{"publish":true,"aliases":" What is the definition of disability under the ADA? | ADA National Network","created":"2025-08-22T13:17:27.814-05:00","modified":"2025-08-22T13:17:27.814-05:00","tags":["ADA","D_Min","disability","law","NTS"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > “What Is the Definition of Disability under the ADA? | ADA National Network.” Accessed May 16, 2024. [https://adata.org/faq/what-definition-disability-under-ada](https://adata.org/faq/what-definition-disability-under-ada).
@@ -43,10 +33,10 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-16T22:55:07.644-05:00 %%
+
+

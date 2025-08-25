@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "63205"
-  title: "Sticky Faith: Everyday Ideas to Build Lasting Faith in Your Kids"
-  author: Kara Powell, Chap Clark, and John Ortberg and Jim Candy
-  asin: B005IOZTUY
-  lastAnnotatedDate: 2017-10-20
-  bookImageUrl: https://m.media-amazon.com/images/I/81koc6WvffL._SY160.jpg
-  highlightsCount: 27
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.073-05:00","modified":"2025-08-22T12:36:56.073-05:00","cssclasses":""}
 ---
+
 # Sticky Faith
 ## Metadata
 * Author: [Kara Powell, Chap Clark, and John Ortberg and Jim Candy](https://www.amazon.comundefined)

@@ -1,20 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - NTS
-  - ADHD
-  - to_read
-  - neurodiversity
-  - D_Min
-  - cultural_intelligence
-  - culture
-citekey: bauermeisterADHDCulturesThere2010
-status: unread
-dateread:
-aliases:
-  - "ADHD Across Cultures: Is There Evidence for a Bidimensional Organization of Symptoms?"
-publish: true
+{"publish":true,"aliases":"ADHD Across Cultures: Is There Evidence for a Bidimensional Organization of Symptoms?","created":"2025-08-22T13:41:04.650-05:00","modified":"2025-08-22T13:41:04.650-05:00","tags":["NTS","ADHD","to_read","neurodiversity","D_Min","cultural_intelligence","culture"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Bauermeister, José J., Glorisa Canino, Guilherme Polanczyk, and Luis A. Rohde. “ADHD Across Cultures: Is There Evidence for a Bidimensional Organization of Symptoms?” _Journal of Clinical Child & Adolescent Psychology_ 39, no. 3 (April 29, 2010): 362–72. [https://doi.org/10.1080/15374411003691743](https://doi.org/10.1080/15374411003691743).
@@ -56,7 +43,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -90,7 +77,7 @@ publish: true
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2025-02-28T02:06:27.118-06:00 %%
+
+

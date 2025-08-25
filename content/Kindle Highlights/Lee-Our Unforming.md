@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "1731"
-  title: "Our Unforming: De-Westernizing Spiritual Formation"
-  author: Cindy S. Lee
-  asin: B09RQ1CKLR
-  lastAnnotatedDate: 2024-08-01
-  bookImageUrl: https://m.media-amazon.com/images/I/61-IwanU0qL._SY160.jpg
-  highlightsCount: 110
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.050-05:00","modified":"2025-08-22T12:36:56.050-05:00","cssclasses":""}
 ---
+
 # Our Unforming
 ## Metadata
 * Author: [Cindy S. Lee](https://www.amazon.comundefined)

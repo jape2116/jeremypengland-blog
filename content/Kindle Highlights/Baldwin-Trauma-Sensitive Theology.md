@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "56011"
-  title: "Trauma-Sensitive Theology: Thinking Theologically in the Era of Trauma"
-  author: Jennifer Baldwin
-  asin: B07JM4BH4M
-  lastAnnotatedDate: 2024-07-19
-  bookImageUrl: https://m.media-amazon.com/images/I/6105Xtg9BzL._SY160.jpg
-  highlightsCount: 49
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.016-05:00","modified":"2025-08-22T12:36:56.016-05:00","cssclasses":""}
 ---
+
 # Trauma-Sensitive Theology
 ## Metadata
 * Author: [Jennifer Baldwin](https://www.amazon.comundefined)

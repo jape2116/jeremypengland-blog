@@ -1,22 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - D_Min
-  - education
-  - universal_design
-  - inclusive
-  - disability_awareness
-  - diversity_in_the_workplace
-  - employment
-  - people_with_disabilities
-  - process_to_obsidian
-  - ableism
-citekey: kennyAbleismStillCore2022
-status: unread
-dateread:
-alias: Ableism Is Still a Core Part of Church Spaces. Here’s How to Change It
-publish: true
+{"publish":true,"aliases":" Ableism Is Still a Core Part of Church Spaces. Here’s How to Change It","created":"2025-08-22T13:30:34.790-05:00","modified":"2025-08-22T13:30:34.790-05:00","tags":["D_Min","education","universal_design","inclusive","disability_awareness","diversity_in_the_workplace","employment","people_with_disabilities","process_to_obsidian","ableism"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Kenny, Amy. “Ableism Is Still a Core Part of Church Spaces. Here’s How to Change It.” Sojourners, July 13, 2022. [https://sojo.net/articles/ableism-still-core-part-church-spaces-here-s-how-change-it](https://sojo.net/articles/ableism-still-core-part-church-spaces-here-s-how-change-it).
@@ -72,7 +57,7 @@ publish: true
 [Go to annotation](zotero://open-pdf/groups/5230851/items/QZCNDY4J?page=5&annotation=FRYCSS59) “Lamar Hardwick, Erica Ramos-Thompson, Rev. Letiah Fraser, Stephanie Tait, Aleja Hertzler-McCain, K. J. Ramsey, Alia Joy, Chloe Specht, and Shannon Dingle.” ([Kenny, 2022, p. 5](zotero://select/groups/5230851/items/K4XMYXZI))
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -121,7 +106,7 @@ publish: true
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-09T12:35:28.730-05:00 %%
+
+

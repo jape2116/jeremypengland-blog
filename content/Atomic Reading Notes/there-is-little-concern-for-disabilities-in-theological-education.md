@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-31T12:07:42.720-05:00","modified":"2025-08-22T12:36:56.007-05:00","cssclasses":""}
 ---
+
 Studies before the [[ATS]] policy concluded that there was little representation of people with [[disability]] in any capacity. There was a call by Anderson and Blair to introduce students to disability through exposure and study.
 
 ---
@@ -13,7 +14,7 @@ Studies before the [[ATS]] policy concluded that there was little representation
 
 ---
 
-**Link to original note:** [[annandalenaomihDisabilityTheologicalEducation2014]]
+**Link to original note:** [[To Process Literature Notes/annandalenaomihDisabilityTheologicalEducation2014]]
 **Go to annotation:** 
 
 [^16]: Robert c. Anderson, ed., Graduate Theological Education and the Human Experience of Disability, (Binghamton, NY: Haworth Press, 2003).

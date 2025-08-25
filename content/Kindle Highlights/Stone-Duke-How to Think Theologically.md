@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "21801"
-  title: How to Think Theologically
-  author: Howard W. Stone and James O. Duke
-  asin: B00FE0LPY6
-  lastAnnotatedDate: 2017-11-15
-  bookImageUrl: https://m.media-amazon.com/images/I/61mp12hSK9L._SY160.jpg
-  highlightsCount: 120
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.079-05:00","modified":"2025-08-22T12:36:56.079-05:00","cssclasses":""}
 ---
+
 # How to Think Theologically
 ## Metadata
 * Author: [Howard W. Stone and James O. Duke](https://www.amazon.comundefined)

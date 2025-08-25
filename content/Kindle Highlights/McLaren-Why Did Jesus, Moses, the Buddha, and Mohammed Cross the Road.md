@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "18725"
-  title: "Why Did Jesus, Moses, the Buddha, and Mohammed Cross the Road?: Christian Identity in a Multi-Faith World"
-  author: Brian D. McLaren
-  asin: B007BGQ9OW
-  lastAnnotatedDate: 2017-10-20
-  bookImageUrl: https://m.media-amazon.com/images/I/81D1DvTWVuL._SY160.jpg
-  highlightsCount: 93
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.062-05:00","modified":"2025-08-22T12:36:56.062-05:00","cssclasses":""}
 ---
+
 # Why Did Jesus, Moses, the Buddha, and Mohammed Cross the Road?
 ## Metadata
 * Author: [Brian D. McLaren](https://www.amazon.comundefined)

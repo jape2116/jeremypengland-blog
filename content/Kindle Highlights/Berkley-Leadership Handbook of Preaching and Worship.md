@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "4828"
-  title: Leadership Handbook of Preaching and Worship
-  author: James D. Berkley
-  asin: B00CFKX6YK
-  lastAnnotatedDate: 2017-10-21
-  bookImageUrl: https://m.media-amazon.com/images/I/81XbQDp7YWL._SY160.jpg
-  highlightsCount: 265
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.019-05:00","modified":"2025-08-22T12:36:56.019-05:00","cssclasses":""}
 ---
+
 # Leadership Handbook of Preaching and Worship
 ## Metadata
 * Author: [James D. Berkley](https://www.amazon.comundefined)

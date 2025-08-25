@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "15677"
-  title: "Invitation to a Journey: A Road Map for Spiritual Formation"
-  author: M. Robert Mulholland Jr.
-  asin: B001Q3L9RS
-  lastAnnotatedDate: 2019-09-26
-  bookImageUrl: https://m.media-amazon.com/images/I/91w5-LWYIyL._SY160.jpg
-  highlightsCount: 36
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.046-05:00","modified":"2025-08-22T12:36:56.046-05:00","cssclasses":""}
 ---
+
 # Invitation to a Journey
 ## Metadata
 * Author: [M. Robert Mulholland Jr.](https://www.amazon.comundefined)

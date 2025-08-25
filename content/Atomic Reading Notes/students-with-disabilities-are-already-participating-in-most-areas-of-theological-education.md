@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-31T12:13:21.661-05:00","modified":"2025-08-22T12:36:56.005-05:00","cssclasses":""}
 ---
+
 Students with all kinds of [[disabilities]] (learning, physical, emotional, intellectual) are participating in activities as much as their peers. However, there is a lack of awareness of how to make the experience the best for them. More than likely they are participating with more difficulty than their non disabled peers.
 
 ---
@@ -12,5 +13,5 @@ Students with all kinds of [[disabilities]] (learning, physical, emotional, inte
 
 ---
 
-**Link to original note:** [[annandalenaomihDisabilityTheologicalEducation2014]]
+**Link to original note:** [[To Process Literature Notes/annandalenaomihDisabilityTheologicalEducation2014]]
 **Go to annotation:** 

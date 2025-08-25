@@ -1,22 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - D_Min
-  - NTS
-  - universal_design
-  - process_to_obsidian
-  - higher_education
-  - inclusion
-  - elearning
-  - intermodal_education
-  - closed_captioning
-  - subtitles
-citekey: benciniMyUniversityInclusive2021
-status: unread
-dateread:
-alias: Is My University Inclusive? Towards a Multi-Domain Instrument for Sustainable Environments in Higher Education
-publish: true
+{"publish":true,"aliases":" Is My University Inclusive? Towards a Multi-Domain Instrument for Sustainable Environments in Higher Education","created":"2025-08-22T13:40:35.317-05:00","modified":"2025-08-22T13:40:35.317-05:00","tags":["D_Min","NTS","universal_design","process_to_obsidian","higher_education","inclusion","elearning","intermodal_education","closed_captioning","subtitles"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Bencini, Giulia, Alberto Arenghi, and Ilaria Garofolo. “Is My University Inclusive? Towards a Multi-Domain Instrument for Sustainable Environments in Higher Education.” In _Universal Design 2021: From Special to Mainstream Solutions_, edited by Ira Verma, Vol. 282. Studies in Health Technology and Informatics. IOS Press, 2021. [https://doi.org/10.3233/SHTI210391](https://doi.org/10.3233/SHTI210391).
@@ -59,7 +44,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -116,7 +101,7 @@ Being in class isn't always about learning the best way because you're in front 
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-09T00:56:16.413-05:00 %%
+
+

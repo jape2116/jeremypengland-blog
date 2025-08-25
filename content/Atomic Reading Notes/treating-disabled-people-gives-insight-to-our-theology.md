@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-13T00:56:57.258-05:00","modified":"2025-08-22T12:36:56.008-05:00","cssclasses":""}
 ---
+
 How we treat and view the disabled can give a view into how we view the value of people. It's a theological issue in terms of looking out for all people in all situations. 
 
 ---
@@ -14,4 +15,4 @@ Original Highlight:
 
 ---
 
-Link to original note: [[brennanAttitudesAbleBodiedPeople2013]]
+Link to original note: [[Processed Literature Notes/brennanAttitudesAbleBodiedPeople2013]]

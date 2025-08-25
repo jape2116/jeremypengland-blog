@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "27612"
-  title: "Life Together in Christ: Experiencing Transformation in Community (Transforming Resources)"
-  author: Ruth Haley Barton
-  asin: B00HUCPWJ0
-  lastAnnotatedDate: 2019-04-09
-  bookImageUrl: https://m.media-amazon.com/images/I/81ePrTLFcxL._SY160.jpg
-  highlightsCount: 66
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.017-05:00","modified":"2025-08-22T12:36:56.017-05:00","cssclasses":""}
 ---
+
 # Life Together in Christ
 ## Metadata
 * Author: [Ruth Haley Barton](https://www.amazon.comundefined)

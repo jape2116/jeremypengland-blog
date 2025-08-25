@@ -1,9 +1,7 @@
 ---
-publish: true
-title: Jeremy P. England
-tags:
-  - blog
+{"publish":true,"title":"Jeremy P. England","created":"2025-08-22T12:36:56.258-05:00","modified":"2025-08-25T14:36:26.576-05:00","tags":["blog"],"cssclasses":""}
 ---
+
 My Name is Jeremy England and I live in Garland, TX.
 
 My hobbies include:

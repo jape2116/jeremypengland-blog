@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "44687"
-  title: "Holy Listening: The Art of Spiritual Direction"
-  author: Margaret Guenther and Alan Jones
-  asin: B00GBCYHZ0
-  lastAnnotatedDate: 2025-05-03
-  bookImageUrl: https://m.media-amazon.com/images/I/B1ioPXFQifS._SY160.jpg
-  highlightsCount: 119
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.039-05:00","modified":"2025-08-22T12:36:56.039-05:00","cssclasses":""}
 ---
+
 # Holy Listening
 ## Metadata
 * Author: [Margaret Guenther and Alan Jones](https://www.amazon.comundefined)

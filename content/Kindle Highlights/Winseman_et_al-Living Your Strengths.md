@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "6493"
-  title: "Living Your Strengths: Discover Your God-Given Talents and Inspire Your Community"
-  author: Albert L. Winseman, Donald O. Clifton, and Curt Liesveld
-  asin: B001UHOWSS
-  lastAnnotatedDate: 2016-12-06
-  bookImageUrl: https://m.media-amazon.com/images/I/81RZe+2h0OL._SY160.jpg
-  highlightsCount: 12
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.087-05:00","modified":"2025-08-22T12:36:56.087-05:00","cssclasses":""}
 ---
+
 # Living Your Strengths
 ## Metadata
 * Author: [Albert L. Winseman, Donald O. Clifton, and Curt Liesveld](https://www.amazon.comundefined)

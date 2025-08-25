@@ -1,17 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - D_Min
-  - disability
-  - education
-  - ADHD
-  - process_to_obsidian
-citekey: levkovichCollegeStudentsAdhd2021
-status: unread
-dateread:
-alias: College Students With Adhd and Their Reasons for Becoming Teachers Despite Negative Childhood Experiences
-publish: true
+{"publish":true,"aliases":" College Students With Adhd and Their Reasons for Becoming Teachers Despite Negative Childhood Experiences","created":"2025-08-22T13:26:54.578-05:00","modified":"2025-08-22T13:26:54.578-05:00","tags":["D_Min","disability","education","ADHD","process_to_obsidian"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Levkovich, Inbar, and Zohar Elyoseph. “College Students With Adhd and Their Reasons for Becoming Teachers Despite Negative Childhood Experiences.” _Asia-Pacific Journal of Teacher Education_ 49, no. 4 (August 8, 2021): 387–402. [https://doi.org/10.1080/1359866X.2020.1789912](https://doi.org/10.1080/1359866X.2020.1789912).
@@ -58,7 +48,7 @@ publish: true
 This is a small study conducted in Israel inquiring as to why students who were diagnosed with ADHD as children would major in education. The sample size was small and other factors such as comorbidities were not fully considered. However, the general conclusion was that these students wanted to help provide a better experience for other students, or to help educate others about their own ADHD diagnosis.
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -160,7 +150,7 @@ This is a small study conducted in Israel inquiring as to why students who were 
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2023-12-06T02:02:12.868-06:00 %%
+
+

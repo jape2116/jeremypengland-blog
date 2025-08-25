@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "12941"
-  title: "Ethnography as a Pastoral Practice: An Introduction"
-  author: Mary Clark Moschella
-  asin: B0BW661727
-  lastAnnotatedDate: 2024-10-03
-  bookImageUrl: https://m.media-amazon.com/images/I/91DtRKvEp6L._SY160.jpg
-  highlightsCount: 21
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.065-05:00","modified":"2025-08-22T12:36:56.065-05:00","cssclasses":""}
 ---
+
 # Ethnography as a Pastoral Practice
 ## Metadata
 * Author: [Mary Clark Moschella](https://www.amazon.comundefined)

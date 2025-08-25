@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-23T17:50:40.037-05:00","modified":"2025-08-22T12:36:55.988-05:00","cssclasses":""}
 ---
+
 When seeking an [[ADHD]] [[diagnosis]], it is important to receive evidence from your childhood, whether that be through parents, progress reports, or community reports. No [[ADHD]] diagnosis can be given if symptoms did not occur before age 12. This can be difficult if you are estranged from your family and have a bad memory.
 
 ---
@@ -13,5 +14,5 @@ When seeking an [[ADHD]] [[diagnosis]], it is important to receive evidence from
 
 ---
 
-**Link to original note:** [[americanpsychiatricassociationDiagnosticStatisticalManual2022]]
+**Link to original note:** [[To Process Literature Notes/americanpsychiatricassociationDiagnosticStatisticalManual2022]]
 **Go to annotation:** 

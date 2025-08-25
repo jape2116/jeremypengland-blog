@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "29882"
-  title: "The Power of Habit: Why We Do What We Do in Life and Business"
-  author: Charles Duhigg
-  asin: B0055PGUYU
-  lastAnnotatedDate: 2021-09-21
-  bookImageUrl: https://m.media-amazon.com/images/I/716i0dfXcgL._SY160.jpg
-  highlightsCount: 2
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.029-05:00","modified":"2025-08-22T12:36:56.029-05:00","cssclasses":""}
 ---
+
 # The Power of Habit
 ## Metadata
 * Author: [Charles Duhigg](https://www.amazon.comundefined)

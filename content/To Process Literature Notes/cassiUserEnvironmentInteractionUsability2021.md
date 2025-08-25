@@ -1,18 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - D_Min
-  - NTS
-  - universal_design
-  - process_to_obsidian
-  - inclusion
-  - architecture
-citekey: cassiUserEnvironmentInteractionUsability2021
-status: unread
-dateread:
-alias: "User-Environment Interaction: The Usability Model for Universal Design Assessment"
-publish: true
+{"publish":true,"aliases":" User-Environment Interaction: The Usability Model for Universal Design Assessment","created":"2025-08-22T13:14:44.602-05:00","modified":"2025-08-22T13:14:44.602-05:00","tags":["D_Min","NTS","universal_design","process_to_obsidian","inclusion","architecture"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Cassi, Roberta, Masashi Kajita, and Olga Popovic Larsen. “User-Environment Interaction: The Usability Model for Universal Design Assessment.” In _Universal Design 2021: From Special to Mainstream Solutions_, edited by Ira Verma, Vol. 282. Studies in Health Technology and Informatics. IOS Press, 2021. [https://doi.org/10.3233/SHTI210385](https://doi.org/10.3233/SHTI210385).
@@ -55,7 +44,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -140,7 +129,7 @@ publish: true
  * 
 
 
- <br>![[cassiUserEnvironmentInteractionUsability2021-13-x107-y348.png]]
+ <br>![[Media/Zotero/cassiUserEnvironmentInteractionUsability2021/cassiUserEnvironmentInteractionUsability2021-13-x107-y348.png]]
 [[cassiUserEnvironmentInteractionUsability2021-13-x107-y348.png]]<br> 
 [Pg.13](zotero://open-pdf/groups/5230851/items/K5ZUIA9Y?page=67&annotation=MQ6ZZ5L8)
  * 
@@ -167,7 +156,7 @@ publish: true
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-09T02:38:04.636-05:00 %%
+
+
