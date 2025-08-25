@@ -1,7 +1,13 @@
 ---
-{"publish":true,"aliases":"ADHD Perspectives: Medicalization and ADHD Connectivity","created":"2025-08-22T12:36:56.207-05:00","modified":"2025-08-22T12:36:56.207-05:00","cssclasses":""}
+category: literaturenote
+tags:
+citekey: wrightADHDPerspectivesMedicalization2012
+status: unread
+dateread:
+aliases:
+  - "ADHD Perspectives: Medicalization and ADHD Connectivity"
+publish: true
 ---
-
 
 > [!Cite]
 > Wright, Gloria Sunnie. “ADHD Perspectives: Medicalization and ADHD Connectivity.” Presented at the Joint AARE APERA International Conference, Sydney, Australia, 2012. [https://eric.ed.gov/?id=ED542257](https://eric.ed.gov/?id=ED542257).
@@ -38,7 +44,7 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -122,7 +128,7 @@
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-02-28T02:21:25.074-06:00 %%

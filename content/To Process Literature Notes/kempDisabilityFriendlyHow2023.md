@@ -1,7 +1,24 @@
 ---
-{"publish":true,"aliases":"Disability Friendly: How to Move From Clueless to Inclusive","created":"2025-08-22T13:33:16.226-05:00","modified":"2025-08-22T13:33:16.226-05:00","tags":["D_Min","education","universal_design","inclusive","business","disabilities","disability_awareness","diversity_in_the_workplace","employment","diversity","process_to_obsidian"],"cssclasses":""}
+category: literaturenote
+tags:
+  - D_Min
+  - education
+  - universal_design
+  - inclusive
+  - business
+  - disabilities
+  - disability_awareness
+  - diversity_in_the_workplace
+  - employment
+  - diversity
+  - process_to_obsidian
+citekey: kempDisabilityFriendlyHow2023
+status: unread
+dateread:
+aliases:
+  - "Disability Friendly: How to Move From Clueless to Inclusive"
+publish: true
 ---
-
 
 > [!Cite]
 > Kemp, John D. _Disability Friendly: How to Move From Clueless to Inclusive_. Hoboken, New Jersey: Wiley, 2023.
@@ -420,10 +437,10 @@ Three principles-inclusive, safe, and captivating-should be present in every wor
 Progress toward a goal of inclusive, well-designed, and captivating workplaces for all can only be achieved through purposeful action and collaboration.
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2024-05-06T22:45:36.358-05:00 %%

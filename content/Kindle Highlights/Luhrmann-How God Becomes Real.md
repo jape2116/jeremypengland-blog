@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.053-05:00","modified":"2025-08-22T12:36:56.053-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "9872"
+  title: "How God Becomes Real: Kindling the Presence of Invisible Others"
+  author: T.M. Luhrmann
+  asin: B0876HDGMD
+  lastAnnotatedDate: 2025-05-03
+  bookImageUrl: https://m.media-amazon.com/images/I/91WEeBtnJwL._SY160.jpg
+  highlightsCount: 98
+publish: true
 ---
-
 # How God Becomes Real
 ## Metadata
 * Author: [T.M. Luhrmann](https://www.amazon.comundefined)

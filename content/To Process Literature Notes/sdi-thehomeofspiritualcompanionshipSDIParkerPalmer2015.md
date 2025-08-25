@@ -1,7 +1,21 @@
 ---
-{"publish":true,"aliases":"SDI Parker Palmer 2015","created":"2025-08-22T13:12:12.468-05:00","modified":"2025-08-22T13:12:12.468-05:00","tags":["NTS","spiritual","companionship","spiritual","direction","theology","intergenerational","D_Min"],"cssclasses":""}
+category: literaturenote
+tags:
+  - NTS
+  - spiritual
+  - companionship
+  - spiritual
+  - direction
+  - theology
+  - intergenerational
+  - D_Min
+citekey: sdi-thehomeofspiritualcompanionshipSDIParkerPalmer2015
+status: unread
+dateread:
+aliases:
+  - SDI Parker Palmer 2015
+publish: true
 ---
-
 
 > [!Cite]
 > _SDI Parker Palmer 2015_, 2015. [https://www.youtube.com/watch?v=C4orinVOFmE](https://www.youtube.com/watch?v=C4orinVOFmE).
@@ -66,13 +80,13 @@ I also want to say something to the folks who started telling me 20 years ago th
 
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-02-13T10:44:53.527-06:00 %%
 
 

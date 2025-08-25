@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-22T17:41:48.061-05:00","modified":"2025-08-22T12:36:55.998-05:00","cssclasses":""}
+publish: true
 ---
-
 It is a beautiful display of hospitality and commitment to the body of Christ when [[accommodations]] are made for those with disabilities, especially between lay people and clergy. 
 
 ---
@@ -14,6 +13,6 @@ It is a beautiful display of hospitality and commitment to the body of Christ wh
 
 ---
 
-**Link to original note:** [[Processed Literature Notes/brennanAttitudesAbleBodiedPeople2013]]
+**Link to original note:** [[brennanAttitudesAbleBodiedPeople2013]]
 **Go to annotation:** [Go to annotation](zotero://open-pdf/groups/5230851/items/KWZSN28E?page=84&annotation=GJ35CD34) 
 Related: 

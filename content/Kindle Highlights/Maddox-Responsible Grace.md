@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.057-05:00","modified":"2025-08-22T12:36:56.057-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "51853"
+  title: "Responsible Grace: John Wesley's Practical Theology (Kingswood Series)"
+  author: Randy L. Maddox
+  asin: B00F8JTMSO
+  lastAnnotatedDate: 2019-10-06
+  bookImageUrl: https://m.media-amazon.com/images/I/51aVQUcwHhL._SY160.jpg
+  highlightsCount: 409
+publish: true
 ---
-
 # Responsible Grace
 ## Metadata
 * Author: [Randy L. Maddox](https://www.amazon.comundefined)

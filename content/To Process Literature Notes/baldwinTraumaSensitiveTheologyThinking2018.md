@@ -1,7 +1,31 @@
 ---
-{"publish":true,"aliases":"Trauma-Sensitive Theology: Thinking Theologically in the Era of Trauma","created":"2025-08-22T13:34:35.057-05:00","modified":"2025-08-22T13:34:35.057-05:00","tags":["Biblical","teaching","D_Min","holiness","hospitality","NTS","patients","religious_life","PTSD","prayer","process_to_obsidian","psychic","trauma","psychology","religious","reconciliation","spiritual_formation","spiritual_healing"],"cssclasses":""}
+category: literaturenote
+tags:
+  - Biblical
+  - teaching
+  - D_Min
+  - holiness
+  - hospitality
+  - NTS
+  - patients
+  - religious_life
+  - PTSD
+  - prayer
+  - process_to_obsidian
+  - psychic
+  - trauma
+  - psychology
+  - religious
+  - reconciliation
+  - spiritual_formation
+  - spiritual_healing
+citekey: baldwinTraumaSensitiveTheologyThinking2018
+status: unread
+dateread:
+aliases:
+  - "Trauma-Sensitive Theology: Thinking Theologically in the Era of Trauma"
+publish: true
 ---
-
 
 > [!Cite]
 > Baldwin, Jennifer. _Trauma-Sensitive Theology: Thinking Theologically in the Era of Trauma_. Eugene, Oregon: Cascade Books, an imprint of Wipf and Stock Publishers, 2018.
@@ -39,10 +63,10 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2024-07-19T02:33:45.659-05:00 %%

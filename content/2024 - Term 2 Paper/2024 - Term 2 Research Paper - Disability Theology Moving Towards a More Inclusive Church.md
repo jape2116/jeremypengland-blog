@@ -1,7 +1,7 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:55.965-05:00","modified":"2025-08-22T12:36:55.965-05:00","cssclasses":""}
+word-goal: 4000
+publish: true
 ---
-
 
 ## Introduction 
 

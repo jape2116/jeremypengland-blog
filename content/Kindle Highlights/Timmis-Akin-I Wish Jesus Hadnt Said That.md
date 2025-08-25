@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.083-05:00","modified":"2025-08-22T12:36:56.083-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "52528"
+  title: "I Wish Jesus Hadn't Said That: Finding Joy in the Inconvenience of Discipleship"
+  author: Steve Timmis and Daniel L. Akin
+  asin: B00DL18GA6
+  lastAnnotatedDate: 2016-03-29
+  bookImageUrl: https://m.media-amazon.com/images/I/81QWWTZWH+L._SY160.jpg
+  highlightsCount: 24
+publish: true
 ---
-
 # I Wish Jesus Hadnt Said That
 ## Metadata
 * Author: [Steve Timmis and Daniel L. Akin](https://www.amazon.comundefined)

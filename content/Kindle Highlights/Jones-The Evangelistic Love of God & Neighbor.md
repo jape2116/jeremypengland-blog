@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.046-05:00","modified":"2025-08-22T12:36:56.046-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "20771"
+  title: "The Evangelistic Love of God & Neighbor: A Theology of Witness & Discipleship"
+  author: Scott J. Jones
+  asin: B008R3YNXW
+  lastAnnotatedDate: 2019-12-12
+  bookImageUrl: https://m.media-amazon.com/images/I/71ntmLhbExL._SY160.jpg
+  highlightsCount: 101
+publish: true
 ---
-
 # The Evangelistic Love of God & Neighbor
 ## Metadata
 * Author: [Scott J. Jones](https://www.amazon.comundefined)

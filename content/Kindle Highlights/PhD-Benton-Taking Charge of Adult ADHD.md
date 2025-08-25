@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.070-05:00","modified":"2025-08-22T12:36:56.070-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "51254"
+  title: "Taking Charge of Adult ADHD: Proven Strategies to Succeed at Work, at Home, and in Relationships"
+  author: Russell A.  Barkley PhD and Christine M. Benton
+  asin: B09G917FYD
+  lastAnnotatedDate: 2023-11-15
+  bookImageUrl: https://m.media-amazon.com/images/I/71mPuB74sxL._SY160.jpg
+  highlightsCount: 269
+publish: true
 ---
-
 # Taking Charge of Adult ADHD
 ## Metadata
 * Author: [Russell A.  Barkley PhD and Christine M. Benton](https://www.amazon.comundefined)

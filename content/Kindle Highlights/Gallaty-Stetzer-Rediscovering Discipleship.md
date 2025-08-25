@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.033-05:00","modified":"2025-08-22T12:36:56.033-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "46304"
+  title: "Rediscovering Discipleship: Making Jesus’ Final Words Our First Work"
+  author: Robby Gallaty and Ed Stetzer
+  asin: B00UF7W44S
+  lastAnnotatedDate: 2017-09-19
+  bookImageUrl: https://m.media-amazon.com/images/I/81BaH8s2+rL._SY160.jpg
+  highlightsCount: 80
+publish: true
 ---
-
 # Rediscovering Discipleship
 ## Metadata
 * Author: [Robby Gallaty and Ed Stetzer](https://www.amazon.comundefined)

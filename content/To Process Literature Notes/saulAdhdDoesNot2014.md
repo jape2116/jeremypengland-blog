@@ -1,7 +1,19 @@
 ---
-{"publish":true,"aliases":"ADHD Does Not Exist - The Truth About Attention Deficit and Hyperactivity Disorder","created":"2025-08-22T13:14:41.408-05:00","modified":"2025-08-22T13:14:41.408-05:00","tags":["D_Min","ADHD","neurodiversity","neurodivergent","controversial","process_to_obsidian"],"cssclasses":""}
+category: literaturenote
+tags:
+  - D_Min
+  - ADHD
+  - neurodiversity
+  - neurodivergent
+  - controversial
+  - process_to_obsidian
+citekey: saulAdhdDoesNot2014
+status: read
+dateread:
+aliases:
+  - ADHD Does Not Exist - The Truth About Attention Deficit and Hyperactivity Disorder
+publish: true
 ---
-
 
 > [!Cite]
 > Saul, Richard. _ADHD Does Not Exist: The Truth About Attention Deficit and Hyperactivity Disorder_. First edition. New York, NY: HarperWave, 2014.
@@ -116,10 +128,10 @@ This book is written to be controversial. It’s main premise is that any sympto
 - The world certainly has changed in terms of being able to focus. Redefining focus and abilities to function in society will evolve, but so does medicine around the culture.
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2023-12-06T01:59:59.618-06:00 %%

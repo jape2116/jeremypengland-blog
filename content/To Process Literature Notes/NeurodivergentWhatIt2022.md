@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-08-22T13:15:14.394-05:00","modified":"2025-08-22T13:15:14.394-05:00","tags":["adhd","to_read","autism","neurodiversity","neurodivergent"],"cssclasses":""}
+category: literaturenote
+tags: 
+  - adhd
+  - to_read
+  - autism
+  - neurodiversity
+  - neurodivergent
+citekey: NeurodivergentWhatIt2022
+status: unread
+dateread:
+publish: true
 ---
-
 
 > [!Cite]
 > Cleveland Clinic. “Neurodivergent: What It Is, Symptoms & Types,” June 2, 2022. [https://my.clevelandclinic.org/health/symptoms/23154-neurodivergent](https://my.clevelandclinic.org/health/symptoms/23154-neurodivergent).
@@ -41,10 +50,10 @@ What does this do?
 
 ## Jeremy’s Review
 
-This is a helpful webpage to give an overview of what neurodivergence is and what it is not. It is similar in nature to the [[To Process Literature Notes/medWhatNeurodiversity2021\|Harvard Webpage]] regarding the same topic.
+This is a helpful webpage to give an overview of what neurodivergence is and what it is not. It is similar in nature to the [[medWhatNeurodiversity2021|Harvard Webpage]] regarding the same topic.
 
 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 ### Imported: 2023-10-23 11:11 am
@@ -87,3 +96,4 @@ However, since there aren’t any medical criteria or definitions of what it mea
 
 
 
+%% end annotations %%

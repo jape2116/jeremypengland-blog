@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-23T17:50:03.205-05:00","modified":"2025-08-22T12:36:55.981-05:00","cssclasses":""}
+publish: true
 ---
-
 If your kid has been diagnosed with [[ADHD]], you should look at yourself.
 
 ---
@@ -13,5 +12,5 @@ If your kid has been diagnosed with [[ADHD]], you should look at yourself.
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/americanpsychiatricassociationDiagnosticStatisticalManual2022]]
+**Link to original note:** [[americanpsychiatricassociationDiagnosticStatisticalManual2022]]
 **Go to annotation:** 

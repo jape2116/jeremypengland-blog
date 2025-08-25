@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-31T12:07:42.658-05:00","modified":"2025-08-22T12:36:55.997-05:00","cssclasses":""}
+publish: true
 ---
-
 How often do we pray for [[disability]] that are mental in nature because they can be "healed," or at the very least there is low risk for failure when someone doesn't stand up from a wheelchair or grow a limb back. This would seem detrimental to those suffering with [[mental disabilities]] because a majority of the [[prayers]] are directed towards people with these unseen disabilities, which would naturally infer they are worse than [[physical disabilities]].
 
 ---
@@ -12,5 +11,5 @@ How often do we pray for [[disability]] that are mental in nature because they c
 
 ---
 
-Link to original note: [[Processed Literature Notes/brennanAttitudesAbleBodiedPeople2013]]
+Link to original note: [[brennanAttitudesAbleBodiedPeople2013]]
 Related: 

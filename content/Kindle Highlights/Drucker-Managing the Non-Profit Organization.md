@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.028-05:00","modified":"2025-08-22T12:36:56.028-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "1759"
+  title: "Managing the Non-Profit Organization: Principles and Practices"
+  author: Peter F. Drucker
+  asin: B0040GJDT4
+  lastAnnotatedDate: 2016-01-04
+  bookImageUrl: https://m.media-amazon.com/images/I/813lmb-fLzL._SY160.jpg
+  highlightsCount: 29
+publish: true
 ---
-
 # Managing the Non-Profit Organization
 ## Metadata
 * Author: [Peter F. Drucker](https://www.amazon.comundefined)

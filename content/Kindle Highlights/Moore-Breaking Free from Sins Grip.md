@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.064-05:00","modified":"2025-08-22T12:36:56.064-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "11284"
+  title: "Breaking Free from Sin's Grip: Holiness Defined for a New Generation"
+  author: Frank Moore
+  asin: B004TAY2PQ
+  lastAnnotatedDate: 2018-10-02
+  bookImageUrl: https://m.media-amazon.com/images/I/5162ujl8GsL._SY160.jpg
+  highlightsCount: 161
+publish: true
 ---
-
 # Breaking Free from Sins Grip
 ## Metadata
 * Author: [Frank Moore](https://www.amazon.comundefined)

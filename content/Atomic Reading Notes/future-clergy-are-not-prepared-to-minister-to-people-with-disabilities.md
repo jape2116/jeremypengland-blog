@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-31T12:14:44.090-05:00","modified":"2025-08-22T12:36:55.993-05:00","cssclasses":""}
+publish: true
 ---
-
 We are preparing future [[clergy]] to only address the "typical" person in their ministry.
 
 ---
@@ -14,5 +13,5 @@ We are preparing future [[clergy]] to only address the "typical" person in their
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/annandalenaomihDisabilityTheologicalEducation2014]]
+**Link to original note:** [[annandalenaomihDisabilityTheologicalEducation2014]]
 **Go to annotation:** 

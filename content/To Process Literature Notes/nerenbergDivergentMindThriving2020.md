@@ -1,7 +1,27 @@
 ---
-{"publish":true,"aliases":"Divergent Mind- Thriving in a World That Wasn't Designed for You","created":"2025-08-22T13:15:36.397-05:00","modified":"2025-08-22T13:15:36.397-05:00","tags":["D_Min","disability","ADHD","autism","neurodiversity","neurodivergent","sensory","processing","disorder","Highly","Sensitive","Person","pathologization","process_to_obsidian"],"cssclasses":""}
+category: literaturenote
+tags:
+  - D_Min
+  - disability
+  - ADHD
+  - autism
+  - neurodiversity
+  - neurodivergent
+  - sensory
+  - processing
+  - disorder
+  - Highly
+  - Sensitive
+  - Person
+  - pathologization
+  - process_to_obsidian
+citekey: nerenbergDivergentMindThriving2020
+status: unread
+dateread:
+aliases:
+  - Divergent Mind- Thriving in a World That Wasn't Designed for You
+publish: true
 ---
-
 
 > [!Cite]
 > Nerenberg, Jenara. _Divergent Mind: Thriving in a World That Wasn’t Designed for You_. First edition. New York, NY: HarperOne, 2020.
@@ -237,10 +257,10 @@ Marianna Garcia
 This book helps to disassociate the dysfunction from the medicine. In other words, Nerenberg attemps to remove the pathologization of the brain in terms of divergence from the typical. She relies heavily on interviews in this book and does a better job of exposing many viewpoints as opposed to giving a lot of new discoveries of her own. This book also highlights the importance of elevating women’s voices in the study of psychology as throughout most of history they have been excluded. The most controversial take from this book is that the DSM is no more than a collection of current traits and thought processes that go against what is considered typical today.
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2023-10-29T23:47:13.419-05:00 %%

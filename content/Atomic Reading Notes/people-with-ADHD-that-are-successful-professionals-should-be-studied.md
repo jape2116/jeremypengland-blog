@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-23T17:48:22.233-05:00","modified":"2025-08-22T12:36:56.000-05:00","cssclasses":""}
+publish: true
 ---
-
 Perhaps [[clergy]] who have gone through education with [[ADHD]] will be a good group to study in [[resiliency]] techniques. It may also be something to look out for in terms of saying people should "just...." as everyone's experiences are different.
 
 ---
@@ -13,5 +12,5 @@ Perhaps [[clergy]] who have gone through education with [[ADHD]] will be a good 
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/americanpsychiatricassociationDiagnosticStatisticalManual2022]]
+**Link to original note:** [[americanpsychiatricassociationDiagnosticStatisticalManual2022]]
 **Go to annotation:** 

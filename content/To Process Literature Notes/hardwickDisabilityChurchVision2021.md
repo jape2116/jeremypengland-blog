@@ -1,7 +1,18 @@
 ---
-{"publish":true,"aliases":" Disability and the Church: A Vision for Diversity and Inclusion","created":"2025-08-22T12:56:29.112-05:00","modified":"2025-08-22T12:56:29.112-05:00","tags":["disability","NTS","D_Min","accessibility","disabilities","minorities"],"cssclasses":""}
+category: literaturenote
+tags:
+  - disability
+  - NTS
+  - D_Min
+  - accessibility
+  - disabilities
+  - minorities
+citekey: hardwickDisabilityChurchVision2021
+status: unread
+dateread:
+alias: "Disability and the Church: A Vision for Diversity and Inclusion"
+publish: true
 ---
-
 
 > [!Cite]
 > Hardwick, Lamar. _Disability and the Church: A Vision for Diversity and Inclusion_. Downers Grove, Illinois: IVP, an imprint of InterVarsity Press, 2021.
@@ -262,10 +273,10 @@ When the pastor and leaders preach and teach about disability, it not only encou
 "When you lack the knowledge and language to explain your experience, you run the risk of explaining it away. I spent years explaining away my experience, and with each excuse I gave for not being extroverted enough to meet society's expectations, I mortgaged away my own humanity. Eventually, you learn to stop being yourself and to stop being human." (Hardwick, 2021, p.184)
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2024-05-06T22:42:48.850-05:00 %%

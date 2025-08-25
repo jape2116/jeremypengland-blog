@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-31T12:07:42.726-05:00","modified":"2025-08-22T12:36:55.992-05:00","cssclasses":""}
+publish: true
 ---
-
 Thankfully in the early 2000s there was evidence of education exploring [[sexuality]], [[gender roles]], and [[women in ministry]], but almost nothing for those with [[disability]].
 
 ---
@@ -15,7 +14,7 @@ Thankfully in the early 2000s there was evidence of education exploring [[sexual
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/annandalenaomihDisabilityTheologicalEducation2014]]
+**Link to original note:** [[annandalenaomihDisabilityTheologicalEducation2014]]
 **Go to annotation:** 
 
 [^17]: Laura-Jean Gilbert, "Acceptance and Accommodation in Graduate Schools of Theological Education: A Study of the Seminaries Directly Affiliated with or Historically Related to the United Church of Christ," Journal ofReligion, Disability, and Health 5, no. 4 (2001): 61-91.

@@ -1,7 +1,13 @@
 ---
-{"publish":true,"aliases":"Target takes a hit: $12.4 billion in value lost after boycott","created":"2025-08-22T12:36:56.201-05:00","modified":"2025-08-22T12:36:56.201-05:00","cssclasses":""}
+category: literaturenote
+tags:
+citekey: TargetTakesHit
+status: unread
+dateread:
+aliases:
+  - "Target takes a hit: $12.4 billion in value lost after boycott"
+publish: true
 ---
-
 
 > [!Cite]
 > “Target Takes a Hit: $12.4 Billion in Value Lost after Boycott.” Accessed April 22, 2025. [https://www.thecharlottepost.com/news/2025/03/06/business/target-takes-a-hit-12.4-billion-in-value-lost-after-boycott/](https://www.thecharlottepost.com/news/2025/03/06/business/target-takes-a-hit-12.4-billion-in-value-lost-after-boycott/).
@@ -35,10 +41,10 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-04-22T12:52:20.533-05:00 %%

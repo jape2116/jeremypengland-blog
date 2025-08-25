@@ -1,9 +1,8 @@
 ---
-{"publish":true,"created":"2025-02-14T00:37:02.956-06:00","modified":"2025-08-22T12:36:56.001-05:00","cssclasses":""}
+publish: true
 ---
-
 Perhaps with perfect surrender comes perfect feelings. The fullness of the human experience can be had when we don't have to be in control of the feelings themselves. 
 ## Source
 ==The degree of a person's suffering, the degree of it, that's the word I'm emphasizing, is usually the degree of their need to be in control.== Now, I'm not, obviously, just talking about physical pain, but when suffering continues over days, and weeks, and months, I just was online, present to a death this morning, with a family, it was very spiritual, before this death of their mother, and during it, and now still in the day. ==And I think because they genuinely have given control to another, whom we would call God, there was, believe it or not, perfect sadness, combined with intense joy, at the same moment, because they've given up control.== People who think their job is to be in control, which is almost the definition of a secular culture, there's going to be a lot of suffering.
 
-[^1]: [[Processed Literature Notes/sdi-thehomeofspiritualcompanionshipCallContemplativeSolidarity2021]]
+[^1]: [[sdi-thehomeofspiritualcompanionshipCallContemplativeSolidarity2021]]

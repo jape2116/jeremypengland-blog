@@ -1,7 +1,17 @@
 ---
-{"publish":true,"aliases":"The Way of the Lord: Christian Pilgrimage Today","created":"2025-08-22T12:36:56.208-05:00","modified":"2025-08-22T12:36:56.208-05:00","tags":["pilgrimage","Christianity","spirituality","spiritual_practice"],"cssclasses":""}
+category: literaturenote
+tags:
+  - pilgrimage
+  - Christianity
+  - spirituality
+  - spiritual_practice
+citekey: wrightWayLordChristian2014
+status: read
+dateread: 6/25/25
+aliases:
+  - "The Way of the Lord: Christian Pilgrimage Today"
+publish: true
 ---
-
 
 > [!Cite]
 > Wright, N. T. _The Way of the Lord: Christian Pilgrimage Today_. New edition. Grand Rapids, Michigan: William. B. Eerdmans Publishing, Co., 2014.
@@ -38,7 +48,7 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -102,7 +112,7 @@
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-06-25T16:08:21.739-05:00 %%

@@ -1,7 +1,12 @@
 ---
-{"publish":true,"aliases":" A Call to Contemplative Solidarity - Fr. Richard Rohr and Rev. SeiFu Anil Singh-Molares","created":"2025-08-22T12:36:56.092-05:00","modified":"2025-08-22T12:36:56.092-05:00","cssclasses":""}
+category: literaturenote
+tags:
+citekey: sdi-thehomeofspiritualcompanionshipCallContemplativeSolidarity2021
+status: unread
+dateread:
+alias: A Call to Contemplative Solidarity - Fr. Richard Rohr and Rev. SeiFu Anil Singh-Molares
+publish: true
 ---
-
 
 > [!Cite]
 > _A Call to Contemplative Solidarity - Fr. Richard Rohr and Rev. SeiFu Anil Singh-Molares_, 2021. [https://www.youtube.com/watch?v=PnbJ3Bw77AE](https://www.youtube.com/watch?v=PnbJ3Bw77AE).
@@ -95,10 +100,10 @@ They're always eager to hear from you. So, maybe you can say a few words to our 
 And so, to be with you next month is something I already relish. And I hope what I've talked about here with Reverend Seifu is something that we can really dig into a month from now. I'm excited by talking about it just a little bit. But I welcome you to the conversation, and I do want it to be a conversation. So, we're going to leave enough time for question and response. Even though I won't always have the perfect response, we're still going to try. Thank you. Thank you for inviting me.
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-02-13T14:54:18.087-06:00 %%

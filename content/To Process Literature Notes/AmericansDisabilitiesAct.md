@@ -1,7 +1,12 @@
 ---
-{"publish":true,"aliases":" The Americans with Disabilities Act","created":"2025-08-22T12:36:56.098-05:00","modified":"2025-08-22T12:36:56.098-05:00","cssclasses":""}
+category: literaturenote
+tags:
+citekey: AmericansDisabilitiesAct
+status: unread
+dateread:
+alias: The Americans with Disabilities Act
+publish: true
 ---
-
 
 > [!Cite]
 > ADA.gov. “The Americans with Disabilities Act.” Accessed May 9, 2024. [https://www.ada.gov/](https://www.ada.gov/).
@@ -35,10 +40,10 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2024-05-09T12:58:07.305-05:00 %%

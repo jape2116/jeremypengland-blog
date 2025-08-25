@@ -1,7 +1,26 @@
 ---
-{"publish":true,"aliases":"Longing for Spring: A New Vision for Wesleyan Community","created":"2025-08-22T13:19:24.437-05:00","modified":"2025-08-22T13:19:24.437-05:00","tags":["Christian_life","Church","renewal","D_Min","Holiness","Methodist","monastic_life","NTS","read","spiritual","formation","John_Wesley"],"cssclasses":""}
----
+category: literaturenote
+tags:
+  - Christian_life
+  - Church
+  - renewal
+  - D_Min
+  - Holiness
+  - Methodist
+  - monastic_life
+  - NTS
+  - read
+  - spiritual
+  - formation
+  - John_Wesley
 
+citekey: heathLongingSpringNew2010
+status: unread
+dateread:
+aliases:
+  - "Longing for Spring: A New Vision for Wesleyan Community"
+publish: true
+---
 
 > [!Cite]
 > Heath, Elaine A., and Scott Thomas Kisker. _Longing for Spring: A New Vision for Wesleyan Community_. New Monastic Library: Resource for Radical Discipleship 5. Eugene, Or: Cascade Books, 2010.
@@ -39,7 +58,7 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -425,7 +444,7 @@ Witness
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2024-10-31T02:11:49.906-05:00 %%

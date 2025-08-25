@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.074-05:00","modified":"2025-08-22T12:36:56.074-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "59439"
+  title: "Thinking, Listening, Being: A Wesleyan Pastoral Theology"
+  author: Jeren Rowell
+  asin: B00ON5C0HY
+  lastAnnotatedDate: 2017-06-07
+  bookImageUrl: https://m.media-amazon.com/images/I/7158rqChwvL._SY160.jpg
+  highlightsCount: 133
+publish: true
 ---
-
 # Thinking, Listening, Being
 ## Metadata
 * Author: [Jeren Rowell](https://www.amazon.comundefined)

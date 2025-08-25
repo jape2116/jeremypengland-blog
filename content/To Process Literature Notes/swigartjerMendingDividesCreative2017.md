@@ -1,7 +1,23 @@
 ---
-{"publish":true,"aliases":"Mending the Divides: Creative Love in a Conflicted World Mending the Divide","created":"2025-08-22T13:28:35.704-05:00","modified":"2025-08-22T13:28:35.704-05:00","tags":["biblical_teaching","D_Min","holiness","hospitality","NTS","prayer","process_to_obsidian","reconciliation","spiritual_formation"],"cssclasses":""}
+category: literaturenote
+tags:
+  - biblical_teaching
+  - D_Min
+  - holiness
+  - hospitality
+  - NTS
+  - prayer
+  - process_to_obsidian
+  - reconciliation
+  - spiritual_formation
+citekey: swigartjerMendingDividesCreative2017
+status: unread
+dateread:
+aliases:
+  - "Mending the Divides: Creative Love in a Conflicted World"
+  - Mending the Divide
+publish: true
 ---
-
 
 > [!Cite]
 > Swigart, Jer, and Jon Huckins. _Mending the Divides: Creative Love in a Conflicted World_. Downers Grove: InterVarsity Press, 2017.
@@ -41,10 +57,10 @@
 ### Confused, divided, and paralyzed -- Speaking of peace -- The divine pattern -- Everyday conflict, everyday peacemaking -- See -- Immerse -- Contend -- Restore -- Time to begin -- Building a road map -- A peacemaking library
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2024-07-18T22:43:32.652-05:00 %%

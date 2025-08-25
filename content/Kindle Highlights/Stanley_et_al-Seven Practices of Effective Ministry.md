@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.077-05:00","modified":"2025-08-22T12:36:56.077-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "57202"
+  title: Seven Practices of Effective Ministry
+  author: Andy Stanley, Lane Jones, and Reggie Joiner
+  asin: B001E2WM6I
+  lastAnnotatedDate: 2016-10-24
+  bookImageUrl: https://m.media-amazon.com/images/I/51WOalbrgkL._SY160.jpg
+  highlightsCount: 90
+publish: true
 ---
-
 # Seven Practices of Effective Ministry
 ## Metadata
 * Author: [Andy Stanley, Lane Jones, and Reggie Joiner](https://www.amazon.comundefined)

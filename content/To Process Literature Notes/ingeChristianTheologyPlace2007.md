@@ -1,7 +1,12 @@
 ---
-{"publish":true,"aliases":" A Christian Theology of Place","created":"2025-08-22T12:36:56.166-05:00","modified":"2025-08-22T12:36:56.166-05:00","cssclasses":""}
+category: literaturenote
+tags:
+citekey: ingeChristianTheologyPlace2007
+status: unread
+dateread:
+alias: A Christian Theology of Place
+publish: true
 ---
-
 
 > [!Cite]
 > Inge, John. _A Christian Theology of Place_. Reprinted. Explorations in Practical, Pastoral, and Empirical Theology. Aldershot, Hampshire: Ashgate, 2007.
@@ -41,7 +46,7 @@
 ### Bibliogr. S.145 - 155
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -215,7 +220,7 @@
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-06-25T16:09:58.227-05:00 %%

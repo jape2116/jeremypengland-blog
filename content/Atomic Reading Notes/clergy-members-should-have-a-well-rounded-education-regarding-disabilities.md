@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-31T12:07:42.710-05:00","modified":"2025-08-22T12:36:55.990-05:00","cssclasses":""}
+publish: true
 ---
-
 Ministry students should be exposed to a variety of view points, case studies, and moral choices in the pursuit of their education. This will make them better leaders for everyone.
 
 ---
@@ -15,7 +14,7 @@ Ministry students should be exposed to a variety of view points, case studies, a
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/annandalenaomihDisabilityTheologicalEducation2014]]
+**Link to original note:** [[annandalenaomihDisabilityTheologicalEducation2014]]
 **Go to annotation:** 
 
 

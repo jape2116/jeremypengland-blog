@@ -1,7 +1,17 @@
 ---
-{"publish":true,"aliases":" Queen of the Dark Chamber: The Story of Christiana Tsai","created":"2025-08-22T13:24:34.019-05:00","modified":"2025-08-22T13:24:34.019-05:00","tags":["China","D_Min","missionary","NTS","spiritual_formation"],"cssclasses":""}
+category: literaturenote
+tags: 
+  - China
+  - D_Min
+  - missionary
+  - NTS
+  - spiritual_formation
+citekey: tsaiQueenDarkChamber1953a
+status: unread
+dateread:
+alias: "Queen of the Dark Chamber: The Story of Christiana Tsai"
+publish: true
 ---
-
 
 > [!Cite]
 > Tsai, Christiana. _Queen of the Dark Chamber: The Story of Christiana Tsai_. Chicago: Moody Publishers, 1953.
@@ -248,10 +258,10 @@
 **I have indeed found peace out of pain , joy in suffering light in darkness ; after over twenty years in bed , I can say it is worth while to pass through the valley of the shadow of death for the joy of knowing the Lord Jesus Christ .**
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2023-11-15T03:00:22.529-06:00 %%

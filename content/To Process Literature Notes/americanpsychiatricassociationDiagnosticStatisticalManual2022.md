@@ -1,7 +1,19 @@
 ---
-{"publish":true,"aliases":"Diagnostic and statistical manual of mental disorders DSM-5-TR™","created":"2025-08-22T12:36:56.097-05:00","modified":"2025-08-22T12:36:56.097-05:00","tags":["disability","ADHD","read","psychology","psychiatry","disgnosis"],"cssclasses":""}
+category: literaturenote
+tags:
+  - disability
+  - ADHD
+  - read
+  - psychology
+  - psychiatry
+  - disgnosis
+citekey: americanpsychiatricassociationDiagnosticStatisticalManual2022
+status: unread
+dateread:
+aliases:
+  - Diagnostic and statistical manual of mental disorders DSM-5-TR™
+publish: true
 ---
-
 
 > [!Cite]
 > American Psychiatric Association, ed. _Diagnostic and Statistical Manual of Mental Disorders: DSM-5-TRTM_. Fifth edition, text Revision. Washington, DC: American Psychiatric Association Publishing, 2022.
@@ -43,7 +55,7 @@
 Latest edition to the DSM. Used for understanding diagnostic criteria for ADHD.
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -113,7 +125,7 @@ Latest edition to the DSM. Used for understanding diagnostic criteria for ADHD.
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2023-10-25T16:39:46.254-05:00 %%

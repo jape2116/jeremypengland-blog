@@ -1,8 +1,7 @@
 ---
-{"publish":true,"created":"2023-10-23T17:49:19.678-05:00","modified":"2025-08-22T12:36:55.982-05:00","cssclasses":""}
+publish: true
 ---
-
-[[ADHD]] is dangerous as it increases the likelihood of suicide, suicide ideation, and suicidal behaviors. Even worse, [[Atomic Reading Notes/soldiers-with-ADHD-are-more-likely-to-be-suicidal]].
+[[ADHD]] is dangerous as it increases the likelihood of suicide, suicide ideation, and suicidal behaviors. Even worse, [[soldiers-with-ADHD-are-more-likely-to-be-suicidal]].
 
 ---
 
@@ -14,5 +13,5 @@
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/americanpsychiatricassociationDiagnosticStatisticalManual2022]]
+**Link to original note:** [[americanpsychiatricassociationDiagnosticStatisticalManual2022]]
 **Go to annotation:** 

@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.042-05:00","modified":"2025-08-22T12:36:56.042-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "45894"
+  title: "The Permanent Revolution Playbook: APEST for the People of God: A Six Week Exploration"
+  author: Alan Hirsch and Tim Catchim
+  asin: B00MAFLFI4
+  lastAnnotatedDate: 2016-11-27
+  bookImageUrl: https://m.media-amazon.com/images/I/91zxs48hluL._SY160.jpg
+  highlightsCount: 12
+publish: true
 ---
-
 # The Permanent Revolution Playbook: APEST for the People of God
 ## Metadata
 * Author: [Alan Hirsch and Tim Catchim](https://www.amazon.comundefined)

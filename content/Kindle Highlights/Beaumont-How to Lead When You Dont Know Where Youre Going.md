@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.018-05:00","modified":"2025-08-22T12:36:56.018-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "24204"
+  title: "How to Lead When You Don't Know Where You're Going: Leading in a Liminal Season"
+  author: Susan Beaumont
+  asin: B07V99ZQBN
+  lastAnnotatedDate: 2025-05-02
+  bookImageUrl: https://m.media-amazon.com/images/I/81GZMI1Q-LL._SY160.jpg
+  highlightsCount: 84
+publish: true
 ---
-
 # How to Lead When You Dont Know Where Youre Going
 ## Metadata
 * Author: [Susan Beaumont](https://www.amazon.comundefined)

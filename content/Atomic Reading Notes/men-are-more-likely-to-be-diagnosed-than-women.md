@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-23T17:49:32.606-05:00","modified":"2025-08-22T12:36:55.997-05:00","cssclasses":""}
+publish: true
 ---
-
 Men are more likely to be diagnosed with [[ADHD]] than women. Perhaps due to societal expectations and/or cognitive development (smarter sooner).
 
 ---
@@ -13,5 +12,5 @@ Men are more likely to be diagnosed with [[ADHD]] than women. Perhaps due to soc
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/americanpsychiatricassociationDiagnosticStatisticalManual2022]]
+**Link to original note:** [[americanpsychiatricassociationDiagnosticStatisticalManual2022]]
 **Go to annotation:** 

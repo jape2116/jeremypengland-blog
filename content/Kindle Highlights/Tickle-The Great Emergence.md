@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.081-05:00","modified":"2025-08-22T12:36:56.081-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "5981"
+  title: "The Great Emergence: How Christianity Is Changing and Why"
+  author: Phyllis Tickle
+  asin: B008PRGPS6
+  lastAnnotatedDate: 2018-02-15
+  bookImageUrl: https://m.media-amazon.com/images/I/81eVdIrPV0L._SY160.jpg
+  highlightsCount: 2
+publish: true
 ---
-
 # The Great Emergence
 ## Metadata
 * Author: [Phyllis Tickle](https://www.amazon.comundefined)

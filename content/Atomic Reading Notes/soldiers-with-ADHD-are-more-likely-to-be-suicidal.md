@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-23T17:48:29.867-05:00","modified":"2025-08-22T12:36:56.004-05:00","cssclasses":""}
+publish: true
 ---
-
 Soldiers are at even higher risk of suicidal thoughts if they have [[ADHD]].
 
 ---
@@ -13,5 +12,5 @@ Soldiers are at even higher risk of suicidal thoughts if they have [[ADHD]].
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/americanpsychiatricassociationDiagnosticStatisticalManual2022]]
+**Link to original note:** [[americanpsychiatricassociationDiagnosticStatisticalManual2022]]
 **Go to annotation:** 

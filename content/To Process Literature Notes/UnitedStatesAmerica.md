@@ -1,7 +1,12 @@
 ---
-{"publish":true,"aliases":" United States of America Constitution","created":"2025-08-22T12:36:56.204-05:00","modified":"2025-08-22T12:36:56.204-05:00","cssclasses":""}
+category: literaturenote
+tags:
+citekey: UnitedStatesAmerica
+status: unread
+dateread:
+alias: United States of America Constitution
+publish: true
 ---
-
 
 > [!Cite]
 > “United States of America Constitution,” n.d.
@@ -33,10 +38,10 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2024-05-09T14:01:21.493-05:00 %%

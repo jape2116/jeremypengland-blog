@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.048-05:00","modified":"2025-08-22T12:36:56.048-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "54522"
+  title: "Pastoral Practices: A Wesleyan Paradigm"
+  author: Diane Leclerc and Mark A. Maddix
+  asin: B00DPK9DP0
+  lastAnnotatedDate: 2016-10-24
+  bookImageUrl: https://m.media-amazon.com/images/I/4146S7mDKiL._SY160.jpg
+  highlightsCount: 135
+publish: true
 ---
-
 # Pastoral Practices
 ## Metadata
 * Author: [Diane Leclerc and Mark A. Maddix](https://www.amazon.comundefined)

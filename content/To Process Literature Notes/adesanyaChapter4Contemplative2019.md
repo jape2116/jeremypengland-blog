@@ -1,7 +1,12 @@
 ---
-{"publish":true,"aliases":" Chapter 4 Contemplative Listening","created":"2025-08-22T12:36:56.096-05:00","modified":"2025-08-22T12:36:56.096-05:00","cssclasses":""}
+category: literaturenote
+tags:
+citekey: adesanyaChapter4Contemplative2019
+status: unread
+dateread:
+alias: Chapter 4 Contemplative Listening
+publish: true
 ---
-
 
 > [!Cite]
 > Adesanya, Ineda P. “Chapter 4: Contemplative Listening.” In _Kaleidoscope: Broadening the Palette in the Art of Spiritual Direction_, 9. La Vergne: Church Publishing Incorporated, 2019.
@@ -40,7 +45,7 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -84,7 +89,7 @@
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-02-04T23:58:36.683-06:00 %%

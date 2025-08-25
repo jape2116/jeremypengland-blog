@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.049-05:00","modified":"2025-08-22T12:36:56.049-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "49332"
+  title: "Neither Complementarian nor Egalitarian: A Kingdom Corrective to the Evangelical Gender Debate"
+  author: Michelle Lee-Barnewall, Craig Blomberg, and Lynn Cohick
+  asin: B012H10DPQ
+  lastAnnotatedDate: 2018-07-11
+  bookImageUrl: https://m.media-amazon.com/images/I/91x0U0vM8HL._SY160.jpg
+  highlightsCount: 12
+publish: true
 ---
-
 # Neither Complementarian nor Egalitarian
 ## Metadata
 * Author: [Michelle Lee-Barnewall, Craig Blomberg, and Lynn Cohick](https://www.amazon.comundefined)

@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.063-05:00","modified":"2025-08-22T12:36:56.063-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "11371"
+  title: "Becoming a Contagious Church: Increasing Your Church's Evangelistic Temperature"
+  author: Mark Mittelberg and Bill Hybels
+  asin: B002SVQDD2
+  lastAnnotatedDate: 2019-12-23
+  bookImageUrl: https://m.media-amazon.com/images/I/81revukQ-0L._SY160.jpg
+  highlightsCount: 38
+publish: true
 ---
-
 # Becoming a Contagious Church
 ## Metadata
 * Author: [Mark Mittelberg and Bill Hybels](https://www.amazon.comundefined)

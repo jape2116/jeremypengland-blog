@@ -1,7 +1,22 @@
 ---
-{"publish":true,"aliases":" A Theology of Cultural Intelligence","created":"2025-08-22T13:36:00.158-05:00","modified":"2025-08-22T13:36:00.158-05:00","tags":["NTS","to_read","D_Min","cultural_intelligence","Christian","Christianity_and_culture","reconciliation","theology","society_and_church","culture"],"cssclasses":""}
+category: literaturenote
+tags: 
+  - NTS
+  - to_read
+  - D_Min
+  - cultural_intelligence
+  - Christian 
+  - Christianity_and_culture
+  - reconciliation 
+  - theology
+  - society_and_church
+  - culture
+citekey: bockTheologyCulturalIntelligence2022
+status: unread
+dateread:
+alias: A Theology of Cultural Intelligence
+publish: true
 ---
-
 
 > [!Cite]
 > Bock, Darrell L. “A Theology of Cultural Intelligence.” _Southwestern Journal of Theology_ 64, no. 2 (2022): 35–50.
@@ -42,7 +57,7 @@
 ### Accession Number: ATLAiREM220606000510; Hosting Book Page Citation: Southwestern Journal of Theology; , 2022; Language(s): English; Issued by ATLA: 20230508; Publication Type: Article;
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -156,7 +171,7 @@
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-02-28T01:32:00.589-06:00 %%

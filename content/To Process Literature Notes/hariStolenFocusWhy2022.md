@@ -1,7 +1,17 @@
 ---
-{"publish":true,"aliases":"Stolen focus: why you can't pay attention--and how to think deeply again","created":"2025-08-22T12:36:56.162-05:00","modified":"2025-08-22T12:36:56.162-05:00","tags":["adhd","controversial","process_to_obsidian","focus"],"cssclasses":""}
+category: literaturenote
+tags:
+  - adhd
+  - controversial
+  - process_to_obsidian
+  - focus
+citekey: hariStolenFocusWhy2022
+status: unread
+dateread:
+aliases:
+  - "Stolen focus: why you can't pay attention--and how to think deeply again"
+publish: true
 ---
-
 
 > [!Cite]
 > Hari, Johann. _Stolen Focus: Why You Can’t Pay Attention--and How to Think Deeply Again_. New York: Crown, 2022.
@@ -99,10 +109,10 @@ But if we are going to do that, he said, we crucially also need to ask: "Where i
 - how temporary is temporary? Adjusting an entire culture will go beyond a lifetime of many kids.
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2023-12-06T02:02:38.724-06:00 %%

@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.053-05:00","modified":"2025-08-22T12:36:56.053-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "8441"
+  title: "The Soul of Discernment: A Spiritual Practice for Communities and Institutions"
+  author: Elizabeth Liebert
+  asin: B0158TTBOI
+  lastAnnotatedDate: 2025-05-03
+  bookImageUrl: https://m.media-amazon.com/images/I/61tfqtQ8odL._SY160.jpg
+  highlightsCount: 98
+publish: true
 ---
-
 # The Soul of Discernment
 ## Metadata
 * Author: [Elizabeth Liebert](https://www.amazon.comundefined)

@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.067-05:00","modified":"2025-08-22T12:36:56.067-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "49503"
+  title: "The Wounded Healer: Ministry in Contemporary Society (Doubleday Image Book. an Image Book)"
+  author: Henri J. M. Nouwen
+  asin: B00G8ELSFS
+  lastAnnotatedDate: 2024-09-13
+  bookImageUrl: https://m.media-amazon.com/images/I/91Hr7-OGE8L._SY160.jpg
+  highlightsCount: 58
+publish: true
 ---
-
 # The Wounded Healer
 ## Metadata
 * Author: [Henri J. M. Nouwen](https://www.amazon.comundefined)

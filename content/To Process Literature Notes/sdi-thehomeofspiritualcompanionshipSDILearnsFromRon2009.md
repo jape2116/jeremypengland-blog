@@ -1,7 +1,17 @@
 ---
-{"publish":true,"aliases":" SDI Learns From...Ron Rolheiser, OMI","created":"2025-08-22T13:12:51.273-05:00","modified":"2025-08-22T13:12:51.273-05:00","tags":["D_Min","NTS","spiritual_companionship","spiritual_direction","theology"],"cssclasses":""}
+category: literaturenote
+tags:
+  - D_Min
+  - NTS
+  - spiritual_companionship
+  - spiritual_direction
+  - theology
+citekey: sdi-thehomeofspiritualcompanionshipSDILearnsFromRon2009
+status: unread
+dateread:
+alias: SDI Learns From...Ron Rolheiser, OMI
+publish: true
 ---
-
 
 > [!Cite]
 > _SDI Learns From...Ron Rolheiser, OMI_, 2009. [https://www.youtube.com/watch?v=UVpxL9WImIM](https://www.youtube.com/watch?v=UVpxL9WImIM).
@@ -65,10 +75,10 @@ Peace is only going to come, see, peace isn't just the absence of war. ==Peace h
 So that you can't have a, see, what you see at the collective level is only a reflection of what's inside people. So that if spiritual direction helps bring people to eternal peace and private peace and interior peace, then there's some hope for peace in the world. We can't achieve outside what we haven't achieved inside. 
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-02-14T00:59:10.157-06:00 %%

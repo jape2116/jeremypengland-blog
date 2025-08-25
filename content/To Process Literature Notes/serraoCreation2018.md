@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T13:27:16.384-05:00","modified":"2025-08-22T13:27:16.384-05:00","tags":["Lecture","NBC","Nazarene"],"cssclasses":""}
+category: literaturenote
+tags: 
+  - Lecture
+  - NBC
+  - Nazarene
+citekey: serraoCreation2018
+status: unread
+dateread:
+publish: true
 ---
-
 
 > [!Cite]
 > Serrao, Jean, and Kent Brower. “Creation.” Nazarene Bible College, 2018.
@@ -36,9 +43,9 @@
 
 ## Notes
 
-># Annotations
+># Annotations%% begin annotations %%
+
+%% end annotations %%
 
 
-
-
-
+%% Import Date: 2023-10-23T11:25:19.552-05:00 %%

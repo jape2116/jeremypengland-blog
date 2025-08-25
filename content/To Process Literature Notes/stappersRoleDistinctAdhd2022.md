@@ -1,7 +1,15 @@
 ---
-{"publish":true,"aliases":" The Role of Distinct Adhd Symptoms for Pre-Entry Entrepreneurial Behavior When Intentions Do Not Translate Into Action","created":"2025-08-22T13:07:54.985-05:00","modified":"2025-08-22T13:07:54.985-05:00","tags":["ADHD","entrepreneur","D_Min"],"cssclasses":""}
+category: literaturenote
+tags:
+  - ADHD
+  - entrepreneur
+  - D_Min
+citekey: stappersRoleDistinctAdhd2022
+status: unread
+dateread:
+alias: The Role of Distinct Adhd Symptoms for Pre-Entry Entrepreneurial Behavior When Intentions Do Not Translate Into Action
+publish: true
 ---
-
 
 > [!Cite]
 > Stappers, Jarno, and Petra Andries. “The Role of Distinct Adhd Symptoms for Pre-Entry Entrepreneurial Behavior: When Intentions Do Not Translate Into Action.” _Small Business Economics_ 58, no. 3 (March 2022): 1441–57. [https://doi.org/10.1007/s11187-020-00440-x](https://doi.org/10.1007/s11187-020-00440-x).
@@ -48,7 +56,7 @@
 This paper is a look at how people with ADHD symptoms fare in the stage of pre-entrepreneur behaviors. It is a study done in Belgium that concludes ADHD symptoms translate well to certain aspects of starting something new, such as product testing, designing, and creative thinking, but will struggle with less exciting tasks necessary to start a business such as research, bookkeeping, and administrative work. The risks seem negligible if accommodations are put into place such as broken down steps, timelines, or a partner who excels in the areas the person with ADHD does not.
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -122,7 +130,7 @@ This paper is a look at how people with ADHD symptoms fare in the stage of pre-e
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2023-10-29T23:41:59.246-05:00 %%

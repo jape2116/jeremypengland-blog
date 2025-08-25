@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-31T12:10:54.876-05:00","modified":"2025-08-22T12:36:55.991-05:00","cssclasses":""}
+publish: true
 ---
-
 Almost half of the surveyed schools cited a lack of space or resources to adequately educate future [[clergy]] in [[disability]] ministries, and more than half of them said on the job experience would not be beneficial. So where's the good learning supposed to take place?
 
 ---
@@ -14,5 +13,5 @@ Almost half of the surveyed schools cited a lack of space or resources to adequa
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/annandalenaomihDisabilityTheologicalEducation2014]]
+**Link to original note:** [[annandalenaomihDisabilityTheologicalEducation2014]]
 **Go to annotation:** 

@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.091-05:00","modified":"2025-08-22T12:36:56.091-05:00","tags":["Spiritual","formation","prayer","D.Min.","NTS"],"cssclasses":""}
+category: literaturenote
+tags:
+  - Spiritual
+  - formation
+  - prayer
+  - D.Min.
+  - NTS
+citekey: ignatiusSpiritualExercisesSt2010
+status: read
+dateread: 9/25/2023
+publish: true
 ---
-
 
 > [!Cite]
 > Ignatius. _The Spiritual Exercises of St. Ignatius: Based on Studies in the Language of the Autograph_. Translated by Louis J. Puhl. Mansfield Centre, CT: Martino, 2010.
@@ -34,8 +43,8 @@
 >.
 
 
-# Annotations
+# Annotations%% begin annotations %%
 
+%% end annotations %%
 
-
-
+%% Import Date: 2023-09-26T00:47:57.304-05:00 %%

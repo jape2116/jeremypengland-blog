@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.045-05:00","modified":"2025-08-22T12:36:56.045-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "46800"
+  title: "From Social Media to Social Ministry: A Guide to Digital Discipleship"
+  author: Nona Jones
+  asin: B081MZQV78
+  lastAnnotatedDate: 2021-05-03
+  bookImageUrl: https://m.media-amazon.com/images/I/712ch-5aibL._SY160.jpg
+  highlightsCount: 38
+publish: true
 ---
-
 # From Social Media to Social Ministry
 ## Metadata
 * Author: [Nona Jones](https://www.amazon.comundefined)

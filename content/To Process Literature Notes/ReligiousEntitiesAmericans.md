@@ -1,7 +1,12 @@
 ---
-{"publish":true,"aliases":" Religious Entities Under the Americans With Disabilities Act | ADA National Network","created":"2025-08-22T12:36:56.190-05:00","modified":"2025-08-22T12:36:56.190-05:00","cssclasses":""}
+category: literaturenote
+tags:
+citekey: ReligiousEntitiesAmericans
+status: unread
+dateread:
+alias: Religious Entities Under the Americans With Disabilities Act | ADA National Network
+publish: true
 ---
-
 []
 > [!Cite]
 > “Religious Entities Under the Americans With Disabilities Act | ADA National Network.” Accessed May 9, 2024. [https://adata.org/factsheet/religious-entities-under-americans-disabilities-act](https://adata.org/factsheet/religious-entities-under-americans-disabilities-act).
@@ -33,10 +38,10 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2024-05-09T13:15:53.780-05:00 %%

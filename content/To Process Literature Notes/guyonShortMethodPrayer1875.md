@@ -1,7 +1,17 @@
 ---
-{"publish":true,"created":"2025-08-22T13:20:14.453-05:00","modified":"2025-08-22T13:20:14.453-05:00","tags":["Holiness","Spiritual","formation","prayer","D_Min","NTS"],"cssclasses":""}
+category: literaturenote
+tags:
+  - Holiness
+  - Spiritual
+  - formation
+  - prayer
+  - D_Min
+  - NTS
+citekey: guyonShortMethodPrayer1875
+status: read
+dateread: 9/25/2023
+publish: true
 ---
-
 
 > [!Cite]
 > Guyon, Jeanne Marie Bouvières de la Mot. _A Short Method Of Prayer And Spiritual Torrents_. Translated by A. W. Marston. London: Sampson Low, Marston, Low, & Searle, 1875. [https://www.gutenberg.org/files/24989/24989-h/24989-h.htm](https://www.gutenberg.org/files/24989/24989-h/24989-h.htm).
@@ -584,8 +594,8 @@ It would be amazing if our road to glorification coule be like a movie montage w
 [Obsidian Note](obsidian://open?vault=Doctorate%20of%20Ministry&file=A%20Short%20and%20Easy%20Method%20of%20Prayer%20-).
 
 
-# Annotations
+# Annotations%% begin annotations %%
 
+%% end annotations %%
 
-
-
+%% Import Date: 2023-09-26T00:45:51.038-05:00 %%

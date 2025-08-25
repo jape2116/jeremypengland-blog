@@ -1,7 +1,15 @@
 ---
-{"publish":true,"created":"2025-08-22T13:06:54.516-05:00","modified":"2025-08-22T13:06:54.516-05:00","tags":["disability","ADHD","treatment","executive_function"],"cssclasses":""}
+category: literaturenote
+tags:
+  - disability
+  - ADHD
+  - treatment
+  - executive_function
+citekey: maoPhysicianGuideHelping2011
+status: unread
+dateread:
+publish: true
 ---
-
 
 > [!Cite]
 > Mao, Alice R., Matthew Brams, Thomas Babcock, and Manisha Madhoo. “A Physician’s Guide to Helping Patients with ADHD Find Success in the Workplace.” _Postgraduate Medicine_ 123, no. 5 (September 2011): 60–70. [https://doi.org/10.3810/pgm.2011.09.2460](https://doi.org/10.3810/pgm.2011.09.2460).
@@ -55,7 +63,7 @@ Test note
 This paper is a literature review, particularly looking at papers published between 2001 and 2011 to help physicians better understand and mitigate the problems that arise from patients with ADHD in regards to their occupations. As primary care physicians are usually the first people a person may seek out for help, it is imperative that providers are able to understand the problem and know what resources to give them. It has been 12 years since this study was published and it is possible that the advancements in understanding ADHD may be further along.
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 ### Imported: 2023-10-23 1:00 pm
@@ -97,7 +105,7 @@ This paper is a literature review, particularly looking at papers published betw
  * 
 
 
- <br>![[Media/Zotero/maoPhysicianGuideHelping2011/maoPhysicianGuideHelping2011-3-x103-y523.png]]
+ <br>![[maoPhysicianGuideHelping2011-3-x103-y523.png]]
 [[maoPhysicianGuideHelping2011-3-x103-y523.png]]<br> 
 [Pg.3](zotero://open-pdf/groups/5230851/items/CV7995JA?page=61&annotation=4FJQTQPJ)
  * 
@@ -148,13 +156,13 @@ This paper is a literature review, particularly looking at papers published betw
  * It is always important to remember that at the end of the day, everyone is unique. There may be many commonalities because of certain ailments or disorders, but it doesn't change the individuality of the person.
 
 
- <br>![[Media/Zotero/maoPhysicianGuideHelping2011/maoPhysicianGuideHelping2011-9-x100-y228.png]]
+ <br>![[maoPhysicianGuideHelping2011-9-x100-y228.png]]
 [[maoPhysicianGuideHelping2011-9-x100-y228.png]]<br> 
 [Pg.9](zotero://open-pdf/groups/5230851/items/CV7995JA?page=67&annotation=EP96S7PA)
  * 
 
 
- <br>![[Media/Zotero/maoPhysicianGuideHelping2011/maoPhysicianGuideHelping2011-9-x355-y572.png]]
+ <br>![[maoPhysicianGuideHelping2011-9-x355-y572.png]]
 [[maoPhysicianGuideHelping2011-9-x355-y572.png]]<br> 
 [Pg.9](zotero://open-pdf/groups/5230851/items/CV7995JA?page=67&annotation=HYZZJC3B)
  * 
@@ -246,7 +254,7 @@ This paper is a literature review, particularly looking at papers published betw
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2023-10-23T13:00:25.516-05:00 %%

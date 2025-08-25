@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.084-05:00","modified":"2025-08-22T12:36:56.084-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "63281"
+  title: Queen of the Dark Chamber
+  author: Christiana Tsai and Ellen Drummond
+  asin: B00LMP9FNA
+  lastAnnotatedDate: 2024-12-22
+  bookImageUrl: https://m.media-amazon.com/images/I/91p-Lz2gM3L._SY160.jpg
+  highlightsCount: 41
+publish: true
 ---
-
 # Queen of the Dark Chamber
 ## Metadata
 * Author: [Christiana Tsai and Ellen Drummond](https://www.amazon.comundefined)

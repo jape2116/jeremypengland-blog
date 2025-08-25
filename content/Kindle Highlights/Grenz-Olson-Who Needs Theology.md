@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.038-05:00","modified":"2025-08-22T12:36:56.038-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "44532"
+  title: "Who Needs Theology?: An Invitation to the Study of God"
+  author: Stanley J. Grenz and Roger E. Olson
+  asin: B0028N5UOS
+  lastAnnotatedDate: 2017-11-25
+  bookImageUrl: https://m.media-amazon.com/images/I/81nH2sK8PfL._SY160.jpg
+  highlightsCount: 42
+publish: true
 ---
-
 # Who Needs Theology?
 ## Metadata
 * Author: [Stanley J. Grenz and Roger E. Olson](https://www.amazon.comundefined)

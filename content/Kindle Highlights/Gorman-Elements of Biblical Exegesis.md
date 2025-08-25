@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.036-05:00","modified":"2025-08-22T12:36:56.036-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "46232"
+  title: "Elements of Biblical Exegesis: A Basic Guide for Students and Ministers"
+  author: Michael J. Gorman
+  asin: B005LQR41Q
+  lastAnnotatedDate: 2018-04-17
+  bookImageUrl: https://m.media-amazon.com/images/I/41+NMhomaIL._SY160.jpg
+  highlightsCount: 35
+publish: true
 ---
-
 # Elements of Biblical Exegesis
 ## Metadata
 * Author: [Michael J. Gorman](https://www.amazon.comundefined)

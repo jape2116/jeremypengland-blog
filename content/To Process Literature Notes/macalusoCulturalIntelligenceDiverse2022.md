@@ -1,7 +1,16 @@
 ---
-{"publish":true,"aliases":" Cultural Intelligence in the Diverse Classroom","created":"2025-08-22T13:19:54.115-05:00","modified":"2025-08-22T13:19:54.115-05:00","tags":["NTS","education","D_Min","cultural_intelligence"],"cssclasses":""}
+category: literaturenote
+tags: 
+  - NTS
+  - education
+  - D_Min
+  - cultural_intelligence
+citekey: macalusoCulturalIntelligenceDiverse2022
+status: unread
+dateread:
+alias: Cultural Intelligence in the Diverse Classroom
+publish: true
 ---
-
 
 > [!Cite]
 > Macaluso, Ann M. “Cultural Intelligence in the Diverse Classroom” Fall 2022 21, no. 2 (2022): 33–37.
@@ -41,7 +50,7 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -105,7 +114,7 @@
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-02-28T01:39:12.850-06:00 %%

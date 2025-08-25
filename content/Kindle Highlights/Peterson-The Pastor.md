@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.069-05:00","modified":"2025-08-22T12:36:56.069-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "24165"
+  title: "The Pastor: A Memoir"
+  author: Eugene H. Peterson
+  asin: B004HD630C
+  lastAnnotatedDate: 2016-12-06
+  bookImageUrl: https://m.media-amazon.com/images/I/81tOS46P3EL._SY160.jpg
+  highlightsCount: 100
+publish: true
 ---
-
 # The Pastor
 ## Metadata
 * Author: [Eugene H. Peterson](https://www.amazon.comundefined)

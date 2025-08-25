@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.066-05:00","modified":"2025-08-22T12:36:56.066-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "26128"
+  title: "Celtic Christian Spirituality: Essential Writings Annotated & Explained (SkyLight Illuminations)"
+  author: John Philip Newell
+  asin: B01HT6C6BI
+  lastAnnotatedDate: 2025-06-17
+  bookImageUrl: https://m.media-amazon.com/images/I/81AB8wnF5IL._SY160.jpg
+  highlightsCount: 39
+publish: true
 ---
-
 # Celtic Christian Spirituality
 ## Metadata
 * Author: [John Philip Newell](https://www.amazon.comundefined)

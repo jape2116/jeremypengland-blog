@@ -1,7 +1,18 @@
 ---
-{"publish":true,"aliases":"Disability and Theological Education: A North American Study","created":"2025-08-22T13:27:54.166-05:00","modified":"2025-08-22T13:27:54.166-05:00","tags":["D_Min","disability","education","to_read","theology"],"cssclasses":""}
+category: literaturenote
+tags:
+  - D_Min
+  - disability
+  - education
+  - to_read
+  - theology
+citekey: annandalenaomihDisabilityTheologicalEducation2014
+status: unread
+dateread:
+aliases:
+  - "Disability and Theological Education: A North American Study"
+publish: true
 ---
-
 
 > [!Cite]
 > Annandale, Naomi H and Carter, Erik W. “Disability and Theological Education: A North American Study.” _Theological Education_ 48, no. 2 (2014): 83–102.
@@ -47,7 +58,7 @@
 A paper from Vanderbilt University that explores how schools with a theology department, particularly ones that are preparing clergy to lead the church, have lacked in educating regarding disabilities and what can be done about it going forward. The study surveyed college leaders (i.e. deans) and only 10.6% identified as having a disability. The results conclude that there is very little focus on disabilities in the schools surveyed and most people being prepare for ministry will be inadequately prepared to minister to those with disabilities.
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -55,28 +66,28 @@ A paper from Vanderbilt University that explores how schools with a theology dep
 
 
 
-See also - [[Atomic Reading Notes/disabilities-are-common-to-people-in-north-america]]
+See also - [[disabilities-are-common-to-people-in-north-america]]
 
 
-See also - [[Atomic Reading Notes/studying-disabilities-in-relation-to-theology-forces-us-to-deal-with-the-human-condition]]
+See also - [[studying-disabilities-in-relation-to-theology-forces-us-to-deal-with-the-human-condition]]
 
 
-See also - [[Atomic Reading Notes/understanding-disabilities-is-a-generational-ministry-concern]]
+See also - [[understanding-disabilities-is-a-generational-ministry-concern]]
 
 
-See also - [[Atomic Reading Notes/clergy-members-have-enormous-power-to-address-disabitlies-in-their-local-contexts]]
+See also - [[clergy-members-have-enormous-power-to-address-disabitlies-in-their-local-contexts]]
 
 
-See also - [[Atomic Reading Notes/clergy-members-should-have-a-well-rounded-education-regarding-disabilities]]
+See also - [[clergy-members-should-have-a-well-rounded-education-regarding-disabilities]]
 
 
-See also - [[Atomic Reading Notes/clergy-education-is-way-behind-in-addressing-disabilities]]
+See also - [[clergy-education-is-way-behind-in-addressing-disabilities]]
 
 
-See also - [[Atomic Reading Notes/there-is-little-concern-for-disabilities-in-theological-education]]
+See also - [[there-is-little-concern-for-disabilities-in-theological-education]]
 
 
-See also - [[Atomic Reading Notes/disability-education-lags-behind-women-in-ministry-and-sexuality-theology]]
+See also - [[disability-education-lags-behind-women-in-ministry-and-sexuality-theology]]
 
 
 <mark style="background-color: #ffd400">Quote</mark> <br>In addition to soliciting the demographic information described previously, the main sections of the survey addressed (1) where and how disability was addressed in the curriculum, (2) potential challenges to addressing disabilities within theological education, (3) the preparation of students related to including people with disabilities in future ministries, (4) interest in accessing resources related to religion and disability, (5) the involvement of people with disabilities in activities at the school, and (6) the availability of accommodations for people with disabilities at the school.<br> 
@@ -84,22 +95,22 @@ See also - [[Atomic Reading Notes/disability-education-lags-behind-women-in-mini
  * 
 
 
-See also - [[Atomic Reading Notes/pastoral-care-and-christian-education-are-the-most-likely-areas-to-address-disabilities]]
+See also - [[pastoral-care-and-christian-education-are-the-most-likely-areas-to-address-disabilities]]
 
 
-See also - [[Atomic Reading Notes/field-work-with-people-with-disabilities-is-infrequent-or-non-existent]]
+See also - [[field-work-with-people-with-disabilities-is-infrequent-or-non-existent]]
 
 
-See also - [[Atomic Reading Notes/clergy-preparation-lacks-resources-and-also-know-they-are-lacking]]
+See also - [[clergy-preparation-lacks-resources-and-also-know-they-are-lacking]]
 
 
-See also - [[Atomic Reading Notes/students-with-disabilities-are-already-participating-in-most-areas-of-theological-education]]
+See also - [[students-with-disabilities-are-already-participating-in-most-areas-of-theological-education]]
 
 
-See also - [[Atomic Reading Notes/future-clergy-are-not-prepared-to-minister-to-people-with-disabilities]]
+See also - [[future-clergy-are-not-prepared-to-minister-to-people-with-disabilities]]
 
 
-See also - [[Atomic Reading Notes/disabilities-are-common-to-people-in-north-america]]
+See also - [[disabilities-are-common-to-people-in-north-america]]
 
 
 <mark style="background-color: #ffd400">Quote</mark> <br>Although occasionally addressed in courses addressing pastoral care, religious education, and spiritual formation, disability was less frequently addressed in the disciplines of theology, biblical studies, and historical studies. This represents an important omission in terms of student preparation for ministry.<br> 
@@ -137,43 +148,43 @@ See also - [[Atomic Reading Notes/disabilities-are-common-to-people-in-north-ame
  * People with disabilities are already participating in all aspects of the church life. They want to participate. We are not preparing the leaders of our churches to be able to know how to do that.
 
 
- <br>![[Media/Zotero/annandalenaomihDisabilityTheologicalEducation2014/annandalenaomihDisabilityTheologicalEducation2014-14-x55-y222.png]]
+ <br>![[annandalenaomihDisabilityTheologicalEducation2014-14-x55-y222.png]]
 [[annandalenaomihDisabilityTheologicalEducation2014-14-x55-y222.png]]<br> 
 [Pg.14](zotero://open-pdf/groups/5230851/items/VUDHPELP?page=96&annotation=9FJ4N9UE)
  * 
 
 
- <br>![[Media/Zotero/annandalenaomihDisabilityTheologicalEducation2014/annandalenaomihDisabilityTheologicalEducation2014-15-x64-y370.png]]
+ <br>![[annandalenaomihDisabilityTheologicalEducation2014-15-x64-y370.png]]
 [[annandalenaomihDisabilityTheologicalEducation2014-15-x64-y370.png]]<br> 
 [Pg.15](zotero://open-pdf/groups/5230851/items/VUDHPELP?page=97&annotation=7AUT34M6)
  * 
 
 
- <br>![[Media/Zotero/annandalenaomihDisabilityTheologicalEducation2014/annandalenaomihDisabilityTheologicalEducation2014-16-x52-y332.png]]
+ <br>![[annandalenaomihDisabilityTheologicalEducation2014-16-x52-y332.png]]
 [[annandalenaomihDisabilityTheologicalEducation2014-16-x52-y332.png]]<br> 
 [Pg.16](zotero://open-pdf/groups/5230851/items/VUDHPELP?page=98&annotation=XXGXDDMF)
  * 
 
 
- <br>![[Media/Zotero/annandalenaomihDisabilityTheologicalEducation2014/annandalenaomihDisabilityTheologicalEducation2014-16-x56-y55.png]]
+ <br>![[annandalenaomihDisabilityTheologicalEducation2014-16-x56-y55.png]]
 [[annandalenaomihDisabilityTheologicalEducation2014-16-x56-y55.png]]<br> 
 [Pg.16](zotero://open-pdf/groups/5230851/items/VUDHPELP?page=98&annotation=X2CU84BJ)
  * 
 
 
- <br>![[Media/Zotero/annandalenaomihDisabilityTheologicalEducation2014/annandalenaomihDisabilityTheologicalEducation2014-17-x66-y447.png]]
+ <br>![[annandalenaomihDisabilityTheologicalEducation2014-17-x66-y447.png]]
 [[annandalenaomihDisabilityTheologicalEducation2014-17-x66-y447.png]]<br> 
 [Pg.17](zotero://open-pdf/groups/5230851/items/VUDHPELP?page=99&annotation=DZUNFVWI)
  * 
 
 
- <br>![[Media/Zotero/annandalenaomihDisabilityTheologicalEducation2014/annandalenaomihDisabilityTheologicalEducation2014-17-x61-y170.png]]
+ <br>![[annandalenaomihDisabilityTheologicalEducation2014-17-x61-y170.png]]
 [[annandalenaomihDisabilityTheologicalEducation2014-17-x61-y170.png]]<br> 
 [Pg.17](zotero://open-pdf/groups/5230851/items/VUDHPELP?page=99&annotation=4C3QJBTE)
  * 
 
 
- <br>![[Media/Zotero/annandalenaomihDisabilityTheologicalEducation2014/annandalenaomihDisabilityTheologicalEducation2014-18-x51-y332.png]]
+ <br>![[annandalenaomihDisabilityTheologicalEducation2014-18-x51-y332.png]]
 [[annandalenaomihDisabilityTheologicalEducation2014-18-x51-y332.png]]<br> 
 [Pg.18](zotero://open-pdf/groups/5230851/items/VUDHPELP?page=100&annotation=J4I8I749)
  * 
@@ -205,7 +216,7 @@ See also - [[Atomic Reading Notes/disabilities-are-common-to-people-in-north-ame
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2023-10-31T00:00:01.100-05:00 %%

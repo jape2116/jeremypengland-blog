@@ -1,7 +1,15 @@
 ---
-{"publish":true,"aliases":" Forgotten Saints Episode 1:St Moses The Black","created":"2025-08-22T13:39:27.555-05:00","modified":"2025-08-22T13:39:27.555-05:00","tags":["D_Min","spiritual_formation","saint"],"cssclasses":""}
+category: literaturenote
+tags: 
+  - D_Min
+  - spiritual_formation
+  - saint
+citekey: thehumanesocietyoftheunitedstatesForgottenSaintsEpisode2020
+status: unread
+dateread:
+alias: Forgotten Saints Episode 1:St Moses The Black
+publish: true
 ---
-
 
 > [!Cite]
 > _Forgotten Saints Episode 1: St Moses The Black_, 2020. [https://www.youtube.com/watch?v=qASv9vvgPck](https://www.youtube.com/watch?v=qASv9vvgPck).
@@ -35,7 +43,7 @@
 
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 video by  Return to Tradition
 
@@ -58,4 +66,4 @@ Spent most of his ministry calling people to repentance and non-violence
 Recognized by the Catholics, Coptics, Eastern Orthodox
 
 
-
+%% end annotations %%

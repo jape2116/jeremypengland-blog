@@ -4,17 +4,17 @@ import { visit } from "unist-util-visit"
 import { QuartzTransformerPlugin } from "../types"
 
 export interface Options {
-  bibliographyFile: Users/jeremyengland/Zotero/JeremyZoteroBibTex.bib
+  bibliographyFile: string
   suppressBibliography: boolean
   linkCitations: boolean
   csl: string
 }
 
 const defaultOptions: Options = {
-  bibliographyFile: "/Users/jeremyengland/Zotero/JeremyZoteroBibTex.bib",
+  bibliographyFile: "./Users/jeremyengland/Zotero/JeremyZoteroBibTex.bib",
   suppressBibliography: false,
   linkCitations: false,
-  csl: "chicago",
+  csl: "apa",
 }
 
 export const Citations: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {

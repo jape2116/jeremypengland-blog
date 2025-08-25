@@ -1,7 +1,17 @@
 ---
-{"publish":true,"aliases":" Creating Communities in Which Everyone Belongs: A Case Study in Supported Decision-Making","created":"2025-08-22T13:26:24.785-05:00","modified":"2025-08-22T13:26:24.785-05:00","tags":["D_Min","education","universal_design","inclusive","process_to_obsidian"],"cssclasses":""}
+category: literaturenote
+tags: 
+  - D_Min
+  - education
+  - universal_design
+  - inclusive
+  - process_to_obsidian
+citekey: chapmanCreatingCommunitiesWhich2019
+status: unread
+dateread:
+alias: "Creating Communities in Which Everyone Belongs: A Case Study in Supported Decision-Making"
+publish: true
 ---
-
 
 > [!Cite]
 > Chapman, Richard A. “Creating Communities in Which Everyone Belongs: A Case Study in Supported Decision-Making.” In _Promoting Social Inclusion (International Perspectives on Inclusive Education_, edited by Kate Scorgie and Chris Forlin, 13:195–200. Emerald Publishing Limited, 2019. [https://doi.org/10.1108/S1479-363620190000013015](https://doi.org/10.1108/S1479-363620190000013015).
@@ -44,7 +54,7 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -98,7 +108,7 @@
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2024-05-06T22:53:22.888-05:00 %%

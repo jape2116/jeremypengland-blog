@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.034-05:00","modified":"2025-08-22T12:36:56.034-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "34686"
+  title: "Strengths Based Leadership: Great Leaders, Teams, and Why People Follow"
+  author: Gallup
+  asin: B001RIYUOG
+  lastAnnotatedDate: 2016-02-24
+  bookImageUrl: https://m.media-amazon.com/images/I/71CtjYWmbzL._SY160.jpg
+  highlightsCount: 31
+publish: true
 ---
-
 # Strengths Based Leadership
 ## Metadata
 * Author: [Gallup](https://www.amazon.comundefined)

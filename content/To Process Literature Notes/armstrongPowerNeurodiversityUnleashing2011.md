@@ -1,7 +1,19 @@
 ---
-{"publish":true,"aliases":"The Power of Neurodiversity: Unleashing the Advantages of Your Differently Wired Brain","created":"2025-08-22T13:31:13.398-05:00","modified":"2025-08-22T13:31:13.398-05:00","tags":["ADHD","to_read","autism","neurodiversity","neurodivergent","dyslexia"],"cssclasses":""}
+category: literaturenote
+tags:
+  - ADHD
+  - to_read
+  - autism
+  - neurodiversity
+  - neurodivergent
+  - dyslexia
+citekey: armstrongPowerNeurodiversityUnleashing2011
+status: unread
+dateread:
+aliases:
+  - "The Power of Neurodiversity: Unleashing the Advantages of Your Differently Wired Brain"
+publish: true
 ---
-
 
 > [!Cite]
 > Armstrong, Thomas. _The Power of Neurodiversity: Unleashing the Advantages of Your Differently Wired Brain_. Lifelong Books. Cambridge, MA: Da Capo Lifelong, 2011.
@@ -312,10 +324,10 @@ A helpful book to help understand the power of neurodiversity. The author attemp
 *
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2023-12-07T01:04:06.913-06:00 %%

@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-31T12:07:42.701-05:00","modified":"2025-08-22T12:36:55.989-05:00","cssclasses":""}
+publish: true
 ---
-
 [[Clergy]] and Leaders in the local church have a huge impact on a congregations abilities to address [[disability]]. That will require previous experience, education, or at the very least the willingness to address concerns heads on.
 
 ---
@@ -14,5 +13,5 @@
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/annandalenaomihDisabilityTheologicalEducation2014]]
+**Link to original note:** [[annandalenaomihDisabilityTheologicalEducation2014]]
 **Go to annotation:** 

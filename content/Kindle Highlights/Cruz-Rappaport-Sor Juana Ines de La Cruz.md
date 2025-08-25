@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.026-05:00","modified":"2025-08-22T12:36:56.026-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "7351"
+  title: "Sor Juana Ines de La Cruz: Selected Writings (Classics of Western Spirituality (Paperback))"
+  author: Sor Juana Ines de La Cruz and Pamela Kirk Rappaport
+  asin: B0083ECBAM
+  lastAnnotatedDate: 2023-12-08
+  bookImageUrl: https://m.media-amazon.com/images/I/511I2hxjpQL._SY160.jpg
+  highlightsCount: 24
+publish: true
 ---
-
 # Sor Juana Ines de La Cruz
 ## Metadata
 * Author: [Sor Juana Ines de La Cruz and Pamela Kirk Rappaport](https://www.amazon.comundefined)

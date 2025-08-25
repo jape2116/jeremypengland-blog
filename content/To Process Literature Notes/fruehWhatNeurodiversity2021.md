@@ -1,7 +1,17 @@
 ---
-{"publish":true,"aliases":" What is neurodiversity?","created":"2025-08-22T12:57:45.440-05:00","modified":"2025-08-22T12:57:45.440-05:00","tags":["ADHD","autism","D_Min","disability","neurodiversity"],"cssclasses":""}
+category: literaturenote
+tags:
+  - ADHD
+  - autism
+  - D_Min
+  - disability
+  - neurodiversity
+citekey: fruehWhatNeurodiversity2021
+status: unread
+dateread:
+alias: What is neurodiversity?
+publish: true
 ---
-
 
 > [!Cite]
 > Frueh, Julia, and Nicole Baumer. “What Is Neurodiversity?” Harvard Health, November 23, 2021. [https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645](https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645).
@@ -43,7 +53,7 @@
 This is a helpful webpage to give an overview of what neurodivergence is and what it is not. It is similar in nature to the [Harvard Web Page](app://obsidian.md/medWhatNeurodiversity2021) regarding the same topic.
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -87,7 +97,7 @@ This is a helpful webpage to give an overview of what neurodivergence is and wha
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2023-12-08T01:56:00.135-06:00 %%

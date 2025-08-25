@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-23T17:50:16.591-05:00","modified":"2025-08-22T12:36:56.007-05:00","cssclasses":""}
+publish: true
 ---
-
 It is not necessarily possible to physically see someone with [[ADHD]], which can make living it with somewhat more difficult because everything is expressed through behavior or [[therapy]].
 
 ---
@@ -14,5 +13,5 @@ It is not necessarily possible to physically see someone with [[ADHD]], which ca
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/americanpsychiatricassociationDiagnosticStatisticalManual2022]]
+**Link to original note:** [[americanpsychiatricassociationDiagnosticStatisticalManual2022]]
 **Go to annotation:** 

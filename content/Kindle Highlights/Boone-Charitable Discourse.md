@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.021-05:00","modified":"2025-08-22T12:36:56.021-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "21266"
+  title: "Charitable Discourse: Talking About the Things That Divide Us"
+  author: Dan Boone
+  asin: B004O6MT4G
+  lastAnnotatedDate: 2017-10-20
+  bookImageUrl: https://m.media-amazon.com/images/I/41G9EEmhx3L._SY160.jpg
+  highlightsCount: 30
+publish: true
 ---
-
 # Charitable Discourse
 ## Metadata
 * Author: [Dan Boone](https://www.amazon.comundefined)

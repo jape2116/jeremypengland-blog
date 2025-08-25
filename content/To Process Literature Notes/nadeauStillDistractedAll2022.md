@@ -1,7 +1,15 @@
 ---
-{"publish":true,"created":"2025-08-22T13:34:52.958-05:00","modified":"2025-08-22T13:34:52.958-05:00","tags":["D_Min","ADHD","adult","elderly"],"cssclasses":""}
+category: literaturenote
+tags: 
+  - D_Min
+  - ADHD
+  - adult
+  - elderly
+citekey: nadeauStillDistractedAll2022
+status: unread
+dateread:
+publish: true
 ---
-
 
 > [!Cite]
 > Nadeau, Kathleen G. _Still Distracted After All These Years: Help and Support for Older Adults With Adhd_. First edition. New York: Hachette Go, 2022.
@@ -327,6 +335,6 @@ The first step, and sometimes the most difficult step, is to accept that you nee
 - Clergy support is hard enough….ADHD on top of that?!
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
-
+%% end annotations %%

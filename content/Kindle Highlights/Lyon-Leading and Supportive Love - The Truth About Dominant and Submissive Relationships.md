@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.054-05:00","modified":"2025-08-22T12:36:56.054-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "20921"
+  title: Leading and Supportive Love - The Truth About Dominant and Submissive Relationships
+  author: Chris M. Lyon
+  asin: B009SZ2OPW
+  lastAnnotatedDate: 2025-01-03
+  bookImageUrl: https://m.media-amazon.com/images/I/41IkFbHjJNL._SY160.jpg
+  highlightsCount: 114
+publish: true
 ---
-
 # Leading and Supportive Love - The Truth About Dominant and Submissive Relationships
 ## Metadata
 * Author: [Chris M. Lyon](https://www.amazon.comundefined)

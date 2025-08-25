@@ -1,7 +1,16 @@
 ---
-{"publish":true,"aliases":" What is ICF? – ICF Education Portal","created":"2025-08-22T13:38:58.496-05:00","modified":"2025-08-22T13:38:58.496-05:00","tags":["D_Min","ICF","NTS","World_Health_Organization"],"cssclasses":""}
+category: literaturenote
+tags:
+  - D_Min
+  - ICF
+  - NTS
+  - World_Health_Organization
+citekey: WhatICFICF
+status: unread
+dateread:
+alias: What is ICF? – ICF Education Portal
+publish: true
 ---
-
 
 > [!Cite]
 > “What Is ICF? – ICF Education Portal.” Accessed May 9, 2024. [https://icfeducation.org/about/what-is-icf/](https://icfeducation.org/about/what-is-icf/).
@@ -33,10 +42,10 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2024-05-09T00:52:28.736-05:00 %%

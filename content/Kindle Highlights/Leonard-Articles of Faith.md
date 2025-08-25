@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.051-05:00","modified":"2025-08-22T12:36:56.051-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "29054"
+  title: Articles of Faith
+  author: Gay Leonard
+  asin: B00FRIH3GO
+  lastAnnotatedDate: 2019-01-31
+  bookImageUrl: https://m.media-amazon.com/images/I/71X1yvuR-WL._SY160.jpg
+  highlightsCount: 65
+publish: true
 ---
-
 # Articles of Faith
 ## Metadata
 * Author: [Gay Leonard](https://www.amazon.comundefined)

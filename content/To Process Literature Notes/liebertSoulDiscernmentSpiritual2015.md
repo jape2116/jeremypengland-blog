@@ -1,7 +1,23 @@
 ---
-{"publish":true,"aliases":"The Soul of Discernment: A Spiritual Practice for Communities and Institutions","created":"2025-08-22T13:38:01.733-05:00","modified":"2025-08-22T13:38:01.733-05:00","tags":["NTS","religious","Christianity","spiritual","formation","D_Min","decision_making","discernment","theology","community"],"cssclasses":""}
+category: literaturenote
+tags:
+  - NTS
+  - religious
+  - Christianity
+  - spiritual
+  - formation
+  - D_Min
+  - decision_making
+  - discernment
+  - theology
+  - community
+citekey: liebertSoulDiscernmentSpiritual2015
+status: unread
+dateread:
+aliases:
+  - "The Soul of Discernment: A Spiritual Practice for Communities and Institutions"
+publish: true
 ---
-
 
 > [!Cite]
 > Liebert, Elizabeth. _The Soul of Discernment: A Spiritual Practice for Communities and Institutions_. First edition. Louisville, Kentucky: Westminster John Knox Press, 2015.
@@ -444,10 +460,10 @@ For example, are you paralyzed with the fear, or is there a quiet courage and se
 Her body tensed up. “This isn’t going to be easy,” she thought, “simple, but not easy.” Yet the more she sat with the statement, “If you speak them, they are no longer unspoken,” the more she knew she had the action to which she was being called.
 
   --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-04-17T14:14:12.358-05:00 %%

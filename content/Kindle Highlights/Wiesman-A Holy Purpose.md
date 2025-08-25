@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.086-05:00","modified":"2025-08-22T12:36:56.086-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "37394"
+  title: "A Holy Purpose: Five Strategies for Making Christlike Disciples"
+  author: Bill Wiesman
+  asin: B004O6MT3C
+  lastAnnotatedDate: 2017-09-12
+  bookImageUrl: https://m.media-amazon.com/images/I/41Uwt-E7tQL._SY160.jpg
+  highlightsCount: 69
+publish: true
 ---
-
 # A Holy Purpose
 ## Metadata
 * Author: [Bill Wiesman](https://www.amazon.comundefined)

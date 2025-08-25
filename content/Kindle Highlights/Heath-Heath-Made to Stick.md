@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:56.041-05:00","modified":"2025-08-22T12:36:56.041-05:00","cssclasses":""}
+kindle-sync:
+  bookId: "60453"
+  title: "Made to Stick: Why Some Ideas Survive and Others Die"
+  author: Chip Heath and Dan Heath
+  asin: B000N2HCKQ
+  lastAnnotatedDate: 2016-10-24
+  bookImageUrl: https://m.media-amazon.com/images/I/81+waUUm1+L._SY160.jpg
+  highlightsCount: 20
+publish: true
 ---
-
 # Made to Stick
 ## Metadata
 * Author: [Chip Heath and Dan Heath](https://www.amazon.comundefined)

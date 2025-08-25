@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-31T12:07:42.715-05:00","modified":"2025-08-22T12:36:55.989-05:00","cssclasses":""}
+publish: true
 ---
-
  It took until 2008 for the credentialing body of theological education ([[Association for Theological Schools]]) to put out a statement that its schools should strive for more [[inclusion]] regarding [[disability]]. It's wild that they needed to put out a statement (but not surprising). It's also not surprising that it took until 2008 to do so.
 
 ---
@@ -15,7 +14,7 @@
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/annandalenaomihDisabilityTheologicalEducation2014]]
+**Link to original note:** [[annandalenaomihDisabilityTheologicalEducation2014]]
 **Go to annotation:** 
 
 [^13]: Bonnie j. Miller-McLemore, "Practical Theology and Pedagogy: Embodying Theological Know-How," in For Life Abundant: Practical Theology, Theological Education, and Christian Ministry, eds. Dorothy c. Bass and Craig Dykstra (Grand Rapids, MI: Eerdmans, 2008), 170-94.

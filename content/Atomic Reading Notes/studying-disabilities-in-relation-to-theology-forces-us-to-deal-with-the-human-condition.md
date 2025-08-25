@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2023-10-31T12:07:42.681-05:00","modified":"2025-08-22T12:36:56.005-05:00","cssclasses":""}
+publish: true
 ---
-
 Addressing [[disability]] shatters the cultural ideals of being perfect, stoic, and the lack of a struggle. Disabilities forces people to deal with the and address the [[human condition]] no matter who is experiencing it.
 
 ---
@@ -14,5 +13,5 @@ Addressing [[disability]] shatters the cultural ideals of being perfect, stoic, 
 
 ---
 
-**Link to original note:** [[To Process Literature Notes/annandalenaomihDisabilityTheologicalEducation2014]]
+**Link to original note:** [[annandalenaomihDisabilityTheologicalEducation2014]]
 **Go to annotation:** 

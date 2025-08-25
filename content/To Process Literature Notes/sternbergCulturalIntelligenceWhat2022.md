@@ -1,7 +1,18 @@
 ---
-{"publish":true,"aliases":"Cultural Intelligence: What Is It and How Can It Effectively Be Measured?","created":"2025-08-22T13:29:06.259-05:00","modified":"2025-08-22T13:29:06.259-05:00","tags":["NTS","to_read","D_Min","cultural_intelligence","psychology"],"cssclasses":""}
+category: literaturenote
+tags:
+  - NTS
+  - to_read
+  - D_Min
+  - cultural_intelligence
+  - psychology
+citekey: sternbergCulturalIntelligenceWhat2022
+status: unread
+dateread:
+aliases:
+  - "Cultural Intelligence: What Is It and How Can It Effectively Be Measured?"
+publish: true
 ---
-
 
 > [!Cite]
 > Sternberg, Robert J., Ilaria Siriner, Jaime Oh, and Chak Haang Wong. “Cultural Intelligence: What Is It and How Can It Effectively Be Measured?” _Journal of Intelligence_ 10, no. 3 (August 5, 2022): 54. [https://doi.org/10.3390/jintelligence10030054](https://doi.org/10.3390/jintelligence10030054).
@@ -45,7 +56,7 @@
 ## Notes
 
 --- 
-# Annotations
+# Annotations%% begin annotations %%
 
 
 
@@ -109,7 +120,7 @@
 
 
 
+%% end annotations %%
 
 
-
-
+%% Import Date: 2025-02-28T01:54:36.162-06:00 %%

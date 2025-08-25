@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-08-22T12:36:55.976-05:00","modified":"2025-08-22T12:36:55.976-05:00","cssclasses":""}
+publish: true
 ---
-
 Student's Name: Jeremy England
 
 Advisor's Name: Dr. Amy Jacober
