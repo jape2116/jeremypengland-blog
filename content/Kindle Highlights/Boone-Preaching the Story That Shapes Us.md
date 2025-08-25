@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "20220"
-  title: Preaching the Story That Shapes Us
-  author: Dan Boone
-  asin: B00FRKDKM8
-  lastAnnotatedDate: 2015-07-21
-  bookImageUrl: https://m.media-amazon.com/images/I/71fKa2sa8vL._SY160.jpg
-  highlightsCount: 30
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.022-05:00","modified":"2025-08-22T12:36:56.022-05:00","cssclasses":""}
 ---
+
 # Preaching the Story That Shapes Us
 ## Metadata
 * Author: [Dan Boone](https://www.amazon.comundefined)

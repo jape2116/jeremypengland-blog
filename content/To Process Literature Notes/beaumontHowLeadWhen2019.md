@@ -1,13 +1,7 @@
 ---
-category: literaturenote
-tags:
-citekey: beaumontHowLeadWhen2019
-status: unread
-dateread:
-aliases:
-  - "How to Lead When You Don't Know Where You're Going: Leading in a Liminal Season"
-publish: true
+{"publish":true,"aliases":"How to Lead When You Don't Know Where You're Going: Leading in a Liminal Season","created":"2025-08-22T12:36:56.105-05:00","modified":"2025-08-22T12:36:56.105-05:00","cssclasses":""}
 ---
+
 
 > [!Cite]
 > Beaumont, Susan. _How to Lead When You Don’t Know Where You’re Going: Leading in a Liminal Season_. 1st ed. Blue Ridge Summit: Rowman & Littlefield Publishers, Incorporated, 2019.
@@ -400,10 +394,10 @@ Our effectiveness as leaders is not determined by whether an organization grows 
 Like those early Jews, we need leaders who can stand with people in their liminal state, leaders who can negotiate the noise, offer reassurance and hope, and gently guide the community toward the work that is theirs to do. The work is difficult, but also exciting. We stand on the frontlines, waiting and watching to see what God will do next. We can take comfort and reassurance from these words from Deuteronomy 31: 6, “Be strong and courageous. Do not fear or be in dread of them, for it is the Lord your God who goes with you. God will not leave you or forsake you.”
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2025-04-17T02:24:54.578-05:00 %%
+
+

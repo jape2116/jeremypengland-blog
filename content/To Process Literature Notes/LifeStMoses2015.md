@@ -1,15 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - spiritual_formation
-  - saint
-  - D_Min
-citekey: LifeStMoses2015
-status: unread
-dateread:
-alias: Life of St. Moses the Black
-publish: true
+{"publish":true,"aliases":" Life of St. Moses the Black","created":"2025-08-22T13:15:57.235-05:00","modified":"2025-08-22T13:15:57.235-05:00","tags":["spiritual_formation","saint","D_Min"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Brotherhood of St. Moses the Black. “Life of St. Moses the Black,” September 3, 2015. [https://brotherhoodofstmoses.wordpress.com/resources/life/](https://brotherhoodofstmoses.wordpress.com/resources/life/).
@@ -73,9 +65,9 @@ When St. Moses was 75, he learned the place where he was staying would be overru
 In the end, seven monks stayed with him. St. Moses and six of the monks were killed while one monk hid during the attack. St. Moses died in the year 400 AD.
 
   --- 
-# Annotations%% begin annotations %%
-
-%% end annotations %%
+# Annotations
 
 
-%% Import Date: 2023-10-26T10:59:16.232-05:00 %%
+
+
+

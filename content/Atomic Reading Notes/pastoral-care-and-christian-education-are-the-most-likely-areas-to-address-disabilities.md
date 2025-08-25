@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-31T11:55:09.508-05:00","modified":"2025-08-22T12:36:55.999-05:00","cssclasses":""}
 ---
+
 It's not surprising that the results saw that [[disability]] was addressed most during [[pastoral care]] and education. Both of these instances would be where one would interact with a [[disability]] the most. It is the most hands on place to provide an [[accommodation]]. However it paints a [[disability]] as something to overcome and care for, as opposed to a thing that can be studied or used in understand [[theology]].
 
 
@@ -13,8 +14,8 @@ It's not surprising that the results saw that [[disability]] was addressed most 
  
 ---
 
-**Link to original note:** [[annandalenaomihDisabilityTheologicalEducation2014]]
+**Link to original note:** [[To Process Literature Notes/annandalenaomihDisabilityTheologicalEducation2014]]
 **Go to annotation:** 
 
 
-![[annandalenaomihDisabilityTheologicalEducation2014-14-x55-y222.png]]
+![[Media/Zotero/annandalenaomihDisabilityTheologicalEducation2014/annandalenaomihDisabilityTheologicalEducation2014-14-x55-y222.png]]

@@ -1,21 +1,7 @@
 ---
-category: literaturenote
-tags: 
-- disability
-- NTS
-- D_Min
-- accessibility
-- disabilities
-- process_to_obsidian
-- impairements
-- guide
-- community
-citekey: carterIncludingPeopleDisabilities2007
-status: unread
-dateread:
-alias: "Including People With Disabilities in Faith Communities: A Guide for Service Providers, Families, & Congregations"
-publish: true
+{"publish":true,"aliases":" Including People With Disabilities in Faith Communities: A Guide for Service Providers, Families, & Congregations","created":"2025-08-22T13:27:47.689-05:00","modified":"2025-08-22T13:27:47.689-05:00","tags":["disability","NTS","D_Min","accessibility","disabilities","process_to_obsidian","impairements","guide","community"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Carter, Erik W. _Including People With Disabilities in Faith Communities: A Guide for Service Providers, Families, & Congregations_. Baltimore, Md: Paul H. Brookes Pub. Co, 2007.
@@ -269,10 +255,10 @@ Working together, communities have the ability to completely transform the lands
 This is a very practical book. It blends the theoretical with the practical. It does so in a way that is not overbearing or overwhelming. Small steps can make a big difference. The book is very easy to read, broken into sections and designed in a way that can be understood easily. Many of the steps pertain to religious activities specifically, but can be adapted for many other community based organizations.
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-06T22:52:51.209-05:00 %%
+
+

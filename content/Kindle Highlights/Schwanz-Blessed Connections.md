@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "64627"
-  title: "Blessed Connections: Relationships that Sustain Vital Ministry"
-  author: Judith Schwanz
-  asin: B00K73VIL0
-  lastAnnotatedDate: 2017-04-17
-  bookImageUrl: https://m.media-amazon.com/images/I/918XMDsf45L._SY160.jpg
-  highlightsCount: 124
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.075-05:00","modified":"2025-08-22T12:36:56.075-05:00","cssclasses":""}
 ---
+
 # Blessed Connections
 ## Metadata
 * Author: [Judith Schwanz](https://www.amazon.comundefined)

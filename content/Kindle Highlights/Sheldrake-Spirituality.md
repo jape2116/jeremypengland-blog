@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "24160"
-  title: "Spirituality: A Brief History (Wiley Blackwell Brief Histories of Religion)"
-  author: Philip Sheldrake
-  asin: B00B5YUEV0
-  lastAnnotatedDate: 2024-10-25
-  bookImageUrl: https://m.media-amazon.com/images/I/51LYNr2VeKL._SY160.jpg
-  highlightsCount: 81
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.076-05:00","modified":"2025-08-22T12:36:56.076-05:00","cssclasses":""}
 ---
+
 # Spirituality
 ## Metadata
 * Author: [Philip Sheldrake](https://www.amazon.comundefined)

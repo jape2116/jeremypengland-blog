@@ -1,22 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - D_Min
-  - education
-  - universal_design
-  - inclusive
-  - disability_awareness
-  - diversity_in_the_workplace
-  - employment
-  - people_with_disabilities
-  - ADA
-  - process_to_obsidian
-citekey: payneAmericanChurchAmericans2021
-status: unread
-dateread:
-alias: The American Church and the Americans With Disabilities Act
-publish: true
+{"publish":true,"aliases":" The American Church and the Americans With Disabilities Act","created":"2025-08-22T13:37:07.966-05:00","modified":"2025-08-22T13:37:07.966-05:00","tags":["D_Min","education","universal_design","inclusive","disability_awareness","diversity_in_the_workplace","employment","people_with_disabilities","ADA","process_to_obsidian"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Payne, Johnny. “The American Church and the Americans With Disabilities Act.” _Journal of Religion & Society_ 23 (2021). [https://cdr.creighton.edu/server/api/core/bitstreams/b23248c4-789a-452d-b69b-36638e79ec4f/content](https://cdr.creighton.edu/server/api/core/bitstreams/b23248c4-789a-452d-b69b-36638e79ec4f/content).
@@ -85,7 +70,7 @@ Opinion Piece
 A quick overview of how Churches can adhere to the ADA, and why it’s implementation is a moral imperative for churches as the church has already abdicating legal responsibility.
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -149,7 +134,7 @@ A quick overview of how Churches can adhere to the ADA, and why it’s implement
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-09T13:49:47.192-05:00 %%
+
+

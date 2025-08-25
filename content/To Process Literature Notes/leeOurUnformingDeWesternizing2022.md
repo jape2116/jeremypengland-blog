@@ -1,28 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - biblical_teaching
-  - Christian
-  - education
-  - church_and_minorities
-  - minorities
-  - D_Min
-  - Holiness
-  - hospitality
-  - multiculturalism
-  - NTS
-  - prayer
-  - process_to_obsidian
-  - reconciliation
-  - Christianity
-  - spiritual_formation
-citekey: leeOurUnformingDeWesternizing2022
-status: unread
-dateread:
-aliases:
-  - "Our Unforming: De-Westernizing Spiritual Formation"
-publish: true
+{"publish":true,"aliases":"Our Unforming: De-Westernizing Spiritual Formation","created":"2025-08-22T13:24:13.608-05:00","modified":"2025-08-22T13:24:13.608-05:00","tags":["biblical_teaching","Christian","education","church_and_minorities","minorities","D_Min","Holiness","hospitality","multiculturalism","NTS","prayer","process_to_obsidian","reconciliation","Christianity","spiritual_formation"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Lee, Cindy S. _Our Unforming: De-Westernizing Spiritual Formation_. Minneapolis: Fortress Press, 2022.
@@ -60,7 +39,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 contemplation. In all my studies and explorations of Christian spirituality, however, it suddenly dawned on me one day that as much as I esteem the many saints and mystics of our faith . . . very few of them look like me. — location: [104](kindle://book?action=open&asin=B09RQ1CKLR&location=104) ^ref-2209
 
@@ -436,7 +415,7 @@ A practice of learning to receive slowly unforms our deeply ingrained self-suffi
 ---
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-07-19T02:33:17.951-05:00 %%
+
+

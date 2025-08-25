@@ -1,22 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - D_Min
-  - philosophy
-  - process_to_obsidian
-  - religious
-  - life
-  - spiritual
-  - direction
-  - Trinity
-  - women
-citekey: guentherHolyListeningArt1992
-status: unread
-dateread:
-aliases:
-  - "Holy Listening: The Art of Spiritual Direction"
-publish: true
+{"publish":true,"aliases":"Holy Listening: The Art of Spiritual Direction","created":"2025-08-22T13:20:39.051-05:00","modified":"2025-08-22T13:20:39.051-05:00","tags":["D_Min","philosophy","process_to_obsidian","religious","life","spiritual","direction","Trinity","women"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Guenther, Margaret. _Holy Listening: The Art of Spiritual Direction_. Cambridge, Mass: Cowley Publications, 1992.
@@ -52,7 +37,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 Yellow highlight | Location: 36
 In some ways, the art of spiritual direction lies in our uncovering the obvious in our lives and in realizing that everyday events are the means by which God tries to reach us.
@@ -532,7 +517,7 @@ Above all, the holy listener is open to anything the directee might bring. She i
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2025-02-04T23:57:35.371-06:00 %%
+
+

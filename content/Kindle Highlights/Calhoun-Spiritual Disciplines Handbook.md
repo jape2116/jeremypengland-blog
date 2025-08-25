@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "64141"
-  title: "Spiritual Disciplines Handbook: Practices That Transform Us (Transforming Resources)"
-  author: Adele Ahlberg Calhoun
-  asin: B001INVRV4
-  lastAnnotatedDate: 2019-04-04
-  bookImageUrl: https://m.media-amazon.com/images/I/81uj9UDCGvL._SY160.jpg
-  highlightsCount: 16
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.024-05:00","modified":"2025-08-22T12:36:56.024-05:00","cssclasses":""}
 ---
+
 # Spiritual Disciplines Handbook
 ## Metadata
 * Author: [Adele Ahlberg Calhoun](https://www.amazon.comundefined)

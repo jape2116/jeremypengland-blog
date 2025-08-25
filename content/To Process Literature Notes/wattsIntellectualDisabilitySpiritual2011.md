@@ -1,17 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - D_Min
-  - disability
-  - read
-  - to_read
-  - spiritual_formation
-citekey: wattsIntellectualDisabilitySpiritual2011
-status: unread
-dateread:
-alias: Intellectual Disability and Spiritual Development
-publish: true
+{"publish":true,"aliases":" Intellectual Disability and Spiritual Development","created":"2025-08-22T13:16:26.651-05:00","modified":"2025-08-22T13:16:26.651-05:00","tags":["D_Min","disability","read","to_read","spiritual_formation"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Watts, Graeme. “Intellectual Disability and Spiritual Development.” _Journal of Intellectual & Developmental Disability_ 36, no. 4 (December 2011): 234–41. [https://doi.org/10.3109/13668250.2011.617731](https://doi.org/10.3109/13668250.2011.617731).
@@ -57,7 +47,7 @@ publish: true
 This paper is about understanding the spiritual capacity of those with intellectual disabilities. The author’s conclusion is that every person has the capacity of having a spiritual awareness and the capacity for growth apart from intelligence. This paper quotes a variety of books in their work.
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -136,7 +126,7 @@ This paper is about understanding the spiritual capacity of those with intellect
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2023-10-29T23:06:34.343-05:00 %%
+
+

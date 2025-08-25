@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "715"
-  title: The West in the World
-  author: Dennis Sherman and Joyce Salisbury
-  asin: B00I51KO0C
-  lastAnnotatedDate: 2018-02-28
-  bookImageUrl: https://m.media-amazon.com/images/I/81gIhSJIAtL._SY160.jpg
-  highlightsCount: 34
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.076-05:00","modified":"2025-08-22T12:36:56.076-05:00","cssclasses":""}
 ---
+
 # The West in the World
 ## Metadata
 * Author: [Dennis Sherman and Joyce Salisbury](https://www.amazon.comundefined)

@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "8026"
-  title: "Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals"
-  author: Michael Hyatt
-  asin: B0741CYBHK
-  lastAnnotatedDate: 2018-08-18
-  bookImageUrl: https://m.media-amazon.com/images/I/81c17M+LufL._SY160.jpg
-  highlightsCount: 11
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.044-05:00","modified":"2025-08-22T12:36:56.044-05:00","cssclasses":""}
 ---
+
 # Your Best Year Ever
 ## Metadata
 * Author: [Michael Hyatt](https://www.amazon.comundefined)

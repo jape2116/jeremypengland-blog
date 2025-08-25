@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "54736"
-  title: "Turn the Ship Around!: A True Story of Turning Followers into Leaders"
-  author: L. David Marquet and Stephen R. Covey
-  asin: B00AFPVP0Y
-  lastAnnotatedDate: 2018-08-28
-  bookImageUrl: https://m.media-amazon.com/images/I/91Fansb3WrL._SY160.jpg
-  highlightsCount: 79
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.059-05:00","modified":"2025-08-22T12:36:56.059-05:00","cssclasses":""}
 ---
+
 # Turn the Ship Around!
 ## Metadata
 * Author: [L. David Marquet and Stephen R. Covey](https://www.amazon.comundefined)

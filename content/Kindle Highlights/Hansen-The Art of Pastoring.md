@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "24978"
-  title: "The Art of Pastoring: Ministry Without All the Answers"
-  author: David Hansen
-  asin: B00APKGLTE
-  lastAnnotatedDate: 2016-10-24
-  bookImageUrl: https://m.media-amazon.com/images/I/81Gn3NDVlhL._SY160.jpg
-  highlightsCount: 105
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.040-05:00","modified":"2025-08-22T12:36:56.040-05:00","cssclasses":""}
 ---
+
 # The Art of Pastoring
 ## Metadata
 * Author: [David Hansen](https://www.amazon.comundefined)

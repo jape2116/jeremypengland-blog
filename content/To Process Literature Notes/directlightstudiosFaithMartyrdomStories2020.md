@@ -1,16 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - spiritual
-  - formation
-  - D_Min
-  - NTS
-  - martyrdom
-citekey: directlightstudiosFaithMartyrdomStories2020
-status: unread
-dateread:
-publish: true
+{"publish":true,"created":"2025-08-22T13:20:52.544-05:00","modified":"2025-08-22T13:20:52.544-05:00","tags":["spiritual","formation","D_Min","NTS","martyrdom"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > _Faith and Martyrdom: Stories from New France and East Asia | Feature Documentary (v4.3)(Salt and Light Render)_, 2020. [https://vimeo.com/428097457](https://vimeo.com/428097457).
@@ -53,8 +44,8 @@ publish: true
 - Martyrdom is to witness, not necessarily to die. If you die, then you die in witness, not simply to die..
 
 
-# Annotations%% begin annotations %%
+# Annotations
 
-%% end annotations %%
 
-%% Import Date: 2023-09-26T23:15:02.762-05:00 %%
+
+

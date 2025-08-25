@@ -1,18 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - Church
-  - Catholic
-  - ADHD
-  - process_to_obsidian
-  - holiness
-citekey: heyCatholicismADHDFinding2019
-status: read
-dateread:
-aliases:
-  - Catholicism and ADHD Finding Holiness Despite Distractions
-publish: true
+{"publish":true,"aliases":"Catholicism and ADHD Finding Holiness Despite Distractions","created":"2025-08-22T12:36:56.164-05:00","modified":"2025-08-22T12:36:56.164-05:00","tags":["Church","Catholic","ADHD","process_to_obsidian","holiness"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Hey, Alex. _Catholicism and ADHD: Finding Holiness Despite Distractions_. Reset ADHD, LLC, 2019.
@@ -306,10 +295,10 @@ Bush, G., Frazier, J. A., Rauch, S. L., Seidman, L. J., Whalen, P. J., Jenike, M
 Dodson, W. (2018, April 03). How ADHD Ignites Rejection Sensitive Dysphoria.Retrieved May 23, 2018, from https://www.additudemag.com/rejection-sensitive-dysphoria-how-to-treat-it-alongside-adhd/
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2023-12-06T02:01:11.120-06:00 %%
+
+

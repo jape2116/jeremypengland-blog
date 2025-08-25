@@ -1,14 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - D-Min
-  - physical_disability
-  - disability
-citekey: brennanAttitudesAbleBodiedPeople2013
-status: read
-dateread:
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.090-05:00","modified":"2025-08-22T12:36:56.090-05:00","tags":["D-Min","physical_disability","disability"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Brennan, James R, and Debra Rutledge. “Attitudes of Able-Bodied People Toward Clergy with Impairments: A Photo Elicitation.” _Journal of Religion, Disability & Health_ 17, no. 2 (2013): 77–90. [https://doi.org/10.1080/15228967.2013.780829](https://doi.org/10.1080/15228967.2013.780829).
@@ -52,23 +45,23 @@ This was a small study done asking church members their feelings when being pres
 ># Annotations  
 (10/12/2023, 3:20:22 PM)
 
-[[treating-disabled-people-gives-insight-to-our-theology]]
+[[Atomic Reading Notes/treating-disabled-people-gives-insight-to-our-theology]]
 
-[[visible-disabilities-are-easier-to-react-to]]
+[[Atomic Reading Notes/visible-disabilities-are-easier-to-react-to]]
 
-[[mental-disabilities-are-easier-to-hide-and-pray-away]]
+[[Atomic Reading Notes/mental-disabilities-are-easier-to-hide-and-pray-away]]
 
-[[mutual-submission-between-lay-people-and-disabled-clergy-is-beautiful]]
+[[Atomic Reading Notes/mutual-submission-between-lay-people-and-disabled-clergy-is-beautiful]]
 
-[[people-with-disabilities-must-go-above-and-beyond-normal-expectations]]
+[[Atomic Reading Notes/people-with-disabilities-must-go-above-and-beyond-normal-expectations]]
 
-[[people-with-disabilites-are-not-mascots]]
-
-
-# Annotations%% begin annotations %%
+[[Atomic Reading Notes/people-with-disabilites-are-not-mascots]]
 
 
+# Annotations
 
-%% end annotations %%
 
-%% Import Date: 2023-10-13T11:34:52.404-05:00 %%
+
+
+
+

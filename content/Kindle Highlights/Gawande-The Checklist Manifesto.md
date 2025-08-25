@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "16137"
-  title: "The Checklist Manifesto: How to Get Things Right"
-  author: Atul Gawande
-  asin: B0030V0PEW
-  lastAnnotatedDate: 2019-05-14
-  bookImageUrl: https://m.media-amazon.com/images/I/71tN3TTVN0L._SY160.jpg
-  highlightsCount: 64
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.035-05:00","modified":"2025-08-22T12:36:56.035-05:00","cssclasses":""}
 ---
+
 # The Checklist Manifesto
 ## Metadata
 * Author: [Atul Gawande](https://www.amazon.comundefined)

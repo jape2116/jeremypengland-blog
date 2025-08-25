@@ -1,20 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - D.Min.
-  - ADHD
-  - Attention-deficit
-  - disorder
-  - in
-  - adults
-  - process_to_obsidian
-citekey: barkleyTakingChargeAdult2022
-status: unread
-dateread:
-aliases:
-  - "Taking Charge of Adult Adhd: Proven Strategies to Succeed at Work, at Home, and in Relationships"
-publish: true
+{"publish":true,"aliases":"Taking Charge of Adult Adhd: Proven Strategies to Succeed at Work, at Home, and in Relationships","created":"2025-08-22T12:36:56.102-05:00","modified":"2025-08-22T12:36:56.102-05:00","tags":["D.Min.","ADHD","Attention-deficit","disorder","in","adults","process_to_obsidian"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Barkley, Russell A. _Taking Charge of Adult Adhd: Proven Strategies to Succeed at Work, at Home, and in Relationships_. Second edition. New York: The Guilford Press, 2022. Kindle.
@@ -1135,10 +1122,10 @@ Like alcohol, marijuana is consumed in much greater quantities over the lifetime
 **Highlight (yellow)**  location: 5365
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2023-12-06T02:04:02.132-06:00 %%
+
+

@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "37249"
-  title: "How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers"
-  author: Sönke Ahrens
-  asin: B06WVYW33Y
-  lastAnnotatedDate: 2020-11-28
-  bookImageUrl: https://m.media-amazon.com/images/I/81A0MWyFUeL._SY160.jpg
-  highlightsCount: 60
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.015-05:00","modified":"2025-08-22T12:36:56.015-05:00","cssclasses":""}
 ---
+
 # How to Take Smart Notes
 ## Metadata
 * Author: [Sönke Ahrens](https://www.amazon.comundefined)

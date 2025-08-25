@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "11093"
-  title: "Wholeness in Christ: Toward a Biblical Theology of Holiness"
-  author: William M. Greathouse
-  asin: B004LGTP46
-  lastAnnotatedDate: 2018-05-28
-  bookImageUrl: https://m.media-amazon.com/images/I/51MnrcfJhdL._SY160.jpg
-  highlightsCount: 167
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.037-05:00","modified":"2025-08-22T12:36:56.037-05:00","cssclasses":""}
 ---
+
 # Wholeness in Christ
 ## Metadata
 * Author: [William M. Greathouse](https://www.amazon.comundefined)

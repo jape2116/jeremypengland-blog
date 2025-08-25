@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "12499"
-  title: The 12 Essential Skills for Great Preaching - Second Edition
-  author: Wayne McDill
-  asin: B003WEA4ZC
-  lastAnnotatedDate: 2015-06-09
-  bookImageUrl: https://m.media-amazon.com/images/I/51rKqm3FxwL._SY160.jpg
-  highlightsCount: 143
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.060-05:00","modified":"2025-08-22T12:36:56.060-05:00","cssclasses":""}
 ---
+
 # The 12 Essential Skills for Great Preaching - Second Edition
 ## Metadata
 * Author: [Wayne McDill](https://www.amazon.comundefined)

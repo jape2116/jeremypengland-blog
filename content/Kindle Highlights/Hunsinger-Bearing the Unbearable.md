@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "16376"
-  title: "Bearing the Unbearable: Trauma, Gospel, and Pastoral Care"
-  author: Deborah van Deusen Hunsinger
-  asin: B00Y0SSMNK
-  lastAnnotatedDate: 2016-10-24
-  bookImageUrl: https://m.media-amazon.com/images/I/91SdvYQxQkL._SY160.jpg
-  highlightsCount: 100
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.043-05:00","modified":"2025-08-22T12:36:56.043-05:00","cssclasses":""}
 ---
+
 # Bearing the Unbearable
 ## Metadata
 * Author: [Deborah van Deusen Hunsinger](https://www.amazon.comundefined)

@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "64718"
-  title: "Church Unique: How Missional Leaders Cast Vision, Capture Culture, and Create Movement (Jossey-Bass Leadership Network Series Book 35)"
-  author: Will Mancini and Max Lucado
-  asin: B008L03WLK
-  lastAnnotatedDate: 2016-02-24
-  bookImageUrl: https://m.media-amazon.com/images/I/51EkllCLugL._SY160.jpg
-  highlightsCount: 163
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.058-05:00","modified":"2025-08-22T12:36:56.058-05:00","cssclasses":""}
 ---
+
 # Church Unique
 ## Metadata
 * Author: [Will Mancini and Max Lucado](https://www.amazon.comundefined)

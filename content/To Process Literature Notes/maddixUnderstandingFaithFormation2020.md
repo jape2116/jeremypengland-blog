@@ -1,23 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - Biblical
-  - teaching
-  - D_Min
-  - Holiness
-  - Hospitality
-  - NTS
-  - prayer
-  - process_to_obsidian
-  - Reconciliation
-  - Spiritual_formation
-citekey: maddixUnderstandingFaithFormation2020
-status: unread
-dateread:
-aliases:
-  - "Understanding Faith Formation: Theological, Congregational, and Global Dimensions"
-publish: true
+{"publish":true,"aliases":"Understanding Faith Formation: Theological, Congregational, and Global Dimensions","created":"2025-08-22T13:24:52.222-05:00","modified":"2025-08-22T13:24:52.222-05:00","tags":["Biblical","teaching","D_Min","Holiness","Hospitality","NTS","prayer","process_to_obsidian","Reconciliation","Spiritual_formation"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Maddix, Mark A., Jonathan H. Kim, and James Riley Estep. _Understanding Faith Formation: Theological, Congregational, and Global Dimensions_. Grand Rapids, Michigan: Baker Academic, a division of Baker Publishing Group, 2020.
@@ -57,10 +41,10 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-07-19T02:34:14.606-05:00 %%
+
+

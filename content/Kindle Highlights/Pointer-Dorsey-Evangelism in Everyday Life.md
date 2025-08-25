@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "26431"
-  title: "Evangelism in Everyday Life: Sharing and Shaping Your Faith"
-  author: Lyle Pointer and Jim Dorsey
-  asin: B00NU30KFY
-  lastAnnotatedDate: 2023-07-22
-  bookImageUrl: https://m.media-amazon.com/images/I/61syUjVxH3L._SY160.jpg
-  highlightsCount: 4
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.070-05:00","modified":"2025-08-22T12:36:56.070-05:00","cssclasses":""}
 ---
+
 # Evangelism in Everyday Life
 ## Metadata
 * Author: [Lyle Pointer and Jim Dorsey](https://www.amazon.comundefined)

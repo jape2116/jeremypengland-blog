@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "30128"
-  title: "Recovering the Full Mission of God: A Biblical Perspective on Being, Doing and Telling"
-  author: Dean Flemming
-  asin: B00G6W5F9C
-  lastAnnotatedDate: 2016-11-01
-  bookImageUrl: https://m.media-amazon.com/images/I/81--svJHNKL._SY160.jpg
-  highlightsCount: 378
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.032-05:00","modified":"2025-08-22T12:36:56.032-05:00","cssclasses":""}
 ---
+
 # Recovering the Full Mission of God
 ## Metadata
 * Author: [Dean Flemming](https://www.amazon.comundefined)

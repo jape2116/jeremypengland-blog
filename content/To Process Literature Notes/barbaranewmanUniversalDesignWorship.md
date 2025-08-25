@@ -1,18 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - disability
-  - NTS
-  - D_Min
-  - accessibility
-  - univesal_design
-  - process_to_obsidian
-citekey: barbaranewmanUniversalDesignWorship
-status: unread
-dateread:
-alias: Universal Design in Worship
-publish: true
+{"publish":true,"aliases":" Universal Design in Worship","created":"2025-08-22T13:39:48.458-05:00","modified":"2025-08-22T13:39:48.458-05:00","tags":["disability","NTS","D_Min","accessibility","univesal_design","process_to_obsidian"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Barbara Newman. “Universal Design in Worship.” Reformed Worship. Accessed February 27, 2024. [https://www.reformedworship.org/article/september-2016/universal-design-worship](https://www.reformedworship.org/article/september-2016/universal-design-worship).
@@ -53,7 +42,7 @@ publish: true
 A good think piece about different perspectives of both someone without disability on their mind and from the perspective of each person. Finally a solution for each point of conflict is offered. Most of them are very simple.
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -67,7 +56,7 @@ A good think piece about different perspectives of both someone without disabili
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-06T22:12:33.295-05:00 %%
+
+

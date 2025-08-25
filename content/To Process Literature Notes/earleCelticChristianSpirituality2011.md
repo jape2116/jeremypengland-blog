@@ -1,17 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - celtic
-  - spirituality
-  - Holiness
-  - prayer
-citekey: earleCelticChristianSpirituality2011
-status: read
-dateread: 6/17/25
-aliases:
-  - "Celtic Christian Spirituality: Essential Writings-- Annotated and Explained"
-publish: true
+{"publish":true,"aliases":"Celtic Christian Spirituality: Essential Writings-- Annotated and Explained","created":"2025-08-22T12:36:56.124-05:00","modified":"2025-08-22T12:36:56.124-05:00","tags":["celtic","spirituality","Holiness","prayer"],"cssclasses":""}
 ---
+
  
 > [!Cite]
 > Earle, Mary C. _Celtic Christian Spirituality: Essential Writings-- Annotated and Explained_. 2011 quality pbk. ed. Woodstock, Vt.: SkyLight Paths Pub., 2011.
@@ -47,7 +37,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 ## Highlights
 We find ourselves challenged to handle the creation with a growing awareness of its Source. We discover that no people, no nation, no religion has the final say on distribution of resources and goods, for an infinitely gracious God desires that we emulate God’s own generosity.  ^ref-39202
 - Page: 114

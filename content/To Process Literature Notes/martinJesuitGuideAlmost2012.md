@@ -1,13 +1,7 @@
 ---
-category: literaturenote
-tags:
-citekey: martinJesuitGuideAlmost2012
-status: unread
-dateread:
-aliases:
-  - "The Jesuit Guide to (Almost) Everything: A Spirituality for Real Life"
-publish: true
+{"publish":true,"aliases":"The Jesuit Guide to (Almost) Everything: A Spirituality for Real Life","created":"2025-08-22T12:36:56.182-05:00","modified":"2025-08-22T12:36:56.182-05:00","cssclasses":""}
 ---
+
 
 > [!Cite]
 > Martin, James. _The Jesuit Guide to (Almost) Everything: A Spirituality for Real Life_. First HarperCollins paperback edition. New York: HarperOne, 2012.
@@ -45,10 +39,10 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-12-06T23:41:10.891-06:00 %%
+
+

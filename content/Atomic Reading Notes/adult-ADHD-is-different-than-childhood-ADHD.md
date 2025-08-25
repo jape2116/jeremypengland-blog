@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-23T17:50:56.684-05:00","modified":"2025-08-22T12:36:55.983-05:00","cssclasses":""}
 ---
+
 The way [[ADHD]] manifest in adults is different than in kids. Adults have learned skills to deal with, or [[mask]] their symptoms.
 
 ---
@@ -13,5 +14,5 @@ The way [[ADHD]] manifest in adults is different than in kids. Adults have learn
 
 ---
 
-**Link to original note:** [[americanpsychiatricassociationDiagnosticStatisticalManual2022]]
+**Link to original note:** [[To Process Literature Notes/americanpsychiatricassociationDiagnosticStatisticalManual2022]]
 **Go to annotation:** 

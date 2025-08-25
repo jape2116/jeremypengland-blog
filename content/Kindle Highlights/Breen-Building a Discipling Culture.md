@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "29764"
-  title: Building a Discipling Culture
-  author: Mike Breen
-  asin: B005HQDUK4
-  lastAnnotatedDate: 2018-06-23
-  bookImageUrl: https://m.media-amazon.com/images/I/71roMfjDQmL._SY160.jpg
-  highlightsCount: 4
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.023-05:00","modified":"2025-08-22T12:36:56.023-05:00","cssclasses":""}
 ---
+
 # Building a Discipling Culture
 ## Metadata
 * Author: [Mike Breen](https://www.amazon.comundefined)

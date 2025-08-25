@@ -1,15 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - D_Min
-  - spiritual_formation
-  - saint
-citekey: CatholicSaintsInfoBlog
-status: unread
-dateread:
-alias: CatholicSaints.Info » Blog Archive » Saint Moses the Black
-publish: true
+{"publish":true,"aliases":" CatholicSaints.Info » Blog Archive » Saint Moses the Black","created":"2025-08-22T13:17:50.177-05:00","modified":"2025-08-22T13:17:50.177-05:00","tags":["D_Min","spiritual_formation","saint"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > “CatholicSaints.Info » Blog Archive » Saint Moses the Black.” Accessed October 25, 2023. [https://catholicsaints.info/saint-moses-the-black/](https://catholicsaints.info/saint-moses-the-black/).
@@ -56,9 +48,9 @@ publish: true
 ![](https://www.santiebeati.it/immagini/Original/67925/STM34002.JPG)
 
   --- 
-# Annotations%% begin annotations %%
-
-%% end annotations %%
+# Annotations
 
 
-%% Import Date: 2023-10-26T16:31:00.207-05:00 %%
+
+
+

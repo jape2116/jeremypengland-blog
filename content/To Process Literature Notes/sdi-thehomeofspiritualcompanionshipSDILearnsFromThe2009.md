@@ -1,17 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - D_Min
-  - NTS
-  - spiritual_companionship
-  - spiritual_direction
-  - theology
-citekey: sdi-thehomeofspiritualcompanionshipSDILearnsFromThe2009
-status: unread
-dateread:
-alias: SDI Learns From...The Rev Mary Earle
-publish: true
+{"publish":true,"aliases":" SDI Learns From...The Rev Mary Earle","created":"2025-08-22T13:13:49.163-05:00","modified":"2025-08-22T13:13:49.163-05:00","tags":["D_Min","NTS","spiritual_companionship","spiritual_direction","theology"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > _SDI Learns From...The Rev Mary Earle_, 2009. [https://www.youtube.com/watch?v=9zvU2eIjBbM](https://www.youtube.com/watch?v=9zvU2eIjBbM).
@@ -66,10 +56,10 @@ In a way, our American-U. S. ==tendency toward over-stimulation, we're just spir
 
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
 
 
-%% Import Date: 2025-02-14T00:55:12.598-06:00 %%
+
+

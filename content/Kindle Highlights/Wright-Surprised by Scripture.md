@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "49290"
-  title: "Surprised by Scripture: Engaging Contemporary Issues"
-  author: N. T. Wright
-  asin: B00FJ34XZQ
-  lastAnnotatedDate: 2016-11-29
-  bookImageUrl: https://m.media-amazon.com/images/I/71bxcOkFuZL._SY160.jpg
-  highlightsCount: 159
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.089-05:00","modified":"2025-08-22T12:36:56.089-05:00","cssclasses":""}
 ---
+
 # Surprised by Scripture
 ## Metadata
 * Author: [N. T. Wright](https://www.amazon.comundefined)

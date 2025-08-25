@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "32306"
-  title: "Francis de Sales and Jane de Chantal: Saints by Our Side"
-  author: Wendy M. Wright
-  asin: B0CH4D851J
-  lastAnnotatedDate: 2024-11-03
-  bookImageUrl: https://m.media-amazon.com/images/I/81Obs8SVRpL._SY160.jpg
-  highlightsCount: 63
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.088-05:00","modified":"2025-08-22T12:36:56.088-05:00","cssclasses":""}
 ---
+
 # Francis de Sales and Jane de Chantal
 ## Metadata
 * Author: [Wendy M. Wright](https://www.amazon.comundefined)

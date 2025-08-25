@@ -1,7 +1,8 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-23T17:47:59.763-05:00","modified":"2025-08-22T12:36:56.012-05:00","cssclasses":""}
 ---
-Even though [[men-are-more-likely-to-be-diagnosed-than-women]] with [[ADHD]], women make up for it in their diagnosis of comorbid disorders.
+
+Even though [[Atomic Reading Notes/men-are-more-likely-to-be-diagnosed-than-women]] with [[ADHD]], women make up for it in their diagnosis of comorbid disorders.
 
 ---
 
@@ -13,5 +14,5 @@ Even though [[men-are-more-likely-to-be-diagnosed-than-women]] with [[ADHD]], wo
 
 ---
 
-**Link to original note:** [[americanpsychiatricassociationDiagnosticStatisticalManual2022]]
+**Link to original note:** [[To Process Literature Notes/americanpsychiatricassociationDiagnosticStatisticalManual2022]]
 **Go to annotation:** 

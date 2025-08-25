@@ -1,7 +1,7 @@
 ---
-word-goal: 4000
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:55.962-05:00","modified":"2025-08-22T12:36:55.962-05:00","cssclasses":""}
 ---
+
 ## Introduction.
 One does not have to look far to find someone who has been diagnosed with a mental disorder. "According to national censuses, more than 56 million US Americans and 4 million Canadians—almost one in every five North American citizens—identify as having a disability."[[@annandalenaomihDisabilityTheologicalEducation2014]]. In the United States alone, approximately 8.8 million adults[[@scheinEconomicBurdenAttentiondeficit2022, 4]] and 6 million children [[@cdcDataStatisticsADHD2022]] have been diagnosed with ADHD, making it the most prevalent diagnosed mental disorder.  
 In addition to the rise of ADHD diagnoses, "having ADHD" has become a colloquialism for a lapse in memory, attention difficulties, or a surge of excess energy. While it is true that most people will experience days or moments in which they are forgetful, extra clumsy, hyper, or any other symptom associated with ADHD, those moments do not often rise to the level of a disorder. A disorder is a condition that affects the life of a person that is atypical from that person's peers in daily work, life, or social situations. Those with ADHD will often need extra accommodations in areas of school and work and will also need to receive extra grace in their relationships with other people that extend beyond a singular moment or day. And while those limitations and struggles are evident in the life of someone with ADHD, they are not the entirety of a person.

@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "43830"
-  title: "Emboldened: A Vision for Empowering Women in Ministry"
-  author: Tara Beth Leach and Scot McKnight
-  asin: B0773NRFMT
-  lastAnnotatedDate: 2019-10-09
-  bookImageUrl: https://m.media-amazon.com/images/I/818OSMpCugL._SY160.jpg
-  highlightsCount: 116
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.047-05:00","modified":"2025-08-22T12:36:56.047-05:00","cssclasses":""}
 ---
+
 # Emboldened
 ## Metadata
 * Author: [Tara Beth Leach and Scot McKnight](https://www.amazon.comundefined)

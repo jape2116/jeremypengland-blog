@@ -1,17 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - D_Min 
-  - disability
-  - disability_awareness
-  - NTS
-  - process_to_obsidian
-citekey: NewDevelopmentAgenda2013
-status: unread
-dateread:
-alias: New development agenda must be disability-inclusive – UN high-level meeting | UN News
-publish: true
+{"publish":true,"aliases":" New development agenda must be disability-inclusive – UN high-level meeting | UN News","created":"2025-08-22T13:10:20.387-05:00","modified":"2025-08-22T13:10:20.387-05:00","tags":["D_Min","disability","disability_awareness","NTS","process_to_obsidian"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > “New Development Agenda Must Be Disability-Inclusive – UN High-Level Meeting | UN News,” September 23, 2013. [https://news.un.org/en/story/2013/09/449782](https://news.un.org/en/story/2013/09/449782).
@@ -46,7 +36,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
@@ -60,7 +50,7 @@ publish: true
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-05-07T22:20:01.515-05:00 %%
+
+

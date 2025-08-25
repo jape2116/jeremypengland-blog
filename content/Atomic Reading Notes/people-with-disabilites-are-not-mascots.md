@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2023-10-31T12:07:42.665-05:00","modified":"2025-08-22T12:36:56.000-05:00","cssclasses":""}
 ---
+
 Are people with [[disability]] viewed as special because they are uniquely special, or it because because they are propped up as a mascot?
 
 ---
@@ -13,5 +14,5 @@ Are people with [[disability]] viewed as special because they are uniquely speci
 
 ---
 
-**Link to original note:** [[brennanAttitudesAbleBodiedPeople2013]]
+**Link to original note:** [[Processed Literature Notes/brennanAttitudesAbleBodiedPeople2013]]
 **Go to annotation:** [Go to annotation](zotero://open-pdf/groups/5230851/items/KWZSN28E?page=87&annotation=74682TMI) 

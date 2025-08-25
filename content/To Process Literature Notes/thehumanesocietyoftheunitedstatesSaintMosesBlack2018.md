@@ -1,16 +1,7 @@
 ---
-category: literaturenote
-tags: 
-  - D_Min
-  - spiritual_formation
-  - spiritual_life
-  - saint
-citekey: thehumanesocietyoftheunitedstatesSaintMosesBlack2018
-status: unread
-dateread:
-alias: Saint Moses the Black - the Repentant Murderer (The Reliquary)
-publish: true
+{"publish":true,"aliases":" Saint Moses the Black - the Repentant Murderer (The Reliquary)","created":"2025-08-22T13:38:19.147-05:00","modified":"2025-08-22T13:38:19.147-05:00","tags":["D_Min","spiritual_formation","spiritual_life","saint"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > _Saint Moses the Black - the Repentant Murderer (The Reliquary)_, 2018. [https://www.youtube.com/watch?v=r27YPa7bDJA](https://www.youtube.com/watch?v=r27YPa7bDJA).
@@ -89,9 +80,9 @@ St. Moses never stopped growing in holiness
 
 
 --- 
-# Annotations%% begin annotations %%
-
-%% end annotations %%
+# Annotations
 
 
-%% Import Date: 2023-10-25T22:59:53.614-05:00 %%
+
+
+

@@ -13,6 +13,7 @@ alias: SDI Learns From...Cynthia Baga
 publish: true
 ---
 
+
 > [!Cite]
 > _SDI Learns From...Cynthia Baga_, 2010. [https://www.youtube.com/watch?v=uXvxiaiRW4Q](https://www.youtube.com/watch?v=uXvxiaiRW4Q).
 
@@ -79,11 +80,11 @@ So even my helper of 20 years, she's telling me recently, you know, she's like, 
 
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
  
 
 
-%% end annotations %%
 
 
-%% Import Date: 2025-02-13T14:17:49.322-06:00 %%
+
+

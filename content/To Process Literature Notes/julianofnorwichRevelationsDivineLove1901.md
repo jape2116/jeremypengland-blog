@@ -1,15 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - prayer
-  - D_Min
-  - NTS
-  - mysticism
-citekey: julianofnorwichRevelationsDivineLove1901
-status: process
-dateread: 9/20/2023
-publish: true
+{"publish":true,"created":"2025-08-22T13:28:05.447-05:00","modified":"2025-08-22T13:28:05.447-05:00","tags":["prayer","D_Min","NTS","mysticism"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Julian of Norwich. _Revelations of Divine Love_. Edited by Grace Warrack. A version from the MS. In the British Museum. 36 Essex Street Strand London: Methuen & Company, 1901. [https://www.gutenberg.org/ebooks/52958](https://www.gutenberg.org/ebooks/52958).
@@ -242,10 +234,10 @@ publish: true
    * Though we may find ourselves in a life or location that is not comforting or good, we know Christ is with us, and there is rejoicing in that fact alone..
 
 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 
-%% end annotations %%
 
-%% Import Date: 2023-09-26T00:50:23.295-05:00 %%
+
+

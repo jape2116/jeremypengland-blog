@@ -1,16 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - ADHD
-  - read
-  - autism
-  - learning_disability
-  - neurodiversity
-citekey: medWhatNeurodiversity2021
-status: unread
-dateread:
-publish: true
+{"publish":true,"created":"2025-08-22T13:21:54.388-05:00","modified":"2025-08-22T13:21:54.388-05:00","tags":["ADHD","read","autism","learning_disability","neurodiversity"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > MEd, Nicole Baumer, MD, and Julia Frueh MD. “What Is Neurodiversity?” Harvard Health, November 23, 2021. [https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645](https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645).
@@ -49,10 +40,10 @@ publish: true
 
 ### Jeremy's review
 
-This is an web article writen by Nicole Baumer MD and Julia Frueh MD discussing what neurodiversity is. It is most important to recognize that neurodiversity is first and foremost a social movement term and not a medical term. It is similar to the [[NeurodivergentWhatIt2022|Cleveland Clinic Webpage]]
+This is an web article writen by Nicole Baumer MD and Julia Frueh MD discussing what neurodiversity is. It is most important to recognize that neurodiversity is first and foremost a social movement term and not a medical term. It is similar to the [[To Process Literature Notes/NeurodivergentWhatIt2022\|Cleveland Clinic Webpage]]
 
   --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 
 ### Imported: 2023-10-22 5:21 pm
@@ -124,7 +115,7 @@ This is an web article writen by Nicole Baumer MD and Julia Frueh MD discussing 
 
 
 
-%% end annotations %%
 
 
-%% Import Date: 2023-10-23T13:09:41.113-05:00 %%
+
+

@@ -1,14 +1,7 @@
 ---
-kindle-sync:
-  bookId: "3095"
-  title: "Understanding Faith Formation: Theological, Congregational, and Global Dimensions"
-  author: Mark A. Maddix, Jonathan H. Kim, and James Riley Jr. Estep
-  asin: B087RS3CWP
-  lastAnnotatedDate: 2024-08-01
-  bookImageUrl: https://m.media-amazon.com/images/I/71QTbZV1x3L._SY160.jpg
-  highlightsCount: 107
-publish: true
+{"publish":true,"created":"2025-08-22T12:36:56.055-05:00","modified":"2025-08-22T12:36:56.055-05:00","cssclasses":""}
 ---
+
 # Understanding Faith Formation
 ## Metadata
 * Author: [Mark A. Maddix, Jonathan H. Kim, and James Riley Jr. Estep](https://www.amazon.comundefined)

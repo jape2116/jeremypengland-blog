@@ -1,19 +1,7 @@
 ---
-category: literaturenote
-tags:
-  - NTS
-  - History
-  - spiritual
-  - formation
-  - D_Min
-  - process_to_obsidian
-citekey: sheldrakeSpiritualityBriefHistory2013a
-status: unread
-dateread:
-aliases:
-  - "Spirituality: A Brief History"
-publish: true
+{"publish":true,"aliases":"Spirituality: A Brief History","created":"2025-08-22T13:08:28.654-05:00","modified":"2025-08-22T13:08:28.654-05:00","tags":["NTS","History","spiritual","formation","D_Min","process_to_obsidian"],"cssclasses":""}
 ---
+
 
 > [!Cite]
 > Sheldrake, Philip. _Spirituality: A Brief History_. 2nd ed. Hoboken: John Wiley & Sons, 2013.
@@ -51,7 +39,7 @@ publish: true
 ## Notes
 
 --- 
-# Annotations%% begin annotations %%
+# Annotations
 
 ## Chapter 5 - Spiritualities in the Age of Reformations: 1450-1700
 
@@ -299,7 +287,7 @@ Equally, Bossuet’s sympathy for moderate Jansenist viewpoints ensured that it 
 LOCATION: 3503
 
 
-%% end annotations %%
 
 
-%% Import Date: 2024-10-04T16:41:12.842-05:00 %%
+
+
