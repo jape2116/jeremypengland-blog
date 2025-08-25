@@ -14,7 +14,7 @@ const defaultOptions: Options = {
   bibliographyFile: "./Users/jeremyengland/Zotero/JeremyZoteroBibTex.bib",
   suppressBibliography: false,
   linkCitations: false,
-  csl: "apa",
+  csl: "chicago",
 }
 
 export const Citations: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
