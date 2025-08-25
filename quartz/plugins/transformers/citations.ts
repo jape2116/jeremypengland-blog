@@ -11,7 +11,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  bibliographyFile: "./Users/jeremyengland/Zotero/JeremyZoteroBibTex.bib",
+  bibliographyFile: "./bibliography.bib",
   suppressBibliography: false,
   linkCitations: false,
   csl: "apa",
