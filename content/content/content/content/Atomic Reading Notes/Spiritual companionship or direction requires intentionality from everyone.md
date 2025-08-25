@@ -1,8 +1,0 @@
----
-publish: true
----
-Prayer and spiritual companionship/direction is an intentional journey. It is similar to connecting with a friend that you don't see everyday. Picking up a phone, writing a text, sending an email, all take a concentrated effort to make happen. 
-## Source
-> You're a laywoman, because there in the Philippines, you know, you associate spirituality with the priests or with the sisters. But what does a laywoman like you do with spiritual direction? ==So I always just say, you know, it's like giving, making, celebrating space and time to be with a very primary relationship.== And what does that mean? Who is our primary relationship? Our creator, our God. And why do I say giving, making, celebrating? Because it has to be deliberate. It's like, it's like, yeah, we're friends, but I've got to call you every now and then on the phone. How are you? This is, you know, I've been thinking about you. And I remember what we did.And this has enriched me again today, because of the times we spent together, you know, things like that. ==So it's a deliberate celebration, space, and time with this very important relationship.==[^1]
-
-[^1]: [[sdi-thehomeofspiritualcompanionshipSDILearnsFromCynthia2010]]

@@ -1,4 +1,0 @@
----
-publish: true
----
-Creative Director for [[Spiritual Direction International|SDI]]
