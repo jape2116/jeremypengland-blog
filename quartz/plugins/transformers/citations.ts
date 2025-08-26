@@ -14,7 +14,7 @@ const defaultOptions: Options = {
   bibliographyFile: "/2025-08-25-ZoteroLibraryExportSync.bib",
   suppressBibliography: false,
   linkCitations: false,
-  csl: chicago,
+  csl: "chicago",
 }
 
 export const Citations: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
