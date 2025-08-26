@@ -14,7 +14,7 @@ const defaultOptions: Options = {
   bibliographyFile: "/2025-08-25-ZoteroLibraryExportSync.bib",
   suppressBibliography: false,
   linkCitations: false,
-  csl: "https://github.com/jape2116/jeremypengland-blog/blob/v4/chicago-notes-bibliography-subsequent-author-title-17th-edition.csl",
+  csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography.csl",
 }
 
 export const Citations: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
